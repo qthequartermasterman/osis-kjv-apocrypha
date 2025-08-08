@@ -39,7 +39,6 @@ async def scrape_chapter(
     client: httpx.AsyncClient,
     book_uri_template: str,
     chapter_number: int,
-    book_name: str,
     book_osis_id: str,
 ) -> pyosis.ChapterCt:
     verse_elements: list[pyosis.VerseCt] = []
