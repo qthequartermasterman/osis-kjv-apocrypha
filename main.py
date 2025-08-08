@@ -31,16 +31,6 @@ BOOK_NAMES_TO_OSIS_ID = {
 }
 
 
-# async def get_books(client: httpx.AsyncClient) -> dict[str, str]:
-#     response = await client.get(BASE_APOCRYPHA_PAGE)
-#     print(response.text)
-#     soup = bs4.BeautifulSoup(response.text)
-
-#     links = soup.select(".column a")
-#     hrefs = {link.text: str(link["href"]) for link in links}
-#     return hrefs
-
-
 def book_name_to_uri_template(book_name: str) -> str:
     return "-".join(book_name.split()) + "-Chapter-{chapter_num}"
 
