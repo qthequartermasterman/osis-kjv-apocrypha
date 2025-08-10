@@ -1,111 +1,127 @@
 from typing import Final
 import asyncio
 
-from playwright.async_api._generated import Browser, Page
 import pyosis
+import random
 import pathlib
-from playwright.async_api import async_playwright
-from playwright_stealth import Stealth
+import httpx
 from bs4 import BeautifulSoup
 import datetime
 
-KJV_WEBSITE: Final = "https://www.kingjamesbibleonline.org/"
-BASE_APOCRYPHA_PAGE: Final = "Apocrypha-Books/"
 OUTPUT_DIR = pathlib.Path("osis-documents")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 BOOK_NAMES_TO_OSIS_ID = {
     "1 Esdras": "1Esd",
     "2 Esdras": "2Esd",
-    "Tobit": "Tob",
-    "Judith": "Jdt",
-    "Additions to Esther": "AddEsth",
-    "Wisdom of Solomon": "Wis",
-    "Ecclesiasticus": "Sir",
-    "Baruch": "Bar",
-    "Letter of Jeremiah": "EpJer",
-    "Prayer of Azariah": "PrAzar",
-    "Susanna": "Sus",
-    "Bel and the Dragon": "Bel",
-    "Prayer of Manasseh": "PrMan",
     "1 Maccabees": "1Macc",
     "2 Maccabees": "2Macc",
-    # # "3 Maccabees": "3Macc",
-    # # "4 Maccabees": "4Macc",
+    "3 Maccabees": "3Macc",
+    "4 Maccabees": "4Macc",
+    "Letter of Jeremiah": "EpJer",
+    "Prayer of Azariah": "PrAzar",
+    "Baruch": "Bar",
+    "Prayer of Manasseh": "PrMan",
+    "Bel and the Dragon": "Bel",
+    "Ecclesiasticus (Wisdom of Sirach)": "Sir",
+    "Wisdom of Solomon": "Wis",
+    "Additions to Esther": "AddEsth",
+    "Tobit": "Tob",
+    "Judith": "Jdt",
+    "Susanna": "Sus",
+    "Psalm 151": "AddPs",
+}
+
+BOOK_NAMES_TO_URL = {
+    "1 Esdras": "https://www.pseudepigrapha.com/apocrypha_ot/1esdr.htm",
+    "2 Esdras": "https://www.pseudepigrapha.com/apocrypha_ot/1macc.htm",
+    "1 Maccabees": "https://www.pseudepigrapha.com/apocrypha_ot/1macc.htm",
+    "2 Maccabees": "https://www.pseudepigrapha.com/apocrypha_ot/2macc.htm",
+    "3 Maccabees": "https://www.pseudepigrapha.com/apocrypha_ot/3macc.htm",
+    "4 Maccabees": "https://www.pseudepigrapha.com/apocrypha_ot/4macc.htm",
+    "Letter of Jeremiah": "https://www.pseudepigrapha.com/apocrypha_ot/letojer.htm",
+    "Prayer of Azariah": "https://www.pseudepigrapha.com/apocrypha_ot/azariah.htm",
+    "Baruch": "https://www.pseudepigrapha.com/apocrypha_ot/baruc.htm",
+    "Prayer of Manasseh": "https://www.pseudepigrapha.com/apocrypha_ot/manas.htm",
+    "Bel and the Dragon": "https://www.pseudepigrapha.com/apocrypha_ot/beldrag.htm",
+    "Ecclesiasticus (Wisdom of Sirach)": "https://www.pseudepigrapha.com/apocrypha_ot/sirac.htm",
+    "Wisdom of Solomon": "https://www.pseudepigrapha.com/apocrypha_ot/wisolom.htm",
+    "Additions to Esther": "https://www.pseudepigrapha.com/apocrypha_ot/esther.htm",
+    "Tobit": "https://www.pseudepigrapha.com/apocrypha_ot/tobit.htm",
+    "Judith": "https://www.pseudepigrapha.com/apocrypha_ot/judith.htm",
+    "Susanna": "https://www.pseudepigrapha.com/apocrypha_ot/susan1.htm",
+    "Psalm 151": "https://www.pseudepigrapha.com/apocrypha_ot/Pslm151.htm"
 }
 
 
-def book_name_to_uri_template(book_name: str) -> str:
-    return "-".join(book_name.split()) + "-Chapter-{chapter_num}"
-
-
-async def scrape_chapter(
-    page: Page,
-    book_uri_template: str,
-    chapter_number: int,
-    book_osis_id: str,
-) -> pyosis.ChapterCt:
-    verse_elements: list[pyosis.VerseCt] = []
-
-    url = KJV_WEBSITE + book_uri_template.format(chapter_num=chapter_number)
-    print(f"Visiting {url=}")
-    response = await page.goto(url)
-    if page.url.rstrip("/") != url.rstrip("/"):
-        print(f"Expected {url}, but got {response.url}")
-        raise ValueError(f"Redirect detected for {url} (actual: {response.url})")
-    # Wait for the verses to load
-    try:
-        await page.wait_for_selector("#div a")
-    except Exception as e:
-        raise Exception(f"No verse found for {url}. {await page.content()}") from e
-    html = await page.content()
-
-    soup = BeautifulSoup(html, "html.parser")
-    verse_links = soup.select("#div a")
-
-    for verse_link in verse_links:
-        verse_span = verse_link.find("span", class_="versehover")
-        verse_number = int(verse_span.text.strip()) if verse_span else None
-        if verse_span:
-            verse_span.extract()
-        verse_text = verse_link.get_text(strip=True)
-        verse_elements.append(
-            pyosis.VerseCt(
-                osis_id=[f"{book_osis_id}.{chapter_number}.{verse_number}"],
-                content=[verse_text],
-                canonical=True,
-            )
-        )
-    chapter = pyosis.ChapterCt(
-        osis_id=[f"{book_osis_id}.{chapter_number}"],
-        content=verse_elements,
-    )
-    print(str(chapter.content)[:140])
-    return chapter
-
-
-async def scrape_book(page: Page, book_name: str, book_osis_id: str) -> pyosis.DivCt:
-    book_uri = book_name_to_uri_template(book_name)
+async def scrape_book(client:httpx.AsyncClient, book_name: str, book_osis_id: str) -> pyosis.DivCt:
+    book_uri = BOOK_NAMES_TO_URL[book_name]
     print(book_name, book_osis_id, book_uri)
     chapters: list[pyosis.ChapterCt] = []
-    chapter_number = 1
-    while True:
-        print(f"Trying {book_name} Chapter {chapter_number}")
-        try:
-            chapter = await scrape_chapter(
-                page,
-                book_uri_template=book_uri,
-                chapter_number=chapter_number,
-                book_osis_id=book_osis_id,
+
+    html = (await client.get(book_uri)).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    for p in soup.find_all(["p"]):
+        p.unwrap()
+
+    chapters: list[pyosis.ChapterCt] = []
+    current_chapter: pyosis.ChapterCt | None = None
+    current_verse: pyosis.VerseCt | None = None
+    verse_text_parts = []
+
+    for elem in soup.find_all(["h3", "b"], recursive=True):
+        if elem.name == "h3":
+            # Start a new chapter
+            if current_verse is not None:
+                assert current_chapter is not None
+                current_chapter.content.append(current_verse)
+                current_verse = None
+            if current_chapter is not None:
+                chapters.append(current_chapter)
+                current_chapter = None
+            *_, chapter_num = elem.get_text().strip().rsplit(".", maxsplit=1)
+            int(chapter_num)
+            current_chapter = pyosis.ChapterCt(
+                osis_id=[f"{book_osis_id}.{chapter_num}"],
+                content=[]
             )
-            await asyncio.sleep(2)
-        except Exception as e:
-            # If navigation fails, assume no more chapters
-            print(f"Got error. Ending book. {e}")
-            break
-        else:
-            chapters.append(chapter)
-            chapter_number += 1
+        elif elem.name == "b" and not elem.find_parent("center"):
+            if current_chapter is None:
+                current_chapter = pyosis.ChapterCt(
+                    osis_id=[f"{book_osis_id}.{1}"],
+                    content=[]
+                )
+            if current_verse is not None:
+                assert current_chapter is not None
+                current_chapter.content.append(current_verse)
+                current_verse = None
+            # Verse number
+            verse_number = elem.get_text(strip=True)
+            # The text immediately after the <b> tag until next <br> or <b>
+            verse_text_parts = []
+            for sibling in elem.next_siblings:
+                if sibling.name in ["b", "h3"]:
+                    break
+                if sibling.name == "br":
+                    continue
+                text = str(sibling).strip()
+                if text:
+                    verse_text_parts.append(BeautifulSoup(text, "html.parser").get_text())
+            verse_text = " ".join(verse_text_parts).strip()
+            verse_text = verse_text.replace("\n", " ").replace("\r","").lstrip("]").rstrip("[").strip()
+            current_verse = pyosis.VerseCt(
+                osis_id=[f"{current_chapter.osis_id[0]}.{verse_number}"],
+                content=[verse_text],
+            )
+
+    if current_verse is not None:
+        assert current_chapter is not None
+        current_chapter.content.append(current_verse)
+        current_verse = None
+    if current_chapter is not None:
+        chapters.append(current_chapter)
+        current_chapter = None
 
     return pyosis.DivCt(
         osis_id=[book_osis_id],
@@ -118,13 +134,10 @@ async def scrape_book(page: Page, book_name: str, book_osis_id: str) -> pyosis.D
 
 
 async def save_book(
-    browser: Browser, book_name: str, book_osis_id: str
+    client: httpx.AsyncClient, book_name: str, book_osis_id: str
 ) -> pyosis.DivCt:
-    page: Page = await browser.new_page(
-        user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-        viewport={"width": 1280, "height": 800},
-    )
-    book = await scrape_book(page, book_name, book_osis_id)
+    await asyncio.sleep(random.random()*3)
+    book = await scrape_book(client, book_name, book_osis_id)
     osis = books_to_osis_xml([book])
     file_name = "_".join(book_name.split()) + ".xml"
     (OUTPUT_DIR / file_name).write_text(osis.to_xml())
@@ -165,7 +178,7 @@ def books_to_osis_xml(books: list[pyosis.DivCt]) -> pyosis.OsisXML:
                             p=[
                                 pyosis.PCt(
                                     content=[
-                                        "Scraped from https://www.kingjamesbibleonline.org/, and converted to OSIS by the"
+                                        f"Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the"
                                         " osis-kjv-apocrypha Python package."
                                     ]
                                 )
@@ -182,17 +195,14 @@ def books_to_osis_xml(books: list[pyosis.DivCt]) -> pyosis.OsisXML:
 
 
 async def main() -> None:
-    async with Stealth().use_async(async_playwright()) as p:
-        browser: Browser = await p.chromium.launch(headless=False)
-
+    async with httpx.AsyncClient() as client:
         tasks = [
-            save_book(browser, book_name, osis_id)
+            save_book(client, book_name, osis_id)
             for book_name, osis_id in BOOK_NAMES_TO_OSIS_ID.items()
         ]
         books: list[pyosis.DivCt] = await asyncio.gather(*tasks)
         osis = books_to_osis_xml(books)
         (OUTPUT_DIR / "kjv_apocrypha.xml").write_text(osis.to_xml())
-        await browser.close()
 
 
 if __name__ == "__main__":
