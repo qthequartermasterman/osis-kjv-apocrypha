@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" TEIform="TEI.2">
+  <osisText xmlns:xml="http://www.w3.org/XML/1998/namespace" canonical="true" osisIDWork="kjv-apocrypha" osisRefWork="Bible" xml:lang="en" xml:space="default" TEIform="text">
+    <header TEIform="teiHeader" canonical="false">
+      <revisionDesc TEIform="revisionDesc">
+        <date event="eversion" type="ISO" xml:lang="en" TEIform="date">2025.08.10T13:29:31</date>
+        <p TEIform="p">Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the osis-kjv-apocrypha Python package.</p>
+      </revisionDesc>
+      <work osisWork="King James Version Apocrypha">
+        <title canonical="false" TEIform="title">King James Version--Apocrypha</title>
+        <type type="OSIS">Bible</type>
+      </work>
+    </header>
+    <div canonical="false" type="book" osisID="EpJer" TEIform="div">
+      <headCT TEIform="head">Letter of Jeremiah</headCT>
+      <chapter osisID="EpJer.6" TEIform="div">
+        <verse canonical="true" osisID="EpJer.6.1">A copy of a letter which Jeremiah sent to those who were to be taken to Babylon as captives by the king of the Babylonians, to give them the message which God had commanded him.</verse>
+        <verse canonical="true" osisID="EpJer.6.2">Because of the sins which you have committed before God, you will be taken to Babylon as captives by Nebuchadnezzar, king of the Babylonians.</verse>
+        <verse canonical="true" osisID="EpJer.6.3">Therefore when you have come to Babylon you will remain there for many years, for a long time, up to seven generations; after that I will bring you away from there in peace.</verse>
+        <verse canonical="true" osisID="EpJer.6.4">Now in Babylon you will see gods made of silver and gold and wood, which are carried on men's shoulders and inspire fear in the heathen.</verse>
+        <verse canonical="true" osisID="EpJer.6.5">So take care not to become at all like the foreigners or to let fear for these gods possess you, when you see the multitude before and behind them worshiping them.</verse>
+        <verse canonical="true" osisID="EpJer.6.6">But say in your heart, "It is thou, O Lord, whom we must worship."</verse>
+        <verse canonical="true" osisID="EpJer.6.7">For my angel is with you, and he is watching your lives.</verse>
+        <verse canonical="true" osisID="EpJer.6.8">Their tongues are smoothed by the craftsman, and they themselves are overlaid with gold and silver; but they are false and cannot speak.</verse>
+        <verse canonical="true" osisID="EpJer.6.9">People take gold and make crowns for the heads of their gods, as they would for a girl who loves ornaments;</verse>
+        <verse canonical="true" osisID="EpJer.6.10">and sometimes the priests secretly take gold and silver from their gods and spend it upon themselves,</verse>
+        <verse canonical="true" osisID="EpJer.6.11">and even give some of it to the harlots in the brothel. They deck their gods out with garments like men -- these gods of silver and gold and wood,</verse>
+        <verse canonical="true" osisID="EpJer.6.12">which cannot save themselves from rust and corrosion. When they have been dressed in purple robes,</verse>
+        <verse canonical="true" osisID="EpJer.6.13">their faces are wiped because of the dust from the temple, which is thick upon them.</verse>
+        <verse canonical="true" osisID="EpJer.6.14">Like a local ruler the god holds a scepter, though unable to destroy any one who offends it.</verse>
+        <verse canonical="true" osisID="EpJer.6.15">It has a dagger in its right hand, and has an axe; but it cannot save itself from war and robbers.</verse>
+        <verse canonical="true" osisID="EpJer.6.16">Therefore they evidently are not gods; so do not fear them.</verse>
+        <verse canonical="true" osisID="EpJer.6.17">For just as one's dish is useless when it is broken, so are the gods of the heathen, when they have been set up in the temples. Their eyes are full of the dust raised by the feet of those who enter.</verse>
+        <verse canonical="true" osisID="EpJer.6.18">And just as the gates are shut on every side upon a man who has offended a king, as though he were sentenced to death, so the priests make their temples secure with doors and locks and bars, in order that they may not be plundered by robbers.</verse>
+        <verse canonical="true" osisID="EpJer.6.19">They light lamps, even more than they light for themselves, though their gods can see none of them.</verse>
+        <verse canonical="true" osisID="EpJer.6.20">They are just like a beam of the temple, but men say their hearts have melted, when worms from the earth devour them and their robes. They do not notice</verse>
+        <verse canonical="true" osisID="EpJer.6.21">when their faces have been blackened by the smoke of the temple.</verse>
+        <verse canonical="true" osisID="EpJer.6.22">Bats, swallows, and birds light on their bodies and heads; and so do cats.</verse>
+        <verse canonical="true" osisID="EpJer.6.23">From this you will know that they are not gods; so do not fear them.</verse>
+        <verse canonical="true" osisID="EpJer.6.24">As for the gold which they wear for beauty -- they will not shine unless some one wipes off the rust; for even when they were being cast, they had no feeling.</verse>
+        <verse canonical="true" osisID="EpJer.6.25">They are bought at any cost, but there is no breath in them.</verse>
+        <verse canonical="true" osisID="EpJer.6.26">Having no feet, they are carried on men's shoulders, revealing to mankind their worthlessness.</verse>
+        <verse canonical="true" osisID="EpJer.6.27">And those who serve them are ashamed because through them these gods are made to stand, lest they fall to the ground. If any one sets one of them upright, it cannot move itself; and if it is tipped over, it cannot straighten itself; but gifts are placed before them just as before the dead.</verse>
+        <verse canonical="true" osisID="EpJer.6.28">The priests sell the sacrifices that are offered to these gods and use the money; and likewise their wives preserve some with salt, but give none to the poor or helpless.</verse>
+        <verse canonical="true" osisID="EpJer.6.29">Sacrifices to them may be touched by women in menstruation or at childbirth. Since you know by these things that they are not gods, do not fear them.</verse>
+        <verse canonical="true" osisID="EpJer.6.30">For why should they be called gods? Women serve meals for gods of silver and gold and wood;</verse>
+        <verse canonical="true" osisID="EpJer.6.31">and in their temples the priests sit with their clothes rent, their heads and beards shaved, and their heads uncovered.</verse>
+        <verse canonical="true" osisID="EpJer.6.32">They howl and shout before their gods as some do at a funeral feast for a man who has died.</verse>
+        <verse canonical="true" osisID="EpJer.6.33">The priests take some of the clothing of their gods to clothe their wives and children.</verse>
+        <verse canonical="true" osisID="EpJer.6.34">Whether one does evil to them or good, they will not be able to repay it. They cannot set up a king or depose one.</verse>
+        <verse canonical="true" osisID="EpJer.6.35">Likewise they are not able to give either wealth or money; if one makes a vow to them and does not keep it, they will not require it.</verse>
+        <verse canonical="true" osisID="EpJer.6.36">They cannot save a man from death or rescue the weak from the strong.</verse>
+        <verse canonical="true" osisID="EpJer.6.37">They cannot restore sight to a blind man; they cannot rescue a man who is in distress.</verse>
+        <verse canonical="true" osisID="EpJer.6.38">They cannot take pity on a widow or do good to an orphan.</verse>
+        <verse canonical="true" osisID="EpJer.6.39">These things that are made of wood and overlaid with gold and silver are like stones from the mountain, and those who serve them will be put to shame.</verse>
+        <verse canonical="true" osisID="EpJer.6.40">Why then must any one think that they are gods, or call them gods? Besides, even the Chaldeans themselves dishonor them;</verse>
+        <verse canonical="true" osisID="EpJer.6.41">for when they see a dumb man, who cannot speak, they bring him and pray Bel that the man may speak, as though Bel were able to understand.</verse>
+        <verse canonical="true" osisID="EpJer.6.42">Yet they themselves cannot perceive this and abandon them, for they have no sense.</verse>
+        <verse canonical="true" osisID="EpJer.6.43">And the women, with cords about them, sit along the passageways, burning bran for incense; and when one of them is led off by one of the passers-by and is lain with, she derides the woman next to her, because she was not as attractive as herself and her cord was not broken.</verse>
+        <verse canonical="true" osisID="EpJer.6.44">Whatever is done for them is false. Why then must any one think that they are gods, or call them gods?</verse>
+        <verse canonical="true" osisID="EpJer.6.45">They are made by carpenters and goldsmiths; they can be nothing but what the craftsmen wish them to be.</verse>
+        <verse canonical="true" osisID="EpJer.6.46">The men that make them will certainly not live very long themselves; how then can the things that are made by them be gods?</verse>
+        <verse canonical="true" osisID="EpJer.6.47">They have left only lies and reproach for those who come after.</verse>
+        <verse canonical="true" osisID="EpJer.6.48">For when war or calamity comes upon them, the priests consult together as to where they can hide themselves and their gods.</verse>
+        <verse canonical="true" osisID="EpJer.6.49">How then can one fail to see that these are not gods, for they cannot save themselves from war or calamity?</verse>
+        <verse canonical="true" osisID="EpJer.6.50">Since they are made of wood and overlaid with gold and silver, it will afterward be known that they are false.</verse>
+        <verse canonical="true" osisID="EpJer.6.51">It will be manifest to all the nations and kings that they are not gods but the work of men's hands, and that there is no work of God in them.</verse>
+        <verse canonical="true" osisID="EpJer.6.52">Who then can fail to know that they are not gods?</verse>
+        <verse canonical="true" osisID="EpJer.6.53">For they cannot set up a king over a country or give rain to men.</verse>
+        <verse canonical="true" osisID="EpJer.6.54">They cannot judge their own cause or deliver one who is wronged, for they have no power; they are like crows between heaven and earth.</verse>
+        <verse canonical="true" osisID="EpJer.6.55">When fire breaks out in a temple of wooden gods overlaid with gold or silver, their priests will flee and escape, but the gods will be burnt in two like beams.</verse>
+        <verse canonical="true" osisID="EpJer.6.56">Besides, they can offer no resistance to a king or any enemies. Why then must any one admit or think that they are gods?</verse>
+        <verse canonical="true" osisID="EpJer.6.57">Gods made of wood and overlaid with silver and gold are not able to save themselves from thieves and robbers.</verse>
+        <verse canonical="true" osisID="EpJer.6.58">Strong men will strip them of their gold and silver and of the robes they wear, and go off with this booty, and they will not be able to help themselves.</verse>
+        <verse canonical="true" osisID="EpJer.6.59">So it is better to be a king who shows his courage, or a household utensil that serves its owner's need, than to be these false gods; better even the door of a house that protects its contents, than these false gods; better also a wooden pillar in a palace, than these false gods.</verse>
+        <verse canonical="true" osisID="EpJer.6.60">For sun and moon and stars, shining and sent forth for service, are obedient.</verse>
+        <verse canonical="true" osisID="EpJer.6.61">So also the lightning, when it flashes, is widely seen; and the wind likewise blows in every land.</verse>
+        <verse canonical="true" osisID="EpJer.6.62">When God commands the clouds to go over the whole world, they carry out his command.</verse>
+        <verse canonical="true" osisID="EpJer.6.63">And the fire sent from above to consume mountains and woods does what it is ordered. But these idols are not to be compared with them in appearance or power.</verse>
+        <verse canonical="true" osisID="EpJer.6.64">Therefore one must not think that they are gods nor call them gods, for they are not able either to decide a case or to do good to men.</verse>
+        <verse canonical="true" osisID="EpJer.6.65">Since you know then that they are not gods, do not fear them.</verse>
+        <verse canonical="true" osisID="EpJer.6.66">For they can neither curse nor bless kings;</verse>
+        <verse canonical="true" osisID="EpJer.6.67">they cannot show signs in the heavens and among the nations, or shine like the sun or give light like the moon.</verse>
+        <verse canonical="true" osisID="EpJer.6.68">The wild beasts are better than they are, for they can flee to cover and help themselves.</verse>
+        <verse canonical="true" osisID="EpJer.6.69">So we have no evidence whatever that they are gods; therefore do not fear them.</verse>
+        <verse canonical="true" osisID="EpJer.6.70">Like a scarecrow in a cucumber bed, that guards nothing, so are their gods of wood, overlaid with gold and silver.</verse>
+        <verse canonical="true" osisID="EpJer.6.71">In the same way, their gods of wood, overlaid with gold and silver, and like a thorn bush in a garden, on which every bird sits; or like a dead body cast out in the darkness.</verse>
+        <verse canonical="true" osisID="EpJer.6.72">By the purple and linen that rot upon them you will know that they are not gods; and they will finally themselves be consumed, and be a reproach in the land.</verse>
+        <verse canonical="true" osisID="EpJer.6.73">Better therefore is a just man who has no idols, for he will be far from reproach.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>

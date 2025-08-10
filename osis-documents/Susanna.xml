@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" TEIform="TEI.2">
+  <osisText xmlns:xml="http://www.w3.org/XML/1998/namespace" canonical="true" osisIDWork="kjv-apocrypha" osisRefWork="Bible" xml:lang="en" xml:space="default" TEIform="text">
+    <header TEIform="teiHeader" canonical="false">
+      <revisionDesc TEIform="revisionDesc">
+        <date event="eversion" type="ISO" xml:lang="en" TEIform="date">2025.08.10T13:29:28</date>
+        <p TEIform="p">Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the osis-kjv-apocrypha Python package.</p>
+      </revisionDesc>
+      <work osisWork="King James Version Apocrypha">
+        <title canonical="false" TEIform="title">King James Version--Apocrypha</title>
+        <type type="OSIS">Bible</type>
+      </work>
+    </header>
+    <div canonical="false" type="book" osisID="Sus" TEIform="div">
+      <headCT TEIform="head">Susanna</headCT>
+      <chapter osisID="Sus.1" TEIform="div">
+        <verse canonical="true" osisID="Sus.1.2">And he took a wife named Susanna, the daughter of Hilkiah, a very beautiful woman and one who feared the Lord.</verse>
+        <verse canonical="true" osisID="Sus.1.3">Her parents were righteous, and had taught their daughter according to the law of Moses.</verse>
+        <verse canonical="true" osisID="Sus.1.4">Joakim was very rich, and had a spacious garden adjoining his house; and the Jews used to come to him because he was the most honored of them all.</verse>
+        <verse canonical="true" osisID="Sus.1.5">In that year two elders from the people were appointed as judges. Concerning them the Lord had said: "Iniquity came forth from Babylon, from elders who were judges, who were supposed to govern the people."</verse>
+        <verse canonical="true" osisID="Sus.1.6">These men were frequently at Joakim's house, and all who had suits at law came to them.</verse>
+        <verse canonical="true" osisID="Sus.1.7">When the people departed at noon, Susanna would go into her husband's garden to walk.</verse>
+        <verse canonical="true" osisID="Sus.1.8">The two elders used to see her every day, going in and walking about, and they began to desire her.</verse>
+        <verse canonical="true" osisID="Sus.1.9">And they perverted their minds and turned away their eyes from looking to Heaven or remembering righteous judgments.</verse>
+        <verse canonical="true" osisID="Sus.1.10">Both were overwhelmed with passion for her, but they did not tell each other of their distress,</verse>
+        <verse canonical="true" osisID="Sus.1.11">for they were ashamed to disclose their lustful desire to possess her.</verse>
+        <verse canonical="true" osisID="Sus.1.12">And they watched eagerly, day after day, to see her.</verse>
+        <verse canonical="true" osisID="Sus.1.13">They said to each other, "Let us go home, for it is mealtime."</verse>
+        <verse canonical="true" osisID="Sus.1.14">And when they went out, they parted from each other. But turning back, they met again; and when each pressed the other for the reason, they confessed their lust. And then together they arranged for a time when they could find her alone.</verse>
+        <verse canonical="true" osisID="Sus.1.15">Once, while they were watching for an opportune day, she went in as before with only two maids, and wished to bathe in the garden, for it was very hot.</verse>
+        <verse canonical="true" osisID="Sus.1.16">And no one was there except the two elders, who had hid themselves and were watching her.</verse>
+        <verse canonical="true" osisID="Sus.1.17">She said to her maids, "Bring me oil and ointments, and shut the garden doors so that I may bathe."</verse>
+        <verse canonical="true" osisID="Sus.1.18">They did as she said, shut the garden doors, and went out by the side doors to bring what they had been commanded; and they did not see the elders, because they were hidden.</verse>
+        <verse canonical="true" osisID="Sus.1.19">When the maids had gone out, the two elders rose and ran to her, and said:</verse>
+        <verse canonical="true" osisID="Sus.1.20">"Look, the garden doors are shut, no one sees us, and we are in love with you; so give your consent, and lie with us.</verse>
+        <verse canonical="true" osisID="Sus.1.21">If you refuse, we will testify against you that a young man was with you, and this was why you sent your maids away."</verse>
+        <verse canonical="true" osisID="Sus.1.22">Susanna sighed deeply, and said, "I am hemmed in on every side. For if I do this thing, it is death for me; and if I do not, I shall not escape your hands.</verse>
+        <verse canonical="true" osisID="Sus.1.23">I choose not to do it and to fall into your hands, rather than to sin in the sight of the Lord."</verse>
+        <verse canonical="true" osisID="Sus.1.24">Then Susanna cried out with a loud voice, and the two elders shouted against her.</verse>
+        <verse canonical="true" osisID="Sus.1.25">And one of them ran and opened the garden doors.</verse>
+        <verse canonical="true" osisID="Sus.1.26">When the household servants heard the shouting in the garden, they rushed in at the side door to see what had happened to her.</verse>
+        <verse canonical="true" osisID="Sus.1.27">And when the elders told their tale, the servants were greatly ashamed, for nothing like this had ever been said about Susanna.</verse>
+        <verse canonical="true" osisID="Sus.1.28">The next day, when the people gathered at the house of her husband Joakim, the two elders came, full of their wicked plot to have Susanna put to death.</verse>
+        <verse canonical="true" osisID="Sus.1.29">They said before the people, "Send for Susanna, the daughter of Hilkiah, who is the wife of Joakim."</verse>
+        <verse canonical="true" osisID="Sus.1.30">So they sent for her. And she came, with her parents, her children, and all her kindred.</verse>
+        <verse canonical="true" osisID="Sus.1.31">Now Susanna was a woman of great refinement, and beautiful in appearance.</verse>
+        <verse canonical="true" osisID="Sus.1.32">As she was veiled, the wicked men ordered her to be unveiled, that they might feed upon her beauty.</verse>
+        <verse canonical="true" osisID="Sus.1.33">But her family and friends and all who saw her wept.</verse>
+        <verse canonical="true" osisID="Sus.1.34">Then the two elders stood up in the midst of the people, and laid their hands upon her head.</verse>
+        <verse canonical="true" osisID="Sus.1.35">And she, weeping, looked up toward heaven, for her heart trusted in the Lord.</verse>
+        <verse canonical="true" osisID="Sus.1.36">The elders said, "As we were walking in the garden alone, this woman came in with two maids, shut the garden doors, and dismissed the maids.</verse>
+        <verse canonical="true" osisID="Sus.1.37">Then a young man, who had been hidden, came to her and lay with her.</verse>
+        <verse canonical="true" osisID="Sus.1.38">We were in a corner of the garden, and when we saw this wickedness we ran to them.</verse>
+        <verse canonical="true" osisID="Sus.1.39">We saw them embracing, but we could not hold the man, for he was too strong for us, and he opened the doors and dashed out.</verse>
+        <verse canonical="true" osisID="Sus.1.40">So we seized this woman and asked her who the young man was, but she would not tell us. These things we testify."</verse>
+        <verse canonical="true" osisID="Sus.1.41">The assembly believed them, because they were elders of the people and judges; and they condemned her to death.</verse>
+        <verse canonical="true" osisID="Sus.1.42">Then Susanna cried out with a loud voice, and said, "O eternal God, who dost discern what is secret, who art aware of all things before they come to be,</verse>
+        <verse canonical="true" osisID="Sus.1.43">thou knowest that these men have borne false witness against me. And now I am to die! Yet I have done none of the things that they have wickedly invented against me!"</verse>
+        <verse canonical="true" osisID="Sus.1.44">The Lord heard her cry.</verse>
+        <verse canonical="true" osisID="Sus.1.45">And as she was being led away to be put to death, God aroused the holy spirit of a young lad named Daniel;</verse>
+        <verse canonical="true" osisID="Sus.1.46">and he cried with a loud voice, "I am innocent of the blood of this woman."</verse>
+        <verse canonical="true" osisID="Sus.1.47">All the people turned to him, and said, "What is this that you have said?"</verse>
+        <verse canonical="true" osisID="Sus.1.48">Taking his stand in the midst of them, he said, "Are you such fools, you sons of Israel? Have you condemned a daughter of Israel without examination and without learning the facts?</verse>
+        <verse canonical="true" osisID="Sus.1.49">Return to the place of judgment. For these men have borne false witness against her."</verse>
+        <verse canonical="true" osisID="Sus.1.50">Then all the people returned in haste. And the elders said to him, "Come, sit among us and inform us, for God has given you that right."</verse>
+        <verse canonical="true" osisID="Sus.1.51">And Daniel said to them, "Separate them far from each other, and I will examine them."</verse>
+        <verse canonical="true" osisID="Sus.1.52">When they were separated from each other, he summoned one of them and said to him, "You old relic of wicked days, your sins have now come home, which you have committed in the past,</verse>
+        <verse canonical="true" osisID="Sus.1.53">pronouncing unjust judgments, condemning the innocent and letting the guilty go free, though the Lord said, `Do not put to death an innocent and righteous person.'</verse>
+        <verse canonical="true" osisID="Sus.1.54">Now then, if you really saw her, tell me this: Under what tree did you see them being intimate with each other?" He answered, "Under a mastic tree."</verse>
+        <verse canonical="true" osisID="Sus.1.55">And Daniel said, "Very well! You have lied against your own head, for the angel of God has received the sentence from God and will immediately cut you in two."</verse>
+        <verse canonical="true" osisID="Sus.1.56">Then he put him aside, and commanded them to bring the other. And he said to him, "You offspring of Canaan and not of Judah, beauty has deceived you and lust has perverted your heart.</verse>
+        <verse canonical="true" osisID="Sus.1.57">This is how you both have been dealing with the daughters of Israel, and they were intimate with you through fear; but a daughter of Judah would not endure your wickedness.</verse>
+        <verse canonical="true" osisID="Sus.1.58">Now then, tell me: Under what tree did you catch them being intimate with each other?" He answered, "Under an evergreen oak."</verse>
+        <verse canonical="true" osisID="Sus.1.59">And Daniel said to him, "Very well! You also have lied against your own head, for the angel of God is waiting with his sword to saw you in two, that he may destroy you both."</verse>
+        <verse canonical="true" osisID="Sus.1.60">Then all the assembly shouted loudly and blessed God, who saves those who hope in him.</verse>
+        <verse canonical="true" osisID="Sus.1.61">And they rose against the two elders, for out of their own mouths Daniel had convicted them of bearing false witness;</verse>
+        <verse canonical="true" osisID="Sus.1.62">and they did to them as they had wickedly planned to do to their neighbor; acting in accordance with the law of Moses, they put them to death. Thus innocent blood was saved that day.</verse>
+        <verse canonical="true" osisID="Sus.1.63">And Hilkiah and his wife praised God for their daughter Susanna, and so did Joakim her husband and all her kindred, because nothing shameful was found in her.</verse>
+        <verse canonical="true" osisID="Sus.1.64">And from that day onward Daniel had a great reputation among the people.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>

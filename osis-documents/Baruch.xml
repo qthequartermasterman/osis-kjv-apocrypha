@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" TEIform="TEI.2">
+  <osisText xmlns:xml="http://www.w3.org/XML/1998/namespace" canonical="true" osisIDWork="kjv-apocrypha" osisRefWork="Bible" xml:lang="en" xml:space="default" TEIform="text">
+    <header TEIform="teiHeader" canonical="false">
+      <revisionDesc TEIform="revisionDesc">
+        <date event="eversion" type="ISO" xml:lang="en" TEIform="date">2025.08.10T13:29:28</date>
+        <p TEIform="p">Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the osis-kjv-apocrypha Python package.</p>
+      </revisionDesc>
+      <work osisWork="King James Version Apocrypha">
+        <title canonical="false" TEIform="title">King James Version--Apocrypha</title>
+        <type type="OSIS">Bible</type>
+      </work>
+    </header>
+    <div canonical="false" type="book" osisID="Bar" TEIform="div">
+      <headCT TEIform="head">Baruch</headCT>
+      <chapter osisID="Bar.1" TEIform="div">
+        <verse canonical="true" osisID="Bar.1.1">These are the words of the book which Baruch the son of Neraiah, son of Mahseiah, son of Zedekiah, son of Hasadiah, son of Hilkiah, wrote in Babylon,</verse>
+        <verse canonical="true" osisID="Bar.1.2">in the fifth year, on the seventh day of the month, at the time when the Chaldeans took Jerusalem and burned it with fire.</verse>
+        <verse canonical="true" osisID="Bar.1.3">And Baruch read the words of this book in the hearing of Jeconiah the son of Jehoiakim, king of Judah, and in the hearing of all the people who came to hear the book,</verse>
+        <verse canonical="true" osisID="Bar.1.4">and in the hearing of the mighty men and the princes, and in the hearing of the elders, and in the hearing of all the people, small and great, all who dwelt in Babylon by the river Sud.</verse>
+        <verse canonical="true" osisID="Bar.1.5">Then they wept, and fasted, and prayed before the Lord;</verse>
+        <verse canonical="true" osisID="Bar.1.6">and they collected money, each giving what he could;</verse>
+        <verse canonical="true" osisID="Bar.1.7">and they sent it to Jerusalem to Jehoiakim the high priest, the son of Hilkiah, son of Shallum, and to the priests, and to all the people who were present with him in Jerusalem.</verse>
+        <verse canonical="true" osisID="Bar.1.8">At the same time, on the tenth day of Sivan, Baruch took the vessels of the house of the Lord, which had been carried away from the temple, to return them to the land of Judah -- the silver vessels which Zedekiah the son of Josiah, king of Judah, had made,</verse>
+        <verse canonical="true" osisID="Bar.1.9">after Nebuchadnezzar king of Babylon had carried away from Jerusalem Jeconiah and the princes and the prisoners and the mighty men and the people of the land, and brought them to Babylon.</verse>
+        <verse canonical="true" osisID="Bar.1.10">And they said: "Herewith we send you money; so buy with the money burnt offerings and sin offerings and incense, and prepare a cereal offering, and offer them upon the altar of the Lord our God;</verse>
+        <verse canonical="true" osisID="Bar.1.11">and pray for the life of Nebuchadnezzar king of Babylon, and for the life of Belshazzar his son, that their days on earth may be like the days of heaven.</verse>
+        <verse canonical="true" osisID="Bar.1.12">And the Lord will give us strength, and he will give light to our eyes, and we shall live under the protection of Nebuchadnezzar king of Babylon, and under the protection of Belshazzar his son, and we shall serve them many days and find favor in their sight.</verse>
+        <verse canonical="true" osisID="Bar.1.13">And pray for us to the Lord our God, for we have sinned against the Lord our God, and to this day the anger of the Lord and his wrath have not turned away from us.</verse>
+        <verse canonical="true" osisID="Bar.1.14">And you shall read this book which we are sending you, to make your confession in the house of the Lord on the days of the feasts and at appointed seasons.</verse>
+        <verse canonical="true" osisID="Bar.1.15">"And you shall say: `Righteousness belongs to the Lord our God, but confusion of face, as at this day, to us, to the men of Judah, to the inhabitants of Jerusalem,</verse>
+        <verse canonical="true" osisID="Bar.1.16">and to our kings and our princes and our priests and our prophets and our fathers,</verse>
+        <verse canonical="true" osisID="Bar.1.17">because we have sinned before the Lord,</verse>
+        <verse canonical="true" osisID="Bar.1.18">and have disobeyed him, and have not heeded the voice of the Lord our God, to walk in the statutes of the Lord which he set before us.</verse>
+        <verse canonical="true" osisID="Bar.1.19">From the day when the Lord brought our fathers out of the land of Egypt until today, we have been disobedient to the Lord our God, and we have been negligent, in not heeding his voice.</verse>
+        <verse canonical="true" osisID="Bar.1.20">So to this day there have clung to us the calamities and the curse which the Lord declared through Moses his servant at the time when he brought our fathers out of the land of Egypt to give to us a land flowing with milk and honey.</verse>
+        <verse canonical="true" osisID="Bar.1.21">We did not heed the voice of the Lord our God in all the words of the prophets whom he sent to us, but we each followed the intent of his own wicked heart by serving other gods and doing what is evil in the sight of the Lord our God.</verse>
+      </chapter>
+      <chapter osisID="Bar.2" TEIform="div">
+        <verse canonical="true" osisID="Bar.2.1">"`So the Lord confirmed his word, which he spoke against us, and against our judges who judged Israel, and against our kings and against our princes and against the men of Israel and Judah.</verse>
+        <verse canonical="true" osisID="Bar.2.2">Under the whole heaven there has not been done the like of what he has done in Jerusalem, in accordance with what is written in the law of Moses,</verse>
+        <verse canonical="true" osisID="Bar.2.3">that we should eat, one the flesh of his son and another the flesh of his daughter.</verse>
+        <verse canonical="true" osisID="Bar.2.4">And he gave them into subjection to all the kingdoms around us, to be a reproach and a desolation among all the surrounding peoples, where the Lord has scattered them.</verse>
+        <verse canonical="true" osisID="Bar.2.5">They were brought low and not raised up, because we sinned against the Lord our God, in not heeding his voice.</verse>
+        <verse canonical="true" osisID="Bar.2.6">"`Righteousness belongs to the Lord our God, but confusion of face to us and our fathers, as at this day.</verse>
+        <verse canonical="true" osisID="Bar.2.7">All those calamities with which the Lord threatened us have come upon us.</verse>
+        <verse canonical="true" osisID="Bar.2.8">Yet we have not entreated the favor of the Lord by turning away, each of us, from the thoughts of his wicked heart.</verse>
+        <verse canonical="true" osisID="Bar.2.9">And the Lord has kept the calamities ready, and the Lord has brought them upon us, for the Lord is righteous in all his works which he has commanded us to do.</verse>
+        <verse canonical="true" osisID="Bar.2.10">Yet we have not obeyed his voice, to walk in the statutes of the Lord which he set before us.</verse>
+        <verse canonical="true" osisID="Bar.2.11">"`And now, O Lord God of Israel, who didst bring thy people out of the land of Egypt with a mighty hand and with signs and wonders and with great power and outstretched arm, and hast made thee a name, as at this day,</verse>
+        <verse canonical="true" osisID="Bar.2.12">we have sinned, we have been ungodly, we have done wrong, O Lord our God, against all thy ordinances.</verse>
+        <verse canonical="true" osisID="Bar.2.13">Let thy anger turn away from us, for we are left, few in number, among the nations where thou hast scattered us.</verse>
+        <verse canonical="true" osisID="Bar.2.14">Hear, O Lord, our prayer and our supplication, and for thy own sake deliver us, and grant us favor in the sight of those who have carried us into exile;</verse>
+        <verse canonical="true" osisID="Bar.2.15">that all the earth may know that thou art the Lord our God, for Israel and his descendants are called by thy name.</verse>
+        <verse canonical="true" osisID="Bar.2.16">O Lord, look down from thy holy habitation, and consider us. Incline thy ear, O Lord, and hear;</verse>
+        <verse canonical="true" osisID="Bar.2.17">open thy eyes, O Lord, and see; for the dead who are in Hades, whose spirit has been taken from their bodies, will not ascribe glory or justice to the Lord,</verse>
+        <verse canonical="true" osisID="Bar.2.18">but the person that is greatly distressed, that goes about bent over and feeble, and the eyes that are failing, and the person that hungers, will ascribe to thee glory and righteousness, O Lord.</verse>
+        <verse canonical="true" osisID="Bar.2.19">For it is not because of any righteous deeds of our fathers or our kings that we bring before thee our prayer for mercy, O Lord our God.</verse>
+        <verse canonical="true" osisID="Bar.2.20">For thou hast sent thy anger and thy wrath upon us, as thou didst declare by thy servants the prophets, saying:</verse>
+        <verse canonical="true" osisID="Bar.2.21">"Thus says the Lord: Bend your shoulders and serve the king of Babylon, and you will remain in the land which I gave to your fathers.</verse>
+        <verse canonical="true" osisID="Bar.2.22">But if you will not obey the voice of the Lord and will not serve the king of Babylon,</verse>
+        <verse canonical="true" osisID="Bar.2.23">I will make to cease from the cities of Judah and from the region about Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, and the whole land will be a desolation without inhabitants."</verse>
+        <verse canonical="true" osisID="Bar.2.24">"`But we did not obey thy voice, to serve the king of Babylon; and thou hast confirmed thy words, which thou didst speak by thy servants the prophets, that the bones of our kings and the bones of our fathers would be brought out of their graves;</verse>
+        <verse canonical="true" osisID="Bar.2.25">and behold, they have been cast out to the heat of day and the frost of night. They perished in great misery, by famine and sword and pestilence.</verse>
+        <verse canonical="true" osisID="Bar.2.26">And the house which is called by thy name thou hast made as it is today, because of the wickedness of the house of Israel and the house of Judah.</verse>
+        <verse canonical="true" osisID="Bar.2.27">"`Yet thou hast dealt with us, O Lord our God, in all thy kindness and in all thy great compassion,</verse>
+        <verse canonical="true" osisID="Bar.2.28">as thou didst speak by thy servant Moses on the day when thou didst command him to write thy law in the presence of the people of Israel, saying,</verse>
+        <verse canonical="true" osisID="Bar.2.29">"If you will not obey my voice, this very great multitude will surely turn into a small number among the nations, where I will scatter them.</verse>
+        <verse canonical="true" osisID="Bar.2.30">For I know that they will not obey me, for they are a stiff-necked people. But in the land of their exile they will come to themselves,</verse>
+        <verse canonical="true" osisID="Bar.2.31">and they will know that I am the Lord their God. I will give them a heart that obeys and ears that hear;</verse>
+        <verse canonical="true" osisID="Bar.2.32">and they will praise me in the land of their exile, and will remember my name,</verse>
+        <verse canonical="true" osisID="Bar.2.33">and will turn from their stubbornness and their wicked deeds; for they will remember the ways of their fathers, who sinned before the Lord.</verse>
+        <verse canonical="true" osisID="Bar.2.34">I will bring them again into the land which I swore to give to their fathers, to Abraham and to Isaac and to Jacob, and they will rule over it; and I will increase them, and they will not be diminished.</verse>
+        <verse canonical="true" osisID="Bar.2.35">I will make an everlasting covenant with them to be their God and they shall be my people; and I will never again remove my people Israel from the land which I have given them."</verse>
+      </chapter>
+      <chapter osisID="Bar.3" TEIform="div">
+        <verse canonical="true" osisID="Bar.3.1">"`O Lord Almighty, God of Israel, the soul in anguish and the wearied spirit cry out to thee.</verse>
+        <verse canonical="true" osisID="Bar.3.2">Hear, O Lord, and have mercy, for we have sinned before thee.</verse>
+        <verse canonical="true" osisID="Bar.3.3">For thou art enthroned for ever, and we are perishing for ever.</verse>
+        <verse canonical="true" osisID="Bar.3.4">O Lord Almighty, God of Israel, hear now the prayer of the dead of Israel and of the sons of those who sinned before thee, who did not heed the voice of the Lord their God, so that calamities have clung to us.</verse>
+        <verse canonical="true" osisID="Bar.3.5">Remember not the iniquities of our fathers, but in this crisis remember thy power and thy name.</verse>
+        <verse canonical="true" osisID="Bar.3.6">For thou art the Lord our God, and thee, O Lord, will we praise.</verse>
+        <verse canonical="true" osisID="Bar.3.7">For thou hast put the fear of thee in our hearts in order that we should call upon thy name; and we will praise thee in our exile, for we have put away from our hearts all the iniquity of our fathers who sinned before thee.</verse>
+        <verse canonical="true" osisID="Bar.3.8">Behold, we are today in our exile where thou hast scattered us, to be reproached and cursed and punished for all the iniquities of our fathers who forsook the Lord our God.'"</verse>
+        <verse canonical="true" osisID="Bar.3.9">Hear the commandments of life, O Israel; give ear, and learn wisdom!</verse>
+        <verse canonical="true" osisID="Bar.3.10">Why is it, O Israel, why is it that you are in the land of your enemies, that you are growing old in a foreign country, that you are defiled with the dead,</verse>
+        <verse canonical="true" osisID="Bar.3.11">that you are counted among those in Hades?</verse>
+        <verse canonical="true" osisID="Bar.3.12">You have forsaken the fountain of wisdom.</verse>
+        <verse canonical="true" osisID="Bar.3.13">If you had walked in the way of God, you would be dwelling in peace for ever.</verse>
+        <verse canonical="true" osisID="Bar.3.14">Learn where there is wisdom, where there is strength, where there is understanding, that you may at the same time discern where there is length of days, and life, where there is light for the eyes, and peace.</verse>
+        <verse canonical="true" osisID="Bar.3.15">Who has found her place? And who has entered her storehouses?</verse>
+        <verse canonical="true" osisID="Bar.3.16">Where are the princes of the nations, and those who rule over the beasts on earth;</verse>
+        <verse canonical="true" osisID="Bar.3.17">those who have sport with the birds of the air, and who hoard up silver and gold, in which men trust, and there is no end to their getting;</verse>
+        <verse canonical="true" osisID="Bar.3.18">those who scheme to get silver, and are anxious, whose labors are beyond measure?</verse>
+        <verse canonical="true" osisID="Bar.3.19">They have vanished and gone down to Hades, and others have arisen in their place.</verse>
+        <verse canonical="true" osisID="Bar.3.20">Young men have seen the light of day, and have dwelt upon the earth; but they have not learned the way to knowledge, nor understood her paths, nor laid hold of her.</verse>
+        <verse canonical="true" osisID="Bar.3.21">Their sons have strayed far from her way.</verse>
+        <verse canonical="true" osisID="Bar.3.22">She has not been heard of in Canaan, nor seen in Teman;</verse>
+        <verse canonical="true" osisID="Bar.3.23">the sons of Hagar, who seek for understanding on the earth, the merchants of Merran and Teman, the story-tellers and the seekers for understanding, have not learned the way to wisdom, nor given thought to her paths.</verse>
+        <verse canonical="true" osisID="Bar.3.24">O Israel, how great is the house of God! And how vast the territory that he possesses!</verse>
+        <verse canonical="true" osisID="Bar.3.25">It is great and has no bounds; it is high and immeasurable.</verse>
+        <verse canonical="true" osisID="Bar.3.26">The giants were born there, who were famous of old, great in stature, expert in war.</verse>
+        <verse canonical="true" osisID="Bar.3.27">God did not choose them, nor give them the way to knowledge;</verse>
+        <verse canonical="true" osisID="Bar.3.28">so they perished because they had no wisdom, they perished through their folly.</verse>
+        <verse canonical="true" osisID="Bar.3.29">Who has gone up into heaven, and taken her, and brought her down from the clouds?</verse>
+        <verse canonical="true" osisID="Bar.3.30">Who has gone over the sea, and found her, and will buy her for pure gold?</verse>
+        <verse canonical="true" osisID="Bar.3.31">No one knows the way to her, or is concerned about the path to her.</verse>
+        <verse canonical="true" osisID="Bar.3.32">But he who knows all things knows her, he found her by his understanding. He who prepared the earth for all time filled it with four-footed creatures;</verse>
+        <verse canonical="true" osisID="Bar.3.33">he who sends forth the light, and it goes, called it, and it obeyed him in fear;</verse>
+        <verse canonical="true" osisID="Bar.3.34">the stars shone in their watches, and were glad; he called them, and they said, "Here we are!" They shone with gladness for him who made them.</verse>
+        <verse canonical="true" osisID="Bar.3.35">This is our God; no other can be compared to him!</verse>
+        <verse canonical="true" osisID="Bar.3.36">He found the whole way to knowledge, and gave her to Jacob his servant and to Israel whom he loved.</verse>
+        <verse canonical="true" osisID="Bar.3.37">Afterward she appeared upon earth and lived among men.</verse>
+      </chapter>
+      <chapter osisID="Bar.4" TEIform="div">
+        <verse canonical="true" osisID="Bar.4.1">She is the book of the commandments of God, and the law that endures for ever. All who hold her fast will live, and those who forsake her will die.</verse>
+        <verse canonical="true" osisID="Bar.4.2">Turn, O Jacob, and take her; walk toward the shining of her light.</verse>
+        <verse canonical="true" osisID="Bar.4.3">Do not give your glory to another, or your advantages to an alien people.</verse>
+        <verse canonical="true" osisID="Bar.4.4">Happy are we, O Israel, for we know what is pleasing to God.</verse>
+        <verse canonical="true" osisID="Bar.4.5">Take courage, my people, O memorial of Israel!</verse>
+        <verse canonical="true" osisID="Bar.4.6">It was not for destruction that you were sold to the nations, but you were handed over to your enemies because you angered God.</verse>
+        <verse canonical="true" osisID="Bar.4.7">For you provoked him who made you, by sacrificing to demons and not to God.</verse>
+        <verse canonical="true" osisID="Bar.4.8">You forgot the everlasting God, who brought you up, and you grieved Jerusalem, who reared you.</verse>
+        <verse canonical="true" osisID="Bar.4.9">For she saw the wrath that came upon you from God, and she said: "Hearken, you neighbors of Zion, God has brought great sorrow upon me;</verse>
+        <verse canonical="true" osisID="Bar.4.10">for I have seen the captivity of my sons and daughters, which the Everlasting brought upon them.</verse>
+        <verse canonical="true" osisID="Bar.4.11">With joy I nurtured them, but I sent them away with weeping and sorrow.</verse>
+        <verse canonical="true" osisID="Bar.4.12">Let no one rejoice over me, a widow and bereaved of many; I was left desolate because of the sins of my children, because they turned away from the law of God.</verse>
+        <verse canonical="true" osisID="Bar.4.13">They had no regard for his statutes; they did not walk in the ways of God's commandments, nor tread the paths of discipline in his righteousness.</verse>
+        <verse canonical="true" osisID="Bar.4.14">Let the neighbors of Zion come; remember the capture of my sons and daughters, which the Everlasting brought upon them.</verse>
+        <verse canonical="true" osisID="Bar.4.15">For he brought against them a nation from afar, a shameless nation, of a strange language, who had no respect for an old man, and had no pity for a child.</verse>
+        <verse canonical="true" osisID="Bar.4.16">They led away the widow's beloved sons, and bereaved the lonely woman of her daughters.</verse>
+        <verse canonical="true" osisID="Bar.4.17">"But I, how can I help you?</verse>
+        <verse canonical="true" osisID="Bar.4.18">For he who brought these calamities upon you will deliver you from the hand of your enemies.</verse>
+        <verse canonical="true" osisID="Bar.4.19">Go, my children, go; for I have been left desolate.</verse>
+        <verse canonical="true" osisID="Bar.4.20">I have taken off the robe of peace and put on the sackcloth of my supplication; I will cry to the Everlasting all my days.</verse>
+        <verse canonical="true" osisID="Bar.4.21">"Take courage, my children, cry to God, and he will deliver you from the power and hand of the enemy.</verse>
+        <verse canonical="true" osisID="Bar.4.22">For I have put my hope in the Everlasting to save you, and joy has come to me from the Holy One, because of the mercy which soon will come to you from your everlasting Savior.</verse>
+        <verse canonical="true" osisID="Bar.4.23">For I sent you out with sorrow and weeping, but God will give you back to me with joy and gladness for ever.</verse>
+        <verse canonical="true" osisID="Bar.4.24">For as the neighbors of Zion have now seen your capture, so they soon will see your salvation by God, which will come to you with great glory and with the splendor of the Everlasting.</verse>
+        <verse canonical="true" osisID="Bar.4.25">My children, endure with patience the wrath that has come upon you from God. Your enemy has overtaken you, but you will soon see their destruction and will tread upon their necks.</verse>
+        <verse canonical="true" osisID="Bar.4.26">My tender sons have traveled rough roads; they were taken away like a flock carried off by the enemy.</verse>
+        <verse canonical="true" osisID="Bar.4.27">"Take courage, my children, and cry to God, for you will be remembered by him who brought this upon you.</verse>
+        <verse canonical="true" osisID="Bar.4.28">For just as you purposed to go astray from God, return with tenfold zeal to seek him.</verse>
+        <verse canonical="true" osisID="Bar.4.29">For he who brought these calamities upon you will bring you everlasting joy with your salvation."</verse>
+        <verse canonical="true" osisID="Bar.4.30">Take courage, O Jerusalem, for he who named you will comfort you.</verse>
+        <verse canonical="true" osisID="Bar.4.31">Wretched will be those who afflicted you and rejoiced at your fall.</verse>
+        <verse canonical="true" osisID="Bar.4.32">Wretched will be the cities which your children served as slaves; wretched will be the city which received your sons.</verse>
+        <verse canonical="true" osisID="Bar.4.33">For just as she rejoiced at your fall and was glad for your ruin, so she will be grieved at her own desolation.</verse>
+        <verse canonical="true" osisID="Bar.4.34">And I will take away her pride in her great population, and her insolence will be turned to grief.</verse>
+        <verse canonical="true" osisID="Bar.4.35">For fire will come upon her from the Everlasting for many days, and for a long time she will be inhabited by demons.</verse>
+        <verse canonical="true" osisID="Bar.4.36">Look toward the east, O Jerusalem, and see the joy that is coming to you from God!</verse>
+        <verse canonical="true" osisID="Bar.4.37">Behold, your sons are coming, whom you sent away; they are coming, gathered from east and west, at the word of the Holy One, rejoicing in the glory of God.</verse>
+      </chapter>
+      <chapter osisID="Bar.5" TEIform="div">
+        <verse canonical="true" osisID="Bar.5.1">Take off the garment of your sorrow and affliction, O Jerusalem, and put on for ever the beauty of the glory from God.</verse>
+        <verse canonical="true" osisID="Bar.5.2">Put on the robe of the righteousness from God; put on your head the diadem of the glory of the Everlasting.</verse>
+        <verse canonical="true" osisID="Bar.5.3">For God will show your splendor everywhere under heaven.</verse>
+        <verse canonical="true" osisID="Bar.5.4">For your name will for ever be called by God, "Peace of righteousness and glory of godliness."</verse>
+        <verse canonical="true" osisID="Bar.5.5">Arise, O Jerusalem, stand upon the height and look toward the east, and see your children gathered from west and east, at the word of the Holy One, rejoicing that God has remembered them.</verse>
+        <verse canonical="true" osisID="Bar.5.6">For they went forth from you on foot, led away by their enemies; but God will bring them back to you, carried in glory, as on a royal throne.</verse>
+        <verse canonical="true" osisID="Bar.5.7">For God has ordered that every high mountain and the everlasting hills be made low and the valleys filled up, to make level ground, so that Israel may walk safely in the glory of God.</verse>
+        <verse canonical="true" osisID="Bar.5.8">The woods and every fragrant tree have shaded Israel at God's command.</verse>
+        <verse canonical="true" osisID="Bar.5.9">For God will lead Israel with joy, in the light of his glory, with the mercy and righteousness that come from him.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>

@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" TEIform="TEI.2">
+  <osisText xmlns:xml="http://www.w3.org/XML/1998/namespace" canonical="true" osisIDWork="kjv-apocrypha" osisRefWork="Bible" xml:lang="en" xml:space="default" TEIform="text">
+    <header TEIform="teiHeader" canonical="false">
+      <revisionDesc TEIform="revisionDesc">
+        <date event="eversion" type="ISO" xml:lang="en" TEIform="date">2025.08.10T13:29:28</date>
+        <p TEIform="p">Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the osis-kjv-apocrypha Python package.</p>
+      </revisionDesc>
+      <work osisWork="King James Version Apocrypha">
+        <title canonical="false" TEIform="title">King James Version--Apocrypha</title>
+        <type type="OSIS">Bible</type>
+      </work>
+    </header>
+    <div canonical="false" type="book" osisID="1Macc" TEIform="div">
+      <headCT TEIform="head">1 Maccabees</headCT>
+      <chapter osisID="1Macc.1" TEIform="div">
+        <verse canonical="true" osisID="1Macc.1.1">After Alexander son of Philip, the Macedonian, who came from the land of Kittim, had defeated Darius, king of the Persians and the Medes, he succeeded him as king. (He had previously become king of Greece.)</verse>
+        <verse canonical="true" osisID="1Macc.1.2">He fought many battles, conquered strongholds, and put to death the kings of the earth.</verse>
+        <verse canonical="true" osisID="1Macc.1.3">He advanced to the ends of the earth, and plundered many nations. When the earth became quiet before him, he was exalted, and his heart was lifted up.</verse>
+        <verse canonical="true" osisID="1Macc.1.4">He gathered a very strong army and ruled over countries, nations, and princes, and they became tributary to him.</verse>
+        <verse canonical="true" osisID="1Macc.1.5">After this he fell sick and perceived that he was dying.</verse>
+        <verse canonical="true" osisID="1Macc.1.6">So he summoned his most honored officers, who had been brought up with him from youth, and divided his kingdom among them while he was still alive.</verse>
+        <verse canonical="true" osisID="1Macc.1.7">And after Alexander had reigned twelve years, he died.</verse>
+        <verse canonical="true" osisID="1Macc.1.8">Then his officers began to rule, each in his own place.</verse>
+        <verse canonical="true" osisID="1Macc.1.9">They all put on crowns after his death, and so did their sons after them for many years; and they caused many evils on the earth.</verse>
+        <verse canonical="true" osisID="1Macc.1.10">From them came forth a sinful root, Antiochus Epiphanes, son of Antiochus the king; he had been a hostage in Rome. He began to reign in the one hundred and thirty-seventh year of the kingdom of the Greeks.</verse>
+        <verse canonical="true" osisID="1Macc.1.11">In those days lawless men came forth from Israel, and misled many, saying, "Let us go and make a covenant with the Gentiles round about us, for since we separated from them many evils have come upon us."</verse>
+        <verse canonical="true" osisID="1Macc.1.12">This proposal pleased them,</verse>
+        <verse canonical="true" osisID="1Macc.1.13">and some of the people eagerly went to the king. He authorized them to observe the ordinances of the Gentiles.</verse>
+        <verse canonical="true" osisID="1Macc.1.14">So they built a gymnasium in Jerusalem, according to Gentile custom,</verse>
+        <verse canonical="true" osisID="1Macc.1.15">and removed the marks of circumcision, and abandoned the holy covenant. They joined with the Gentiles and sold themselves to do evil.</verse>
+        <verse canonical="true" osisID="1Macc.1.16">When Antiochus saw that his kingdom was established, he determined to become king of the land of Egypt, that he might reign over both kingdoms.</verse>
+        <verse canonical="true" osisID="1Macc.1.17">So he invaded Egypt with a strong force, with chariots and elephants and cavalry and with a large fleet.</verse>
+        <verse canonical="true" osisID="1Macc.1.18">He engaged Ptolemy king of Egypt in battle, and Ptolemy turned and fled before him, and many were wounded and fell.</verse>
+        <verse canonical="true" osisID="1Macc.1.19">And they captured the fortified cities in the land of Egypt, and he plundered the land of Egypt.</verse>
+        <verse canonical="true" osisID="1Macc.1.20">After subduing Egypt, Antiochus returned in the one hundred and forty-third year. He went up against Israel and came to Jerusalem with a strong force.</verse>
+        <verse canonical="true" osisID="1Macc.1.21">He arrogantly entered the sanctuary and took the golden altar, the lampstand for the light, and all its utensils.</verse>
+        <verse canonical="true" osisID="1Macc.1.22">He took also the table for the bread of the Presence, the cups for drink offerings, the bowls, the golden censers, the curtain, the crowns, and the gold decoration on the front of the temple; he stripped it all off.</verse>
+        <verse canonical="true" osisID="1Macc.1.23">He took the silver and the gold, and the costly vessels; he took also the hidden treasures which he found.</verse>
+        <verse canonical="true" osisID="1Macc.1.24">Taking them all, he departed to his own land. He committed deeds of murder, and spoke with great arrogance.</verse>
+        <verse canonical="true" osisID="1Macc.1.25">Israel mourned deeply in every community,</verse>
+        <verse canonical="true" osisID="1Macc.1.26">rulers and elders groaned, maidens and young men became faint, the beauty of women faded.</verse>
+        <verse canonical="true" osisID="1Macc.1.27">Every bridegroom took up the lament; she who sat in the bridal chamber was mourning.</verse>
+        <verse canonical="true" osisID="1Macc.1.28">Even the land shook for its inhabitants, and all the house of Jacob was clothed with shame.</verse>
+        <verse canonical="true" osisID="1Macc.1.29">Two years later the king sent to the cities of Judah a chief collector of tribute, and he came to Jerusalem with a large force.</verse>
+        <verse canonical="true" osisID="1Macc.1.30">Deceitfully he spoke peaceable words to them, and they believed him; but he suddenly fell upon the city, dealt it a severe blow, and destroyed many people of Israel.</verse>
+        <verse canonical="true" osisID="1Macc.1.31">He plundered the city, burned it with fire, and tore down its houses and its surrounding walls.</verse>
+        <verse canonical="true" osisID="1Macc.1.32">And they took captive the women and children, and seized the cattle.</verse>
+        <verse canonical="true" osisID="1Macc.1.33">Then they fortified the city of David with a great strong wall and strong towers, and it became their citadel.</verse>
+        <verse canonical="true" osisID="1Macc.1.34">And they stationed there a sinful people, lawless men. These strengthened their position;</verse>
+        <verse canonical="true" osisID="1Macc.1.35">they stored up arms and food, and collecting the spoils of Jerusalem they stored them there, and became a great snare.</verse>
+        <verse canonical="true" osisID="1Macc.1.36">It became an ambush against the sanctuary, an evil adversary of Israel continually.</verse>
+        <verse canonical="true" osisID="1Macc.1.37">On every side of the sanctuary they shed innocent blood; they even defiled the sanctuary.</verse>
+        <verse canonical="true" osisID="1Macc.1.38">Because of them the residents of Jerusalem fled; she became a dwelling of strangers; she became strange to her offspring, and her children forsook her.</verse>
+        <verse canonical="true" osisID="1Macc.1.39">Her sanctuary became desolate as a desert; her feasts were turned into mourning, her sabbaths into a reproach, her honor into contempt.</verse>
+        <verse canonical="true" osisID="1Macc.1.40">Her dishonor now grew as great as her glory; her exaltation was turned into mourning.</verse>
+        <verse canonical="true" osisID="1Macc.1.41">Then the king wrote to his whole kingdom that all should be one people,</verse>
+        <verse canonical="true" osisID="1Macc.1.42">and that each should give up his customs.</verse>
+        <verse canonical="true" osisID="1Macc.1.43">All the Gentiles accepted the command of the king. Many even from Israel gladly adopted his religion; they sacrificed to idols and profaned the sabbath.</verse>
+        <verse canonical="true" osisID="1Macc.1.44">And the king sent letters by messengers to Jerusalem and the cities of Judah; he directed them to follow customs strange to the land,</verse>
+        <verse canonical="true" osisID="1Macc.1.45">to forbid burnt offerings and sacrifices and drink offerings in the sanctuary, to profane sabbaths and feasts,</verse>
+        <verse canonical="true" osisID="1Macc.1.46">to defile the sanctuary and the priests,</verse>
+        <verse canonical="true" osisID="1Macc.1.47">to build altars and sacred precincts and shrines for idols, to sacrifice swine and unclean animals,</verse>
+        <verse canonical="true" osisID="1Macc.1.48">and to leave their sons uncircumcised. They were to make themselves abominable by everything unclean and profane,</verse>
+        <verse canonical="true" osisID="1Macc.1.49">so that they should forget the law and change all the ordinances.</verse>
+        <verse canonical="true" osisID="1Macc.1.50">"And whoever does not obey the command of the king shall die."</verse>
+        <verse canonical="true" osisID="1Macc.1.51">In such words he wrote to his whole kingdom. And he appointed inspectors over all the people and commanded the cities of Judah to offer sacrifice, city by city.</verse>
+        <verse canonical="true" osisID="1Macc.1.52">Many of the people, every one who forsook the law, joined them, and they did evil in the land;</verse>
+        <verse canonical="true" osisID="1Macc.1.53">they drove Israel into hiding in every place of refuge they had.</verse>
+        <verse canonical="true" osisID="1Macc.1.54">Now on the fifteenth day of Chislev, in the one hundred and forty-fifth year, they erected a desolating sacrilege upon the altar of burnt offering. They also built altars in the surrounding cities of Judah,</verse>
+        <verse canonical="true" osisID="1Macc.1.55">and burned incense at the doors of the houses and in the streets.</verse>
+        <verse canonical="true" osisID="1Macc.1.56">The books of the law which they found they tore to pieces and burned with fire.</verse>
+        <verse canonical="true" osisID="1Macc.1.57">Where the book of the covenant was found in the possession of any one, or if any one adhered to the law, the decree of the king condemned him to death.</verse>
+        <verse canonical="true" osisID="1Macc.1.58">They kept using violence against Israel, against those found month after month in the cities.</verse>
+        <verse canonical="true" osisID="1Macc.1.59">And on the twenty-fifth day of the month they offered sacrifice on the altar which was upon the altar of burnt offering.</verse>
+        <verse canonical="true" osisID="1Macc.1.60">According to the decree, they put to death the women who had their children circumcised,</verse>
+        <verse canonical="true" osisID="1Macc.1.61">and their families and those who circumcised them; and they hung the infants from their mothers' necks.</verse>
+        <verse canonical="true" osisID="1Macc.1.62">But many in Israel stood firm and were resolved in their hearts not to eat unclean food.</verse>
+        <verse canonical="true" osisID="1Macc.1.63">They chose to die rather than to be defiled by food or to profane the holy covenant; and they did die.</verse>
+        <verse canonical="true" osisID="1Macc.1.64">And very great wrath came upon Israel.</verse>
+      </chapter>
+      <chapter osisID="1Macc.2" TEIform="div">
+        <verse canonical="true" osisID="1Macc.2.1">In those days Mattathias the son of John, son of Simeon, a priest of the sons of Joarib, moved from Jerusalem and settled in Modein.</verse>
+        <verse canonical="true" osisID="1Macc.2.2">He had five sons, John surnamed Gaddi,</verse>
+        <verse canonical="true" osisID="1Macc.2.3">Simon called Thassi,</verse>
+        <verse canonical="true" osisID="1Macc.2.4">Judas called Maccabeus,</verse>
+        <verse canonical="true" osisID="1Macc.2.5">Eleazar called Avaran, and Jonathan called Apphus.</verse>
+        <verse canonical="true" osisID="1Macc.2.6">He saw the blasphemies being committed in Judah and Jerusalem,</verse>
+        <verse canonical="true" osisID="1Macc.2.7">and said, "Alas! Why was I born to see this, the ruin of my people, the ruin of the holy city, and to dwell there when it was given over to the enemy, the sanctuary given over to aliens?</verse>
+        <verse canonical="true" osisID="1Macc.2.8">Her temple has become like a man without honor;</verse>
+        <verse canonical="true" osisID="1Macc.2.9">her glorious vessels have been carried into captivity. Her babes have been killed in her streets, her youths by the sword of the foe.</verse>
+        <verse canonical="true" osisID="1Macc.2.10">What nation has not inherited her palaces and has not seized her spoils?</verse>
+        <verse canonical="true" osisID="1Macc.2.11">All her adornment has been taken away; no longer free, she has become a slave.</verse>
+        <verse canonical="true" osisID="1Macc.2.12">And behold, our holy place, our beauty, and our glory have been laid waste; the Gentiles have profaned it.</verse>
+        <verse canonical="true" osisID="1Macc.2.13">Why should we live any longer?"</verse>
+        <verse canonical="true" osisID="1Macc.2.14">And Mattathias and his sons rent their clothes, put on sackcloth, and mourned greatly.</verse>
+        <verse canonical="true" osisID="1Macc.2.15">Then the king's officers who were enforcing the apostasy came to the city of Modein to make them offer sacrifice.</verse>
+        <verse canonical="true" osisID="1Macc.2.16">Many from Israel came to them; and Mattathias and his sons were assembled.</verse>
+        <verse canonical="true" osisID="1Macc.2.17">Then the king's officers spoke to Mattathias as follows: "You are a leader, honored and great in this city, and supported by sons and brothers.</verse>
+        <verse canonical="true" osisID="1Macc.2.18">Now be the first to come and do what the king commands, as all the Gentiles and the men of Judah and those that are left in Jerusalem have done. Then you and your sons will be numbered among the friends of the king, and you and your sons will be honored with silver and gold and many gifts."</verse>
+        <verse canonical="true" osisID="1Macc.2.19">But Mattathias answered and said in a loud voice: "Even if all the nations that live under the rule of the king obey him, and have chosen to do his commandments, departing each one from the religion of his fathers,</verse>
+        <verse canonical="true" osisID="1Macc.2.20">yet I and my sons and my brothers will live by the covenant of our fathers.</verse>
+        <verse canonical="true" osisID="1Macc.2.21">Far be it from us to desert the law and the ordinances.</verse>
+        <verse canonical="true" osisID="1Macc.2.22">We will not obey the king's words by turning aside from our religion to the right hand or to the left."</verse>
+        <verse canonical="true" osisID="1Macc.2.23">When he had finished speaking these words, a Jew came forward in the sight of all to offer sacrifice upon the altar in Modein, according to the king's command.</verse>
+        <verse canonical="true" osisID="1Macc.2.24">When Mattathias saw it, be burned with zeal and his heart was stirred. He gave vent to righteous anger; he ran and killed him upon the altar.</verse>
+        <verse canonical="true" osisID="1Macc.2.25">At the same time he killed the king's officer who was forcing them to sacrifice, and he tore down the altar.</verse>
+        <verse canonical="true" osisID="1Macc.2.26">Thus he burned with zeal for the law, as Phinehas did against Zimri the son of Salu.</verse>
+        <verse canonical="true" osisID="1Macc.2.27">Then Mattathias cried out in the city with a loud voice, saying: "Let every one who is zealous for the law and supports the covenant come out with me!"</verse>
+        <verse canonical="true" osisID="1Macc.2.28">And he and his sons fled to the hills and left all that they had in the city.</verse>
+        <verse canonical="true" osisID="1Macc.2.29">Then many who were seeking righteousness and justice went down to the wilderness to dwell there,</verse>
+        <verse canonical="true" osisID="1Macc.2.30">they, their sons, their wives, and their cattle, because evils pressed heavily upon them.</verse>
+        <verse canonical="true" osisID="1Macc.2.31">And it was reported to the king's officers, and to the troops in Jerusalem the city of David, that men who had rejected the king's command had gone down to the hiding places in the wilderness.</verse>
+        <verse canonical="true" osisID="1Macc.2.32">Many pursued them, and overtook them; they encamped opposite them and prepared for battle against them on the sabbath day.</verse>
+        <verse canonical="true" osisID="1Macc.2.33">And they said to them, "Enough of this! Come out and do what the king commands, and you will live."</verse>
+        <verse canonical="true" osisID="1Macc.2.34">But they said, "We will not come out, nor will we do what the king commands and so profane the sabbath day."</verse>
+        <verse canonical="true" osisID="1Macc.2.35">Then the enemy hastened to attack them.</verse>
+        <verse canonical="true" osisID="1Macc.2.36">But they did not answer them or hurl a stone at them or block up their hiding places,</verse>
+        <verse canonical="true" osisID="1Macc.2.37">for they said, "Let us all die in our innocence; heaven and earth testify for us that you are killing us unjustly."</verse>
+        <verse canonical="true" osisID="1Macc.2.38">So they attacked them on the sabbath, and they died, with their wives and children and cattle, to the number of a thousand persons.</verse>
+        <verse canonical="true" osisID="1Macc.2.39">When Mattathias and his friends learned of it, they mourned for them deeply.</verse>
+        <verse canonical="true" osisID="1Macc.2.40">And each said to his neighbor: "If we all do as our brethren have done and refuse to fight with the Gentiles for our lives and for our ordinances, they will quickly destroy us from the earth."</verse>
+        <verse canonical="true" osisID="1Macc.2.41">So they made this decision that day: "Let us fight against every man who comes to attack us on the sabbath day; let us not all die as our brethren died in their hiding places."</verse>
+        <verse canonical="true" osisID="1Macc.2.42">Then there united with them a company of Hasideans, mighty warriors of Israel, every one who offered himself willingly for the law.</verse>
+        <verse canonical="true" osisID="1Macc.2.43">And all who became fugitives to escape their troubles joined them and reinforced them.</verse>
+        <verse canonical="true" osisID="1Macc.2.44">They organized an army, and struck down sinners in their anger and lawless men in their wrath; the survivors fled to the Gentiles for safety.</verse>
+        <verse canonical="true" osisID="1Macc.2.45">And Mattathias and his friends went about and tore down the altars;</verse>
+        <verse canonical="true" osisID="1Macc.2.46">they forcibly circumcised all the uncircumcised boys that they found within the borders of Israel.</verse>
+        <verse canonical="true" osisID="1Macc.2.47">They hunted down the arrogant men, and the work prospered in their hands.</verse>
+        <verse canonical="true" osisID="1Macc.2.48">They rescued the law out of the hands of the Gentiles and kings, and they never let the sinner gain the upper hand.</verse>
+        <verse canonical="true" osisID="1Macc.2.49">Now the days drew near for Mattathias to die, and he said to his sons: "Arrogance and reproach have now become strong; it is a time of ruin and furious anger.</verse>
+        <verse canonical="true" osisID="1Macc.2.50">Now, my children, show zeal for the law, and give your lives for the covenant of our fathers.</verse>
+        <verse canonical="true" osisID="1Macc.2.51">"Remember the deeds of the fathers, which they did in their generations; and receive great honor and an everlasting name.</verse>
+        <verse canonical="true" osisID="1Macc.2.52">Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?</verse>
+        <verse canonical="true" osisID="1Macc.2.53">Joseph in the time of his distress kept the commandment, and became lord of Egypt.</verse>
+        <verse canonical="true" osisID="1Macc.2.54">Phinehas our father, because he was deeply zealous, received the covenant of everlasting priesthood.</verse>
+        <verse canonical="true" osisID="1Macc.2.55">Joshua, because he fulfilled the command, became a judge in Israel.</verse>
+        <verse canonical="true" osisID="1Macc.2.56">Caleb, because he testified in the assembly, received an inheritance in the land.</verse>
+        <verse canonical="true" osisID="1Macc.2.57">David, because he was merciful, inherited the throne of the kingdom for ever.</verse>
+        <verse canonical="true" osisID="1Macc.2.58">Elijah because of great zeal for the law was taken up into heaven.</verse>
+        <verse canonical="true" osisID="1Macc.2.59">Hannaniah, Azariah, and Mishael believed and were saved from the flame.</verse>
+        <verse canonical="true" osisID="1Macc.2.60">Daniel because of his innocence was delivered from the mouth of the lions.</verse>
+        <verse canonical="true" osisID="1Macc.2.61">"And so observe, from generation to generation, that none who put their trust in him will lack strength.</verse>
+        <verse canonical="true" osisID="1Macc.2.62">Do not fear the words of a sinner, for his splendor will turn into dung and worms.</verse>
+        <verse canonical="true" osisID="1Macc.2.63">Today he will be exalted, but tomorrow he will not be found, because he has returned to the dust, and his plans will perish.</verse>
+        <verse canonical="true" osisID="1Macc.2.64">My children, be courageous and grow strong in the law, for by it you will gain honor.</verse>
+        <verse canonical="true" osisID="1Macc.2.65">"Now behold, I know that Simeon your brother is wise in counsel; always listen to him; he shall be your father.</verse>
+        <verse canonical="true" osisID="1Macc.2.66">Judas Maccabeus has been a mighty warrior from his youth; he shall command the army for you and fight the battle against the peoples.</verse>
+        <verse canonical="true" osisID="1Macc.2.67">You shall rally about you all who observe the law, and avenge the wrong done to your people.</verse>
+        <verse canonical="true" osisID="1Macc.2.68">Pay back the Gentiles in full, and heed what the law commands."</verse>
+        <verse canonical="true" osisID="1Macc.2.69">Then he blessed them, and was gathered to his fathers.</verse>
+        <verse canonical="true" osisID="1Macc.2.70">He died in the one hundred and forty-sixth year and was buried in the tomb of his fathers at Modein. And all Israel mourned for him with great lamentation.</verse>
+      </chapter>
+      <chapter osisID="1Macc.3" TEIform="div">
+        <verse canonical="true" osisID="1Macc.3.1">Then Judas his son, who was called Maccabeus, took command in his place.</verse>
+        <verse canonical="true" osisID="1Macc.3.2">All his brothers and all who had joined his father helped him; they gladly fought for Israel.</verse>
+        <verse canonical="true" osisID="1Macc.3.3">He extended the glory of his people. Like a giant he put on his breastplate; he girded on his armor of war and waged battles, protecting the host by his sword.</verse>
+        <verse canonical="true" osisID="1Macc.3.4">He was like a lion in his deeds, like a lion's cub roaring for prey.</verse>
+        <verse canonical="true" osisID="1Macc.3.5">He searched out and pursued the lawless; he burned those who troubled his people.</verse>
+        <verse canonical="true" osisID="1Macc.3.6">Lawless men shrank back for fear of him; all the evildoers were confounded; and deliverance prospered by his hand.</verse>
+        <verse canonical="true" osisID="1Macc.3.7">He embittered many kings, but he made Jacob glad by his deeds, and his memory is blessed for ever.</verse>
+        <verse canonical="true" osisID="1Macc.3.8">He went through the cities of Judah; he destroyed the ungodly out of the land; thus he turned away wrath from Israel.</verse>
+        <verse canonical="true" osisID="1Macc.3.9">He was renowned to the ends of the earth; he gathered in those who were perishing.</verse>
+        <verse canonical="true" osisID="1Macc.3.10">But Apollonius gathered together Gentiles and a large force from Samaria to fight against Israel.</verse>
+        <verse canonical="true" osisID="1Macc.3.11">When Judas learned of it, he went out to meet him, and he defeated and killed him. Many were wounded and fell, and the rest fled.</verse>
+        <verse canonical="true" osisID="1Macc.3.12">Then they seized their spoils; and Judas took the sword of Apollonius, and used it in battle the rest of his life.</verse>
+        <verse canonical="true" osisID="1Macc.3.13">Now when Seron, the commander of the Syrian army, heard that Judas had gathered a large company, including a body of faithful men who stayed with him and went out to battle,</verse>
+        <verse canonical="true" osisID="1Macc.3.14">he said, "I will make a name for myself and win honor in the kingdom. I will make war on Judas and his companions, who scorn the king's command."</verse>
+        <verse canonical="true" osisID="1Macc.3.15">And again a strong army of ungodly men went up with him to help him, to take vengeance on the sons of Israel.</verse>
+        <verse canonical="true" osisID="1Macc.3.16">When he approached the ascent of Beth-horon, Judas went out to meet him with a small company.</verse>
+        <verse canonical="true" osisID="1Macc.3.17">But when they saw the army coming to meet them, they said to Judas, "How can we, few as we are, fight against so great and strong a multitude? And we are faint, for we have eaten nothing today."</verse>
+        <verse canonical="true" osisID="1Macc.3.18">Judas replied, "It is easy for many to be hemmed in by few, for in the sight of Heaven there is no difference between saving by many or by few.</verse>
+        <verse canonical="true" osisID="1Macc.3.19">It is not on the size of the army that victory in battle depends, but strength comes from Heaven.</verse>
+        <verse canonical="true" osisID="1Macc.3.20">They come against us in great pride and lawlessness to destroy us and our wives and our children, and to despoil us;</verse>
+        <verse canonical="true" osisID="1Macc.3.21">but we fight for our lives and our laws.</verse>
+        <verse canonical="true" osisID="1Macc.3.22">He himself will crush them before us; as for you, do not be afraid of them."</verse>
+        <verse canonical="true" osisID="1Macc.3.23">When he finished speaking, he rushed suddenly against Seron and his army, and they were crushed before him.</verse>
+        <verse canonical="true" osisID="1Macc.3.24">They pursued them down the descent of Beth-horon to the plain; eight hundred of them fell, and the rest fled into the land of the Philistines.</verse>
+        <verse canonical="true" osisID="1Macc.3.25">Then Judas and his brothers began to be feared, and terror fell upon the Gentiles round about them.</verse>
+        <verse canonical="true" osisID="1Macc.3.26">His fame reached the king, and the Gentiles talked of the battles of Judas.</verse>
+        <verse canonical="true" osisID="1Macc.3.27">When king Antiochus heard these reports, he was greatly angered; and he sent and gathered all the forces of his kingdom, a very strong army.</verse>
+        <verse canonical="true" osisID="1Macc.3.28">And he opened his coffers and gave a year's pay to his forces, and ordered them to be ready for any need.</verse>
+        <verse canonical="true" osisID="1Macc.3.29">Then he saw that the money in the treasury was exhausted, and that the revenues from the country were small because of the dissension and disaster which he had caused in the land by abolishing the laws that had existed from the earliest days.</verse>
+        <verse canonical="true" osisID="1Macc.3.30">He feared that he might not have such funds as he had before for his expenses and for the gifts which he used to give more lavishly than preceding kings.</verse>
+        <verse canonical="true" osisID="1Macc.3.31">He was greatly perplexed in mind, and determined to go to Persia and collect the revenues from those regions and raise a large fund.</verse>
+        <verse canonical="true" osisID="1Macc.3.32">He left Lysias, a distinguished man of royal lineage, in charge of the king's affairs from the river Euphrates to the borders of Egypt.</verse>
+        <verse canonical="true" osisID="1Macc.3.33">Lysias was also to take care of Antiochus his son until he returned.</verse>
+        <verse canonical="true" osisID="1Macc.3.34">And he turned over to Lysias half of his troops and the elephants, and gave him orders about all that he wanted done. As for the residents of Judea and Jerusalem,</verse>
+        <verse canonical="true" osisID="1Macc.3.35">Lysias was to send a force against them to wipe out and destroy the strength of Israel and the remnant of Jerusalem; he was to banish the memory of them from the place,</verse>
+        <verse canonical="true" osisID="1Macc.3.36">settle aliens in all their territory, and distribute their land.</verse>
+        <verse canonical="true" osisID="1Macc.3.37">Then the king took the remaining half of his troops and departed from Antioch his capital in the one hundred and forty-seventh year. He crossed the Euphrates river and went through the upper provinces.</verse>
+        <verse canonical="true" osisID="1Macc.3.38">Lysias chose Ptolemy the son of Dorymenes, and Nicanor and Gorgias, mighty men among the friends of the king,</verse>
+        <verse canonical="true" osisID="1Macc.3.39">and sent with them forty thousand infantry and seven thousand cavalry to go into the land of Judah and destroy it, as the king had commanded.</verse>
+        <verse canonical="true" osisID="1Macc.3.40">so they departed with their entire force, and when they arrived they encamped near Emmaus in the plain.</verse>
+        <verse canonical="true" osisID="1Macc.3.41">When the traders of the region heard what was said to them, they took silver and gold in immense amounts, and fetters, and went to the camp to get the sons of Israel for slaves. And forces from Syria and the land of the Philistines joined with them.</verse>
+        <verse canonical="true" osisID="1Macc.3.42">Now Judas and his brothers saw that misfortunes had increased and that the forces were encamped in their territory. They also learned what the king had commanded to do to the people to cause their final destruction.</verse>
+        <verse canonical="true" osisID="1Macc.3.43">But they said to one another, "Let us repair the destruction of our people, and fight for our people and the sanctuary."</verse>
+        <verse canonical="true" osisID="1Macc.3.44">And the congregation assembled to be ready for battle, and to pray and ask for mercy and compassion.</verse>
+        <verse canonical="true" osisID="1Macc.3.45">Jerusalem was uninhabited like a wilderness; not one of her children went in or out.The sanctuary was trampled own, and the sons of aliens held the citadel; it was a lodging place for the Gentiles. Joy was taken from Jacob; the flute and the harp ceased to play.</verse>
+        <verse canonical="true" osisID="1Macc.3.46">So they assembled and went to Mizpah, opposite Jerusalem, because Israel formerly had a place of prayer in Mizpah.</verse>
+        <verse canonical="true" osisID="1Macc.3.47">They fasted that day, put on sackcloth and sprinkled ashes on their heads, and rent their clothes.</verse>
+        <verse canonical="true" osisID="1Macc.3.48">And they opened the book of the law to inquire into those matters about which the Gentiles were consulting the images of their idols.</verse>
+        <verse canonical="true" osisID="1Macc.3.49">They also brought the garments of the priesthood and the first fruits and the tithes, and they stirred up the Nazirites who had completed their days;</verse>
+        <verse canonical="true" osisID="1Macc.3.50">and they cried aloud to Heaven, saying, "What shall we do with these? Where shall we take them?</verse>
+        <verse canonical="true" osisID="1Macc.3.51">Thy sanctuary is trampled down and profaned, and thy priests mourn in humiliation.</verse>
+        <verse canonical="true" osisID="1Macc.3.52">And behold, the Gentiles are assembled against us to destroy us; thou knowest what they plot against us.</verse>
+        <verse canonical="true" osisID="1Macc.3.53">How will we be able to withstand them, if thou dost not help us?"</verse>
+        <verse canonical="true" osisID="1Macc.3.54">Then they sounded the trumpets and gave a loud shout.</verse>
+        <verse canonical="true" osisID="1Macc.3.55">After this Judas appointed leaders of the people, in charge of thousands and hundreds and fifties and tens.</verse>
+        <verse canonical="true" osisID="1Macc.3.56">And he said to those who were building houses, or were betrothed, or were planting vineyards, or were fainthearted, that each should return to his home, according to the law.</verse>
+        <verse canonical="true" osisID="1Macc.3.57">Then the army marched out and encamped to the south of Emmaus.</verse>
+        <verse canonical="true" osisID="1Macc.3.58">And Judas said, "Gird yourselves and be valiant. Be ready early in the morning to fight with these Gentiles who have assembled against us to destroy us and our sanctuary.</verse>
+        <verse canonical="true" osisID="1Macc.3.59">It is better for us to die in battle than to see the misfortunes of our nation and of the sanctuary.</verse>
+        <verse canonical="true" osisID="1Macc.3.60">But as his will in heaven may be, so he will do."</verse>
+      </chapter>
+      <chapter osisID="1Macc.4" TEIform="div">
+        <verse canonical="true" osisID="1Macc.4.1">Now Gorgias took five thousand infantry and a thousand picked cavalry, and this division moved out by night</verse>
+        <verse canonical="true" osisID="1Macc.4.2">to fall upon the camp of the Jews and attack them suddenly. Men from the citadel were his guides.</verse>
+        <verse canonical="true" osisID="1Macc.4.3">But Judas heard of it, and he and his mighty men moved out to attack the king's force in Emmaus</verse>
+        <verse canonical="true" osisID="1Macc.4.4">while the division was still absent from the camp.</verse>
+        <verse canonical="true" osisID="1Macc.4.5">When Gorgias entered the camp of Judas by night, he found no one there, so he looked for them in the hills, because he said, "These men are fleeing from us."</verse>
+        <verse canonical="true" osisID="1Macc.4.6">At daybreak Judas appeared in the plain with three thousand men, but they did not have armor and swords such as they desired.</verse>
+        <verse canonical="true" osisID="1Macc.4.[7]">And they saw the camp of the Gentiles, strong and fortified, with cavalry round about it; and these men were trained in war.</verse>
+        <verse canonical="true" osisID="1Macc.4.8">But Judas said to the men who were with him, "Do not fear their numbers or be afraid when they charge.</verse>
+        <verse canonical="true" osisID="1Macc.4.9">Remember how our fathers were saved at the Red Sea, when Pharaoh with his forces pursued them.</verse>
+        <verse canonical="true" osisID="1Macc.4.10">And now let us cry to Heaven, to see whether he will favor us and remember his covenant with our fathers and crush this army before us today.</verse>
+        <verse canonical="true" osisID="1Macc.4.11">Then all the Gentiles will know that there is one who redeems and saves Israel."</verse>
+        <verse canonical="true" osisID="1Macc.4.12">When the foreigners looked up and saw them coming against them,</verse>
+        <verse canonical="true" osisID="1Macc.4.13">they went forth from their camp to battle. Then the men with Judas blew their trumpets</verse>
+        <verse canonical="true" osisID="1Macc.4.14">and engaged in battle. The Gentiles were crushed and fled into the plain,</verse>
+        <verse canonical="true" osisID="1Macc.4.15">and all those in the rear fell by the sword. They pursued them to Gazara, and to the plains of Idumea, and to Azotus and Jamnia; and three thousand of them fell.</verse>
+        <verse canonical="true" osisID="1Macc.4.16">Then Judas and his force turned back from pursuing them,</verse>
+        <verse canonical="true" osisID="1Macc.4.17">and he said to the people, "Do not be greedy for plunder, for there is a battle before us;</verse>
+        <verse canonical="true" osisID="1Macc.4.18">Gorgias and his force are near us in the hills. But stand now against our enemies and fight them, and afterward seize the plunder boldly."</verse>
+        <verse canonical="true" osisID="1Macc.4.19">Just as Judas was finishing this speech, a detachment appeared, coming out of the hills.</verse>
+        <verse canonical="true" osisID="1Macc.4.20">They saw that their army had been put to flight, and that the Jews were burning the camp, for the smoke that was seen showed what had happened.</verse>
+        <verse canonical="true" osisID="1Macc.4.21">When they perceived this they were greatly frightened, and when they also saw the army of Judas drawn up in the plain for battle,</verse>
+        <verse canonical="true" osisID="1Macc.4.22">they all fled into the land of the Philistines.</verse>
+        <verse canonical="true" osisID="1Macc.4.23">Then Judas returned to plunder the camp, and they seized much gold and silver, and cloth dyed blue and sea purple, and great riches.</verse>
+        <verse canonical="true" osisID="1Macc.4.24">On their return they sang hymns and praises to Heaven, for he is good, for his mercy endures for ever.</verse>
+        <verse canonical="true" osisID="1Macc.4.25">Thus Israel had a great deliverance that day.</verse>
+        <verse canonical="true" osisID="1Macc.4.26">Those of the foreigners who escaped went and reported to Lysias all that had happened.</verse>
+        <verse canonical="true" osisID="1Macc.4.27">When he heard it, he was perplexed and discouraged, for things had not happened to Israel as he had intended, nor had they turned out as the king had commanded him.</verse>
+        <verse canonical="true" osisID="1Macc.4.28">But the next year he mustered sixty thousand picked infantrymen and five thousand cavalry to subdue them.</verse>
+        <verse canonical="true" osisID="1Macc.4.29">They came into Idumea and encamped at Beth-zur, and Judas met them with ten thousand men.</verse>
+        <verse canonical="true" osisID="1Macc.4.30">When he saw that the army was strong, he prayed, saying, "Blessed art thou, O Savior of Israel, who didst crush the attack of the mighty warrior by the hand of thy servant David, and didst give the camp of the Philistines into the hands of Jonathan, the son of Saul, and of the man who carried his armor.</verse>
+        <verse canonical="true" osisID="1Macc.4.31">So do thou hem in this army by the hand of thy people Israel, and let them be ashamed of their troops and their cavalry.</verse>
+        <verse canonical="true" osisID="1Macc.4.32">Fill them with cowardice; melt the boldness of their strength; let them tremble in their destruction.</verse>
+        <verse canonical="true" osisID="1Macc.4.33">Strike them down with the sword of those who love thee, and let all who know thy name praise thee with hymns."</verse>
+        <verse canonical="true" osisID="1Macc.4.34">Then both sides attacked, and there fell of the army of Lysias five thousand men; they fell in action.</verse>
+        <verse canonical="true" osisID="1Macc.4.35">And when Lysias saw the rout of his troops and observed the boldness which inspired those of Judas, and how ready they were either to live or to die nobly, he departed to Antioch and enlisted mercenaries, to invade Judea again with an even larger army.</verse>
+        <verse canonical="true" osisID="1Macc.4.36">Then said Judas and his brothers, "Behold, our enemies are crushed; let us go up to cleanse the sanctuary and dedicate it."</verse>
+        <verse canonical="true" osisID="1Macc.4.37">So all the army assembled and they went up to Mount Zion.</verse>
+        <verse canonical="true" osisID="1Macc.4.38">And they saw the sanctuary desolate, the altar profaned, and the gates burned. In the courts they saw bushes sprung up as in a thicket, or as on one of the mountains. They saw also the chambers of the priests in ruins.</verse>
+        <verse canonical="true" osisID="1Macc.4.39">Then they rent their clothes, and mourned with great lamentation, and sprinkled themselves with ashes.</verse>
+        <verse canonical="true" osisID="1Macc.4.40">They fell face down on the ground, and sounded the signal on the trumpets, and cried out to Heaven.</verse>
+        <verse canonical="true" osisID="1Macc.4.41">Then Judas detailed men to fight against those in the citadel until he had cleansed the sanctuary.</verse>
+        <verse canonical="true" osisID="1Macc.4.42">He chose blameless priests devoted to the law,</verse>
+        <verse canonical="true" osisID="1Macc.4.43">and they cleansed the sanctuary and removed the defiled stones to an unclean place.</verse>
+        <verse canonical="true" osisID="1Macc.4.44">They deliberated what to do about the altar of burnt offering, which had been profaned.</verse>
+        <verse canonical="true" osisID="1Macc.4.45">And they thought it best to tear it down, lest it bring reproach upon them, for the Gentiles had defiled it. So they tore down the altar,</verse>
+        <verse canonical="true" osisID="1Macc.4.46">and stored the stones in a convenient place on the temple hill until there should come a prophet to tell what to do with them.</verse>
+        <verse canonical="true" osisID="1Macc.4.47">Then they took unhewn stones, as the law directs, and built a new altar like the former one.</verse>
+        <verse canonical="true" osisID="1Macc.4.48">They also rebuilt the sanctuary and the interior of the temple, and consecrated the courts.</verse>
+        <verse canonical="true" osisID="1Macc.4.49">They made new holy vessels, and brought the lampstand, the altar of incense, and the table into the temple.</verse>
+        <verse canonical="true" osisID="1Macc.4.50">Then they burned incense on the altar and lighted the lamps on the lampstand, and these gave light in the temple.</verse>
+        <verse canonical="true" osisID="1Macc.4.51">They placed the bread on the table and hung up the curtains. Thus they finished all the work they had undertaken.</verse>
+        <verse canonical="true" osisID="1Macc.4.52">Early in the morning on the twenty-fifth day of the ninth month, which is the month of Chislev, in the one hundred and forty-eighth year,</verse>
+        <verse canonical="true" osisID="1Macc.4.53">they rose and offered sacrifice, as the law directs, on the new altar of burnt offering which they had built.</verse>
+        <verse canonical="true" osisID="1Macc.4.54">At the very season and on the very day that the Gentiles had profaned it, it was dedicated with songs and harps and lutes and cymbals.</verse>
+        <verse canonical="true" osisID="1Macc.4.55">All the people fell on their faces and worshiped and blessed Heaven, who had prospered them.</verse>
+        <verse canonical="true" osisID="1Macc.4.56">So they celebrated the dedication of the altar for eight days, and offered burnt offerings with gladness; they offered a sacrifice of deliverance and praise.</verse>
+        <verse canonical="true" osisID="1Macc.4.57">They decorated the front of the temple with golden crowns and small shields; they restored the gates and the chambers for the priests, and furnished them with doors.</verse>
+        <verse canonical="true" osisID="1Macc.4.58">There was very great gladness among the people, and the reproach of the Gentiles was removed.</verse>
+        <verse canonical="true" osisID="1Macc.4.59">Then Judas and his brothers and all the assembly of Israel determined that every year at that season the days of dedication of the altar should be observed with gladness and joy for eight days, beginning with the twenty-fifth day of the month of Chislev.</verse>
+        <verse canonical="true" osisID="1Macc.4.60">At that time they fortified Mount Zion with high walls and strong towers round about, to keep the Gentiles from coming and trampling them down as they had done before.</verse>
+        <verse canonical="true" osisID="1Macc.4.61">And he stationed a garrison there to hold it. He also fortified Beth-zur, so that the people might have a stronghold that faced Idumea.</verse>
+      </chapter>
+      <chapter osisID="1Macc.5" TEIform="div">
+        <verse canonical="true" osisID="1Macc.5.1">When the Gentiles round about heard that the altar had been built and the sanctuary dedicated as it was before, they became very angry,</verse>
+        <verse canonical="true" osisID="1Macc.5.2">and they determined to destroy the descendants of Jacob who lived among them. So they began to kill and destroy among the people.</verse>
+        <verse canonical="true" osisID="1Macc.5.3">But Judas made war on the sons of Esau in Idumea, at Akrabattene, because they kept lying in wait for Israel. He dealt them a heavy blow and humbled them and despoiled them.</verse>
+        <verse canonical="true" osisID="1Macc.5.4">He also remembered the wickedness of the sons of Baean, who were a trap and a snare to the people and ambushed them on the highways.</verse>
+        <verse canonical="true" osisID="1Macc.5.5">They were shut up by him in their towers; and he encamped against them, vowed their complete destruction, and burned with fire their towers and all who were in them.</verse>
+        <verse canonical="true" osisID="1Macc.5.6">Then he crossed over to attack the Ammonites, where he found a strong band and many people with Timothy as their leader.</verse>
+        <verse canonical="true" osisID="1Macc.5.7">He engaged in many battles with them and they were crushed before him; he struck them down.</verse>
+        <verse canonical="true" osisID="1Macc.5.8">He also took Jazer and its villages; then he returned to Judea.</verse>
+        <verse canonical="true" osisID="1Macc.5.9">Now the Gentiles in Gilead gathered together against the Israelites who lived in their territory, and planned to destroy them. But they fled to the stronghold of Dathema,</verse>
+        <verse canonical="true" osisID="1Macc.5.10">and sent to Judas and his brothers a letter which said, "The Gentiles around us have gathered together against us to destroy us.</verse>
+        <verse canonical="true" osisID="1Macc.5.11">They are preparing to come and capture the stronghold to which we have fled, and Timothy is leading their forces.</verse>
+        <verse canonical="true" osisID="1Macc.5.12">Now then come and rescue us from their hands, for many of us have fallen,</verse>
+        <verse canonical="true" osisID="1Macc.5.13">and all our brethren who were in the land of Tob have been killed; the enemy have captured their wives and children and goods, and have destroyed about a thousand men there."</verse>
+        <verse canonical="true" osisID="1Macc.5.14">While the letter was still being read, behold, other messengers, with their garments rent, came from Galilee and made a similar report;</verse>
+        <verse canonical="true" osisID="1Macc.5.15">they said that against them had gathered together men of Ptolemais and Tyre and Sidon, and all Galilee of the Gentiles, "to annihilate us."</verse>
+        <verse canonical="true" osisID="1Macc.5.16">When Judas and the people heard these messages, a great assembly was called to determine what they should do for their brethren who were in distress and were being attacked by enemies.</verse>
+        <verse canonical="true" osisID="1Macc.5.17">Then Judas said to Simon his brother, "Choose your men and go and rescue your brethren in Galilee; I and Jonathan my brother will go to Gilead."</verse>
+        <verse canonical="true" osisID="1Macc.5.18">But he left Joseph, the son of Zechariah, and Azariah, a leader of the people, with the rest of the forces, in Judea to guard it;</verse>
+        <verse canonical="true" osisID="1Macc.5.19">and he gave them this command, "Take charge of this people, but do not engage in battle with the Gentiles until we return."</verse>
+        <verse canonical="true" osisID="1Macc.5.20">Then three thousand men were assigned to Simon to go to Galilee, and eight thousand to Judas for Gilead.</verse>
+        <verse canonical="true" osisID="1Macc.5.21">so Simon went to Galilee and fought many battles against the Gentiles, and the Gentiles were crushed before him.</verse>
+        <verse canonical="true" osisID="1Macc.5.22">He pursued them to the gate of Ptolemais, and as many as three thousand of the Gentiles fell, and he despoiled them.</verse>
+        <verse canonical="true" osisID="1Macc.5.23">Then he took the Jews of Galilee and Arbatta, with their wives and children, and all they possessed, and led them to Judea with great rejoicing.</verse>
+        <verse canonical="true" osisID="1Macc.5.24">Judas Maccabeus and Jonathan his brother crossed the Jordan and went three days' journey into the wilderness.</verse>
+        <verse canonical="true" osisID="1Macc.5.25">They encountered the Nabateans, who met them peaceably and told them all that had happened to their brethren in Gilead:</verse>
+        <verse canonical="true" osisID="1Macc.5.26">"Many of them have been shut up in Bozrah and Bosor, in Alema and Chaspho, Maked and Carnaim" -- all these cities were strong and large--</verse>
+        <verse canonical="true" osisID="1Macc.5.27">"and some have been shut up in the other cities of Gilead; the enemy are getting ready to attack the strongholds tomorrow and take and destroy all these men in one day."</verse>
+        <verse canonical="true" osisID="1Macc.5.28">Then Judas and his army quickly turned back by the wilderness road to Bozrah; and he took the city, and killed every male by the edge of the sword; then he seized all its spoils and burned it with fire.</verse>
+        <verse canonical="true" osisID="1Macc.5.29">He departed from there at night, and they went all the way to the stronghold of Dathema.</verse>
+        <verse canonical="true" osisID="1Macc.5.30">At dawn they looked up, and behold, a large company, that could not be counted, carrying ladders and engines of war to capture the stronghold, and attacking the Jews within.</verse>
+        <verse canonical="true" osisID="1Macc.5.31">So Judas saw that the battle had begun and that the cry of the city went up to Heaven with trumpets and loud shouts,</verse>
+        <verse canonical="true" osisID="1Macc.5.32">and he said to the men of his forces, "Fight today for your brethren!"</verse>
+        <verse canonical="true" osisID="1Macc.5.33">Then he came up behind them in three companies, who sounded their trumpets and cried aloud in prayer.</verse>
+        <verse canonical="true" osisID="1Macc.5.34">And when the army of Timothy realized that it was Maccabeus, they fled before him, and he dealt them a heavy blow. As many as eight thousand of them fell that day.</verse>
+        <verse canonical="true" osisID="1Macc.5.35">Next he turned aside to Alema, and fought against it and took it; and he killed every male in it, plundered it, and burned it with fire.</verse>
+        <verse canonical="true" osisID="1Macc.5.36">From there he marched on and took Chaspho, Maked, and Bosor, and the other cities of Gilead.</verse>
+        <verse canonical="true" osisID="1Macc.5.37">After these things Timothy gathered another army and encamped opposite Raphon, on the other side of the stream.</verse>
+        <verse canonical="true" osisID="1Macc.5.38">Judas sent men to spy out the camp, and they reported to him, "All the Gentiles around us have gathered to him; it is a very large force.</verse>
+        <verse canonical="true" osisID="1Macc.5.39">They also have hired Arabs to help them, and they are encamped across the stream, ready to come and fight against you." And Judas went to meet them.</verse>
+        <verse canonical="true" osisID="1Macc.5.40">Now as Judas and his army drew near to the stream of water, Timothy said to the officers of his forces, "If he crosses over to us first, we will not be able to resist him, for he will surely defeat us.</verse>
+        <verse canonical="true" osisID="1Macc.5.41">But if he shows fear and camps on the other side of the river, we will cross over to him and defeat him."</verse>
+        <verse canonical="true" osisID="1Macc.5.42">When Judas approached the stream of water, he stationed the scribes of the people at the stream and gave them this command, "Permit no man to encamp, but make them all enter the battle."</verse>
+        <verse canonical="true" osisID="1Macc.5.43">Then he crossed over against them first, and the whole army followed him. All the Gentiles were defeated before him, and they threw away their arms and fled into the sacred precincts at Carnaim.</verse>
+        <verse canonical="true" osisID="1Macc.5.44">But he took the city and burned the sacred precincts with fire, together with all who were in them. Thus Carnaim was conquered; they could stand before Judas no longer.</verse>
+        <verse canonical="true" osisID="1Macc.5.45">Then Judas gathered together all the Israelites in Gilead, the small and the great, with their wives and children and goods, a very large company, to go to the land of Judah.</verse>
+        <verse canonical="true" osisID="1Macc.5.46">So they came to Ephron. This was a large and very strong city on the road, and they could not go round it to the right or to the left; they had to go through it.</verse>
+        <verse canonical="true" osisID="1Macc.5.47">But the men of the city shut them out and blocked up the gates with stones.</verse>
+        <verse canonical="true" osisID="1Macc.5.48">And Judas sent them this friendly message, "Let us pass through your land to get to our land. No one will do you harm; we will simply pass by on foot." But they refused to open to him.</verse>
+        <verse canonical="true" osisID="1Macc.5.49">Then Judas ordered proclamation to be made to the army that each should encamp where he was.</verse>
+        <verse canonical="true" osisID="1Macc.5.50">So the men of the forces encamped, and he fought against the city all that day and all the night, and the city was delivered into his hands.</verse>
+        <verse canonical="true" osisID="1Macc.5.51">He destroyed every male by the edge of the sword, and razed and plundered the city. Then he passed through the city over the slain.</verse>
+        <verse canonical="true" osisID="1Macc.5.52">And they crossed the Jordan into the large plain before Beth-shan.</verse>
+        <verse canonical="true" osisID="1Macc.5.53">And Judas kept rallying the laggards and encouraging the people all the way till he came to the land of Judah.</verse>
+        <verse canonical="true" osisID="1Macc.5.54">So they went up to Mount Zion with gladness and joy, and offered burnt offerings, because not one of them had fallen before they returned in safety.</verse>
+        <verse canonical="true" osisID="1Macc.5.55">Now while Judas and Jonathan were in Gilead and Simon his brother was in Galilee before Ptolemais,</verse>
+        <verse canonical="true" osisID="1Macc.5.56">Joseph, the son of Zechariah, and Azariah, the commanders of the forces, heard of their brave deeds and of the heroic war they had fought.</verse>
+        <verse canonical="true" osisID="1Macc.5.57">So they said, "Let us also make a name for ourselves; let us go and make war on the Gentiles around us."</verse>
+        <verse canonical="true" osisID="1Macc.5.58">And they issued orders to the men of the forces that were with them, and they marched against Jamnia.</verse>
+        <verse canonical="true" osisID="1Macc.5.59">And Gorgias and his men came out of the city to meet them in battle.</verse>
+        <verse canonical="true" osisID="1Macc.5.60">Then Joseph and Azariah were routed, and were pursued to the borders of Judea; as many as two thousand of the people of Israel fell that day.</verse>
+        <verse canonical="true" osisID="1Macc.5.61">Thus the people suffered a great rout because, thinking to do a brave deed, they did not listen to Judas and his brothers.</verse>
+        <verse canonical="true" osisID="1Macc.5.62">But they did not belong to the family of those men through whom deliverance was given to Israel.</verse>
+        <verse canonical="true" osisID="1Macc.5.63">The man Judas and his brothers were greatly honored in all Israel and among all the Gentiles, wherever their name was heard.</verse>
+        <verse canonical="true" osisID="1Macc.5.64">Men gathered to them and praised them.</verse>
+        <verse canonical="true" osisID="1Macc.5.65">Then Judas and his brothers went forth and fought the sons of Esau in the land to the south. He struck Hebron and its villages and tore down its strongholds and burned its towers round about.</verse>
+        <verse canonical="true" osisID="1Macc.5.66">Then he marched off to go into the land of the Philistines, and passed through Marisa.</verse>
+        <verse canonical="true" osisID="1Macc.5.67">On that day some priests, who wished to do a brave deed, fell in battle, for they went out to battle unwisely.</verse>
+        <verse canonical="true" osisID="1Macc.5.68">But Judas turned aside to Azotus in the land of the Philistines; he tore down their altars, and the graven images of their gods he burned with fire; he plundered the cities and returned to the land of Judah.</verse>
+      </chapter>
+      <chapter osisID="1Macc.6" TEIform="div">
+        <verse canonical="true" osisID="1Macc.6.1">King Antiochus was going through the upper provinces when he heard that Elymais in Persia was a city famed for its wealth in silver and gold.</verse>
+        <verse canonical="true" osisID="1Macc.6.2">Its temple was very rich, containing golden shields, breastplates, and weapons left there by Alexander, the son of Philip, the Macedonian king who first reigned over the Greeks.</verse>
+        <verse canonical="true" osisID="1Macc.6.3">So he came and tried to take the city and plunder it, but he could not, because his plan became known to the men of the city</verse>
+        <verse canonical="true" osisID="1Macc.6.4">and they withstood him in battle. So he fled and in great grief departed from there to return to Babylon.</verse>
+        <verse canonical="true" osisID="1Macc.6.5">Then some one came to him in Persia and reported that the armies which had gone into the land of Judah had been routed;</verse>
+        <verse canonical="true" osisID="1Macc.6.6">that Lysias had gone first with a strong force, but had turned and fled before the Jews; that the Jews had grown strong from the arms, supplies, and abundant spoils which they had taken from the armies they had cut down;</verse>
+        <verse canonical="true" osisID="1Macc.6.7">that they had torn down the abomination which he had erected upon the altar in Jerusalem; and that they had surrounded the sanctuary with high walls as before, and also Beth-zur, his city.</verse>
+        <verse canonical="true" osisID="1Macc.6.8">When the king heard this news, he was astounded and badly shaken. He took to his bed and became sick from grief, because things had not turned out for him as he had planned.</verse>
+        <verse canonical="true" osisID="1Macc.6.9">He lay there for many days, because deep grief continually gripped him, and he concluded that he was dying.</verse>
+        <verse canonical="true" osisID="1Macc.6.10">So he called all his friends and said to them, "Sleep departs from my eyes and I am downhearted with worry.</verse>
+        <verse canonical="true" osisID="1Macc.6.11">I said to myself, `To what distress I have come! And into what a great flood I now am plunged! For I was kind and beloved in my power.'</verse>
+        <verse canonical="true" osisID="1Macc.6.12">But now I remember the evils I did in Jerusalem. I seized all her vessels of silver and gold; and I sent to destroy the inhabitants of Judah without good reason.</verse>
+        <verse canonical="true" osisID="1Macc.6.13">I know that it is because of this that these evils have come upon me; and behold, I am perishing of deep grief in a strange land."</verse>
+        <verse canonical="true" osisID="1Macc.6.14">Then he called for Philip, one of his friends, and made him ruler over all his kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.6.15">He gave him the crown and his robe and the signet, that he might guide Antiochus his son and bring him up to be king.</verse>
+        <verse canonical="true" osisID="1Macc.6.16">Thus Antiochus the king died there in the one hundred and forty-ninth year.</verse>
+        <verse canonical="true" osisID="1Macc.6.17">And when Lysias learned that the king was dead, he set up Antiochus the king's son to reign. Lysias had brought him up as a boy, and he named him Eupator.</verse>
+        <verse canonical="true" osisID="1Macc.6.18">Now the men in the citadel kept hemming Israel in around the sanctuary. They were trying in every way to harm them and strengthen the Gentiles.</verse>
+        <verse canonical="true" osisID="1Macc.6.19">So Judas decided to destroy them, and assembled all the people to besiege them.</verse>
+        <verse canonical="true" osisID="1Macc.6.20">They gathered together and besieged the citadel in the one hundred and fiftieth year; and he built siege towers and other engines of war.</verse>
+        <verse canonical="true" osisID="1Macc.6.21">But some of the garrison escaped from the siege and some of the ungodly Israelites joined them.</verse>
+        <verse canonical="true" osisID="1Macc.6.22">They went to the king and said, "How long will you fail to do justice and to avenge our brethren?</verse>
+        <verse canonical="true" osisID="1Macc.6.23">We were happy to serve your father, to live by what he said and to follow his commands.</verse>
+        <verse canonical="true" osisID="1Macc.6.24">For this reason the sons of our people besieged the citadel and became hostile to us; moreover, they have put to death as many of us as they have caught, and they have seized our inheritances.</verse>
+        <verse canonical="true" osisID="1Macc.6.25">And not against us alone have they stretched out their hands, but also against all the lands on their borders.</verse>
+        <verse canonical="true" osisID="1Macc.6.26">And behold, today they have encamped against the citadel in Jerusalem to take it; they have fortified both the sanctuary and Beth-zur;</verse>
+        <verse canonical="true" osisID="1Macc.6.27">and unless you quickly prevent them, they will do still greater things, and you will not be able to stop them."</verse>
+        <verse canonical="true" osisID="1Macc.6.28">The king was enraged when he heard this. He assembled all his friends, the commanders of his forces and those in authority.</verse>
+        <verse canonical="true" osisID="1Macc.6.29">And mercenary forces came to him from other kingdoms and from islands of the seas.</verse>
+        <verse canonical="true" osisID="1Macc.6.30">The number of his forces was a hundred thousand foot soldiers, twenty thousand horsemen, and thirty-two elephants accustomed to war.</verse>
+        <verse canonical="true" osisID="1Macc.6.31">They came through Idumea and encamped against Beth-zur, and for many days they fought and built engines of war; but the Jews sallied out and burned these with fire, and fought manfully.</verse>
+        <verse canonical="true" osisID="1Macc.6.32">Then Judas marched away from the citadel and encamped at Beth-zechariah, opposite the camp of the king.</verse>
+        <verse canonical="true" osisID="1Macc.6.33">Early in the morning the king rose and took his army by a forced march along the road to Beth-zechariah, and his troops made ready for battle and sounded their trumpets.</verse>
+        <verse canonical="true" osisID="1Macc.6.34">They showed the elephants the juice of grapes and mulberries, to arouse them for battle.</verse>
+        <verse canonical="true" osisID="1Macc.6.35">And they distributed the beasts among the phalanxes; with each elephant they stationed a thousand men armed with coats of mail, and with brass helmets on their heads; and five hundred picked horsemen were assigned to each beast.</verse>
+        <verse canonical="true" osisID="1Macc.6.36">These took their position beforehand wherever the beast was; wherever it went they went with it, and they never left it.</verse>
+        <verse canonical="true" osisID="1Macc.6.37">And upon the elephants were wooden towers, strong and covered; they were fastened upon each beast by special harness, and upon each were four armed men who fought from there, and also its Indian driver.</verse>
+        <verse canonical="true" osisID="1Macc.6.38">The rest of the horsemen were stationed on either side, on the two flanks of the army, to harass the enemy while being themselves protected by the phalanxes.</verse>
+        <verse canonical="true" osisID="1Macc.6.39">When the sun shone upon the shields of gold and brass, the hills were ablaze with them and gleamed like flaming torches.</verse>
+        <verse canonical="true" osisID="1Macc.6.40">Now a part of the king's army was spread out on the high hills, and some troops were on the plain, and they advanced steadily and in good order.</verse>
+        <verse canonical="true" osisID="1Macc.6.41">All who heard the noise made by their multitude, by the marching of the multitude and the clanking of their arms, trembled, for the army was very large and strong.</verse>
+        <verse canonical="true" osisID="1Macc.6.42">But Judas and his army advanced to the battle, and six hundred men of the king's army fell.</verse>
+        <verse canonical="true" osisID="1Macc.6.43">And Eleazar, called Avaran, saw that one of the beasts was equipped with royal armor. It was taller than all the others, and he supposed that the king was upon it.</verse>
+        <verse canonical="true" osisID="1Macc.6.44">So he gave his life to save his people and to win for himself an everlasting name.</verse>
+        <verse canonical="true" osisID="1Macc.6.45">He courageously ran into the midst of the phalanx to reach it; he killed men right and left, and they parted before him on both sides.</verse>
+        <verse canonical="true" osisID="1Macc.6.46">He got under the elephant, stabbed it from beneath, and killed it; but it fell to the ground upon him and he died.</verse>
+        <verse canonical="true" osisID="1Macc.6.47">And when the Jews saw the royal might and the fierce attack of the forces, they turned away in flight.</verse>
+        <verse canonical="true" osisID="1Macc.6.48">The soldiers of the king's army went up to Jerusalem against them, and the king encamped in Judea and at Mount Zion.</verse>
+        <verse canonical="true" osisID="1Macc.6.49">He made peace with the men of Beth-zur, and they evacuated the city, because they had no provisions there to withstand a siege, since it was a sabbatical year for the land.</verse>
+        <verse canonical="true" osisID="1Macc.6.50">So the king took Beth-zur and stationed a guard there to hold it.</verse>
+        <verse canonical="true" osisID="1Macc.6.51">Then he encamped before the sanctuary for many days. He set up siege towers, engines of war to throw fire and stones, machines to shoot arrows, and catapults.</verse>
+        <verse canonical="true" osisID="1Macc.6.52">The Jews also made engines of war to match theirs, and fought for many days.</verse>
+        <verse canonical="true" osisID="1Macc.6.53">But they had no food in storage, because it was the seventh year; those who found safety in Judea from the Gentiles had consumed the last of the stores.</verse>
+        <verse canonical="true" osisID="1Macc.6.54">Few men were left in the sanctuary, because famine had prevailed over the rest and they had been scattered, each to his own place.</verse>
+        <verse canonical="true" osisID="1Macc.6.55">Then Lysias heard that Philip, whom King Antiochus while still living had appointed to bring up Antiochus his son to be king,</verse>
+        <verse canonical="true" osisID="1Macc.6.56">had returned from Persia and Media with the forces that had gone with the king, and that he was trying to seize control of the government.</verse>
+        <verse canonical="true" osisID="1Macc.6.57">So he quickly gave orders to depart, and said to the king, to the commanders of the forces, and to the men, "We daily grow weaker, our food supply is scant, the place against which we are fighting is strong, and the affairs of the kingdom press urgently upon us.</verse>
+        <verse canonical="true" osisID="1Macc.6.58">Now then let us come to terms with these men, and make peace with them and with all their nation,</verse>
+        <verse canonical="true" osisID="1Macc.6.59">and agree to let them live by their laws as they did before; for it was on account of their laws which we abolished that they became angry and did all these things."</verse>
+        <verse canonical="true" osisID="1Macc.6.60">The speech pleased the king and the commanders, and he sent to the Jews an offer of peace, and they accepted it.</verse>
+        <verse canonical="true" osisID="1Macc.6.61">So the king and the commanders gave them their oath. On these conditions the Jews evacuated the stronghold.</verse>
+        <verse canonical="true" osisID="1Macc.6.62">But when the king entered Mount Zion and saw what a strong fortress the place was, he broke the oath he had sworn and gave orders to tear down the wall all around.</verse>
+        <verse canonical="true" osisID="1Macc.6.63">Then he departed with haste and returned to Antioch. He found Philip in control of the city, but he fought against him, and took the city by force.</verse>
+      </chapter>
+      <chapter osisID="1Macc.7" TEIform="div">
+        <verse canonical="true" osisID="1Macc.7.1">In the one hundred and fifty-first year Demetrius the son of Seleucus set forth from Rome, sailed with a few men to a city by the sea, and there began to reign.</verse>
+        <verse canonical="true" osisID="1Macc.7.2">As he was entering the royal palace of his fathers, the army seized Antiochus and Lysias to bring them to him.</verse>
+        <verse canonical="true" osisID="1Macc.7.3">But when this act became known to him, he said, "Do not let me see their faces!"</verse>
+        <verse canonical="true" osisID="1Macc.7.4">So the army killed them, and Demetrius took his seat upon the throne of his kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.7.5">Then there came to him all the lawless and ungodly men of Israel; they were led by Alcimus, who wanted to be high priest.</verse>
+        <verse canonical="true" osisID="1Macc.7.6">And they brought to the king this accusation against the people: "Judas and his brothers have destroyed all your friends, and have driven us out of our land.</verse>
+        <verse canonical="true" osisID="1Macc.7.7">Now then send a man whom you trust; let him go and see all the ruin which Judas has brought upon us and upon the land of the king, and let him punish them and all who help them."</verse>
+        <verse canonical="true" osisID="1Macc.7.8">So the king chose Bacchides, one of the king's friends, governor of the province Beyond the River; he was a great man in the kingdom and was faithful to the king.</verse>
+        <verse canonical="true" osisID="1Macc.7.9">And he sent him, and with him the ungodly Alcimus, whom he made high priest; and he commanded him to take vengeance on the sons of Israel.</verse>
+        <verse canonical="true" osisID="1Macc.7.10">So they marched away and came with a large force into the land of Judah; and he sent messengers to Judas and his brothers with peaceable but treacherous words.</verse>
+        <verse canonical="true" osisID="1Macc.7.11">But they paid no attention to their words, for they saw that they had come with a large force.</verse>
+        <verse canonical="true" osisID="1Macc.7.12">Then a group of scribes appeared in a body before Alcimus and Bacchides to ask for just terms.</verse>
+        <verse canonical="true" osisID="1Macc.7.13">The Hasideans were first among the sons of Israel to seek peace from them,</verse>
+        <verse canonical="true" osisID="1Macc.7.14">for they said, "A priest of the line of Aaron has come with the army, and he will not harm us."</verse>
+        <verse canonical="true" osisID="1Macc.7.15">And he spoke peaceable words to them and swore this oath to them, "We will not seek to injure you or your friends."</verse>
+        <verse canonical="true" osisID="1Macc.7.16">So they trusted him; but he seized sixty of them and killed them in one day, in accordance with the word which was written,</verse>
+        <verse canonical="true" osisID="1Macc.7.17">"The flesh of thy saints and their blood they poured out round about Jerusalem, and there was none to bury them."</verse>
+        <verse canonical="true" osisID="1Macc.7.18">Then the fear and dread of them fell upon all the people, for they said, "There is no truth or justice in them, for they have violated the agreement and the oath which they swore."</verse>
+        <verse canonical="true" osisID="1Macc.7.19">Then Bacchides departed from Jerusalem and encamped in Beth-zaith. And he sent and seized many of the men who had deserted to him, and some of the people, and killed them and threw them into a great pit.</verse>
+        <verse canonical="true" osisID="1Macc.7.20">He placed Alcimus in charge of the country and left with him a force to help him; then Bacchides went back to the king.</verse>
+        <verse canonical="true" osisID="1Macc.7.21">Alcimus strove for the high priesthood,</verse>
+        <verse canonical="true" osisID="1Macc.7.22">and all who were troubling their people joined him. They gained control of the land of Judah and did great damage in Israel.</verse>
+        <verse canonical="true" osisID="1Macc.7.23">And Judas saw all the evil that Alcimus and those with him had done among the sons of Israel; it was more than the Gentiles had done.</verse>
+        <verse canonical="true" osisID="1Macc.7.24">So Judas went out into all the surrounding parts of Judea, and took vengeance on the men who had deserted, and he prevented those in the city from going out into the country.</verse>
+        <verse canonical="true" osisID="1Macc.7.25">When Alcimus saw that Judas and those with him had grown strong, and realized that he could not withstand them, he returned to the king and brought wicked charges against them.</verse>
+        <verse canonical="true" osisID="1Macc.7.26">Then the king sent Nicanor, one of his honored princes, who hated and detested Israel, and he commanded him to destroy the people.</verse>
+        <verse canonical="true" osisID="1Macc.7.27">So Nicanor came to Jerusalem with a large force, and treacherously sent to Judas and his brothers this peaceable message,</verse>
+        <verse canonical="true" osisID="1Macc.7.28">"Let there be no fighting between me and you; I shall come with a few men to see you face to face in peace."</verse>
+        <verse canonical="true" osisID="1Macc.7.29">So he came to Judas, and they greeted one another peaceably. But the enemy were ready to seize Judas.</verse>
+        <verse canonical="true" osisID="1Macc.7.30">It became known to Judas that Nicanor had come to him with treacherous intent, and he was afraid of him and would not meet him again.</verse>
+        <verse canonical="true" osisID="1Macc.7.31">When Nicanor learned that his plan had been disclosed, he went out to meet Judas in battle near Caphar-salama.</verse>
+        <verse canonical="true" osisID="1Macc.7.32">About five hundred men of the army of Nicanor fell, and the rest fled into the city of David.</verse>
+        <verse canonical="true" osisID="1Macc.7.33">After these events Nicanor went up to Mount Zion. Some of the priests came out of the sanctuary, and some of the elders of the people, to greet him peaceably and to show him the burnt offering that was being offered for the king.</verse>
+        <verse canonical="true" osisID="1Macc.7.34">But he mocked them and derided them and defiled them and spoke arrogantly,</verse>
+        <verse canonical="true" osisID="1Macc.7.35">and in anger he swore this oath, "Unless Judas and his army are delivered into my hands this time, then if I return safely I will burn up this house." And he went out in great anger.</verse>
+        <verse canonical="true" osisID="1Macc.7.36">Then the priests went in and stood before the altar and the temple, and they wept and said,</verse>
+        <verse canonical="true" osisID="1Macc.7.37">"Thou didst choose this house to be called by thy name, and to be for thy people a house of prayer and supplication.</verse>
+        <verse canonical="true" osisID="1Macc.7.38">Take vengeance on this man and on his army, and let them fall by the sword; remember their blasphemies, and let them live no longer."</verse>
+        <verse canonical="true" osisID="1Macc.7.39">Now Nicanor went out from Jerusalem and encamped in Beth-horon, and the Syrian army joined him.</verse>
+        <verse canonical="true" osisID="1Macc.7.40">And Judas encamped in Adasa with three thousand men. Then Judas prayed and said,</verse>
+        <verse canonical="true" osisID="1Macc.7.41">"When the messengers from the king spoke blasphemy, thy angel went forth and struck down one hundred and eighty-five thousand of the Assyrians.</verse>
+        <verse canonical="true" osisID="1Macc.7.42">So also crush this army before us today; let the rest learn that Nicanor has spoken wickedly against the sanctuary, and judge him according to this wickedness."</verse>
+        <verse canonical="true" osisID="1Macc.7.43">So the armies met in battle on the thirteenth day of the month of Adar. The army of Nicanor was crushed, and he himself was the first to fall in the battle.</verse>
+        <verse canonical="true" osisID="1Macc.7.44">When his army saw that Nicanor had fallen, they threw down their arms and fled.</verse>
+        <verse canonical="true" osisID="1Macc.7.45">The Jews pursued them a day's journey, from Adasa as far as Gazara, and as they followed kept sounding the battle call on the trumpets.</verse>
+        <verse canonical="true" osisID="1Macc.7.46">And men came out of all the villages of Judea round about, and they out-flanked the enemy and drove them back to their pursuers, so that they all fell by the sword; not even one of them was left.</verse>
+        <verse canonical="true" osisID="1Macc.7.47">Then the Jews seized the spoils and the plunder, and they cut off Nicanor's head and the right hand which he so arrogantly stretched out, and brought them and displayed them just outside Jerusalem.</verse>
+        <verse canonical="true" osisID="1Macc.7.48">The people rejoiced greatly and celebrated that day as a day of great gladness.</verse>
+        <verse canonical="true" osisID="1Macc.7.49">And they decreed that this day should be celebrated each year on the thirteenth day of Adar.</verse>
+        <verse canonical="true" osisID="1Macc.7.50">So the land of Judah had rest for a few days.</verse>
+      </chapter>
+      <chapter osisID="1Macc.8" TEIform="div">
+        <verse canonical="true" osisID="1Macc.8.1">Now Judas heard of the fame of the Romans, that they were very strong and were well-disposed toward all who made an alliance with them, that they pledged friendship to those who came to them,</verse>
+        <verse canonical="true" osisID="1Macc.8.2">and that they were very strong. Men told him of their wars and of the brave deeds which they were doing among the Gauls, how they had defeated them and forced them to pay tribute,</verse>
+        <verse canonical="true" osisID="1Macc.8.3">and what they had done in the land of Spain to get control of the silver and gold mines there,</verse>
+        <verse canonical="true" osisID="1Macc.8.4">and how they had gained control of the whole region by their planning and patience, even though the place was far distant from them. They also subdued the kings who came against them from the ends of the earth, until they crushed them and inflicted great disaster upon them; the rest paid them tribute every year.</verse>
+        <verse canonical="true" osisID="1Macc.8.5">Philip, and Perseus king of the Macedonians, and the others who rose up against them, they crushed in battle and conquered.</verse>
+        <verse canonical="true" osisID="1Macc.8.6">They also defeated Antiochus the Great, king of Asia, who went to fight against them with a hundred and twenty elephants and with cavalry and chariots and a very large army. He was crushed by them;</verse>
+        <verse canonical="true" osisID="1Macc.8.7">they took him alive and decreed that he and those who should reign after him should pay a heavy tribute and give hostages and surrender some of their best provinces,</verse>
+        <verse canonical="true" osisID="1Macc.8.8">the country of India and Media and Lydia. These they took from him and gave to Eumenes the king.</verse>
+        <verse canonical="true" osisID="1Macc.8.9">The Greeks planned to come and destroy them,</verse>
+        <verse canonical="true" osisID="1Macc.8.10">but this became known to them, and they sent a general against the Greeks and attacked them. Many of them were wounded and fell, and the Romans took captive their wives and children; they plundered them, conquered the land, tore down their strongholds, and enslaved them to this day.</verse>
+        <verse canonical="true" osisID="1Macc.8.11">The remaining kingdoms and islands, as many as ever opposed them, they destroyed and enslaved;</verse>
+        <verse canonical="true" osisID="1Macc.8.12">but with their friends and those who rely on them they have kept friendship. They have subdued kings far and near, and as many as have heard of their fame have feared them.</verse>
+        <verse canonical="true" osisID="1Macc.8.13">Those whom they wish to help and to make kings, they make kings, and those whom they wish they depose; and they have been greatly exalted.</verse>
+        <verse canonical="true" osisID="1Macc.8.14">Yet for all this not one of them has put on a crown or worn purple as a mark of pride,</verse>
+        <verse canonical="true" osisID="1Macc.8.15">but they have built for themselves a senate chamber, and every day three hundred and twenty senators constantly deliberate concerning the people, to govern them well.</verse>
+        <verse canonical="true" osisID="1Macc.8.16">They trust one man each year to rule over them and to control all their land; they all heed the one man, and there is no envy or jealousy among them.</verse>
+        <verse canonical="true" osisID="1Macc.8.17">So Judas chose Eupolemus the son of John, son of Accos, and Jason the son of Eleazar, and sent them to Rome to establish friendship and alliance,</verse>
+        <verse canonical="true" osisID="1Macc.8.18">and to free themselves from the yoke; for they saw that the kingdom of the Greeks was completely enslaving Israel.</verse>
+        <verse canonical="true" osisID="1Macc.8.19">They went to Rome, a very long journey; and they entered the senate chamber and spoke as follows:</verse>
+        <verse canonical="true" osisID="1Macc.8.20">"Judas, who is also called Maccabeus, and his brothers and the people of the Jews have sent us to you to establish alliance and peace with you, that we may be enrolled as your allies and friends."</verse>
+        <verse canonical="true" osisID="1Macc.8.21">The proposal pleased them,</verse>
+        <verse canonical="true" osisID="1Macc.8.22">and this is a copy of the letter which they wrote in reply, on bronze tablets, and sent to Jerusalem to remain with them there as a memorial of peace and alliance:</verse>
+        <verse canonical="true" osisID="1Macc.8.23">"May all go well with the Romans and with the nation of the Jews at sea and on land for ever, and may sword and enemy be far from them.</verse>
+        <verse canonical="true" osisID="1Macc.8.24">If war comes first to Rome or to any of their allies in all their dominion,</verse>
+        <verse canonical="true" osisID="1Macc.8.25">the nation of the Jews shall act as their allies wholeheartedly, as the occasion may indicate to them.</verse>
+        <verse canonical="true" osisID="1Macc.8.26">And to the enemy who makes war they shall not give or supply grain, arms, money, or ships, as Rome has decided; and they shall keep their obligations without receiving any return.</verse>
+        <verse canonical="true" osisID="1Macc.8.27">In the same way, if war comes first to the nation of the Jews, the Romans shall willingly act as their allies, as the occasion may indicate to them.</verse>
+        <verse canonical="true" osisID="1Macc.8.28">And to the enemy allies shall be given no grain, arms, money, or ships, as Rome has decided; and they shall keep these obligations and do so without deceit.</verse>
+        <verse canonical="true" osisID="1Macc.8.29">Thus on these terms the Romans make a treaty with the Jewish people.</verse>
+        <verse canonical="true" osisID="1Macc.8.30">If after these terms are in effect both parties shall determine to add or delete anything, they shall do so at their discretion, and any addition or deletion that they may make shall be valid.</verse>
+        <verse canonical="true" osisID="1Macc.8.31">"And concerning the wrongs which King Demetrius is doing to them we have written to him as follows, `Why have you made your yoke heavy upon our friends and allies the Jews?</verse>
+        <verse canonical="true" osisID="1Macc.8.32">If now they appeal again for help against you, we will defend their rights and fight you on sea and on land.'"</verse>
+      </chapter>
+      <chapter osisID="1Macc.9" TEIform="div">
+        <verse canonical="true" osisID="1Macc.9.1">When Demetrius heard that Nicanor and his army had fallen in battle, he sent Bacchides and Alcimus into the land of Judah a second time, and with them the right wing of the army.</verse>
+        <verse canonical="true" osisID="1Macc.9.2">They went by the road which leads to Gilgal and encamped against Mesaloth in Arbela, and they took it and killed many people.</verse>
+        <verse canonical="true" osisID="1Macc.9.3">In the first month of the one hundred and fifty-second year they encamped against Jerusalem;</verse>
+        <verse canonical="true" osisID="1Macc.9.4">then they marched off and went to Berea with twenty thousand foot soldiers and two thousand cavalry.</verse>
+        <verse canonical="true" osisID="1Macc.9.5">Now Judas was encamped in Elasa, and with him were three thousand picked men.</verse>
+        <verse canonical="true" osisID="1Macc.9.6">When they saw the huge number of the enemy forces, they were greatly frightened, and many slipped away from the camp, until no more than eight hundred of them were left.</verse>
+        <verse canonical="true" osisID="1Macc.9.7">When Judas saw that his army had slipped away and the battle was imminent, he was crushed in spirit, for he had no time to assemble them.</verse>
+        <verse canonical="true" osisID="1Macc.9.8">He became faint, but he said to those who were left, "Let us rise and go up against our enemies. We may be able to fight them."</verse>
+        <verse canonical="true" osisID="1Macc.9.9">But they tried to dissuade him, saying, "We are not able. Let us rather save our own lives now, and let us come back with our brethren and fight them; we are too few."</verse>
+        <verse canonical="true" osisID="1Macc.9.10">But Judas said, "Far be it from us to do such a thing as to flee from them. If our time has come, let us die bravely for our brethren, and leave no cause to question our honor."</verse>
+        <verse canonical="true" osisID="1Macc.9.11">Then the army of Bacchides marched out from the camp and took its stand for the encounter. The cavalry was divided into two companies, and the slingers and the archers went ahead of the army, as did all the chief warriors.</verse>
+        <verse canonical="true" osisID="1Macc.9.12">Bacchides was on the right wing. Flanked by the two companies, the phalanx advanced to the sound of the trumpets; and the men with Judas also blew their trumpets.</verse>
+        <verse canonical="true" osisID="1Macc.9.13">The earth was shaken by the noise of the armies, and the battle raged from morning till evening.</verse>
+        <verse canonical="true" osisID="1Macc.9.14">Judas saw that Bacchides and the strength of his army were on the right; then all the stouthearted men went with him,</verse>
+        <verse canonical="true" osisID="1Macc.9.15">and they crushed the right wing, and he pursued them as far as Mount Azotus.</verse>
+        <verse canonical="true" osisID="1Macc.9.16">When those on the left wing saw that the right wing was crushed, they turned and followed close behind Judas and his men.</verse>
+        <verse canonical="true" osisID="1Macc.9.17">The battle became desperate, and many on both sides were wounded and fell.</verse>
+        <verse canonical="true" osisID="1Macc.9.18">Judas also fell, and the rest fled.</verse>
+        <verse canonical="true" osisID="1Macc.9.19">Then Jonathan and Simon took Judas their brother and buried him in the tomb of their fathers at Modein,</verse>
+        <verse canonical="true" osisID="1Macc.9.20">and wept for him. And all Israel made great lamentation for him; they mourned many days and said,</verse>
+        <verse canonical="true" osisID="1Macc.9.21">"How is the mighty fallen, the savior of Israel!"</verse>
+        <verse canonical="true" osisID="1Macc.9.22">Now the rest of the acts of Judas, and his wars and the brave deeds that he did, and his greatness, have not been recorded, for they were very many.</verse>
+        <verse canonical="true" osisID="1Macc.9.23">After the death of Judas, the lawless emerged in all parts of Israel; all the doers of injustice appeared.</verse>
+        <verse canonical="true" osisID="1Macc.9.24">In those days a very great famine occurred, and the country deserted with them to the enemy.</verse>
+        <verse canonical="true" osisID="1Macc.9.25">And Bacchides chose the ungodly and put them in charge of the country.</verse>
+        <verse canonical="true" osisID="1Macc.9.26">They sought and searched for the friends of Judas, and brought them to Bacchides, and he took vengeance on them and made sport of them.</verse>
+        <verse canonical="true" osisID="1Macc.9.27">Thus there was great distress in Israel, such as had not been since the time that prophets ceased to appear among them.</verse>
+        <verse canonical="true" osisID="1Macc.9.28">Then all the friends of Judas assembled and said to Jonathan,</verse>
+        <verse canonical="true" osisID="1Macc.9.29">"Since the death of your brother Judas there has been no one like him to go against our enemies and Bacchides, and to deal with those of our nation who hate us.</verse>
+        <verse canonical="true" osisID="1Macc.9.30">So now we have chosen you today to take his place as our ruler and leader, to fight our battle."</verse>
+        <verse canonical="true" osisID="1Macc.9.31">And Jonathan at that time accepted the leadership and took the place of Judas his brother.</verse>
+        <verse canonical="true" osisID="1Macc.9.32">When Bacchides learned of this, he tried to kill him.</verse>
+        <verse canonical="true" osisID="1Macc.9.33">But Jonathan and Simon his brother and all who were with him heard of it, and they fled into the wilderness of Tekoa and camped by the water of the pool of Asphar.</verse>
+        <verse canonical="true" osisID="1Macc.9.34">Bacchides found this out on the sabbath day, and he with all his army crossed the Jordan.</verse>
+        <verse canonical="true" osisID="1Macc.9.35">And Jonathan sent his brother as leader of the multitude and begged the Nabateans, who were his friends, for permission to store with them the great amount of baggage which they had.</verse>
+        <verse canonical="true" osisID="1Macc.9.36">But the sons of Jambri from Medeba came out and seized John and all that he had, and departed with it.</verse>
+        <verse canonical="true" osisID="1Macc.9.37">After these things it was reported to Jonathan and Simon his brother, "The sons of Jambri are celebrating a great wedding, and are conducting the bride, a daughter of one of the great nobles of Canaan, from Nadabath with a large escort."</verse>
+        <verse canonical="true" osisID="1Macc.9.38">And they remembered the blood of John their brother, and went up and hid under cover of the mountain.</verse>
+        <verse canonical="true" osisID="1Macc.9.39">They raised their eyes and looked, and saw a tumultuous procession with much baggage; and the bridegroom came out with his friends and his brothers to meet them with tambourines and musicians and many weapons.</verse>
+        <verse canonical="true" osisID="1Macc.9.40">Then they rushed upon them from the ambush and began killing them. Many were wounded and fell, and the rest fled to the mountain; and they took all their goods.</verse>
+        <verse canonical="true" osisID="1Macc.9.41">Thus the wedding was turned into mourning and the voice of their musicians into a funeral dirge.</verse>
+        <verse canonical="true" osisID="1Macc.9.42">And when they had fully avenged the blood of their brother, they returned to the marshes of the Jordan.</verse>
+        <verse canonical="true" osisID="1Macc.9.43">When Bacchides heard of this, he came with a large force on the sabbath day to the banks of the Jordan.</verse>
+        <verse canonical="true" osisID="1Macc.9.44">And Jonathan said to those with him, "Let us rise up now and fight for our lives, for today things are not as they were before.</verse>
+        <verse canonical="true" osisID="1Macc.9.45">For look! the battle is in front of us and behind us; the water of the Jordan is on this side and on that, with marsh and thicket; there is no place to turn.</verse>
+        <verse canonical="true" osisID="1Macc.9.46">Cry out now to Heaven that you may be delivered from the hands of our enemies."</verse>
+        <verse canonical="true" osisID="1Macc.9.47">So the battle began, and Jonathan stretched out his hand to strike Bacchides, but he eluded him and went to the rear.</verse>
+        <verse canonical="true" osisID="1Macc.9.48">Then Jonathan and the men with him leaped into the Jordan and swam across to the other side, and the enemy did not cross the Jordan to attack them.</verse>
+        <verse canonical="true" osisID="1Macc.9.49">And about one thousand of Bacchides' men fell that day.</verse>
+        <verse canonical="true" osisID="1Macc.9.50">Bacchides then returned to Jerusalem and built strong cities in Judea: the fortress in Jericho, and Emmaus, and Beth-horon, and Bethel, and Timnath, and Pharathon, and Tephon, with high walls and gates and bars.</verse>
+        <verse canonical="true" osisID="1Macc.9.51">And he placed garrisons in them to harass Israel.</verse>
+        <verse canonical="true" osisID="1Macc.9.52">He also fortified the city of Beth-zur, and Gazara, and the citadel, and in them he put troops and stores of food.</verse>
+        <verse canonical="true" osisID="1Macc.9.53">And he took the sons of the leading men of the land as hostages and put them under guard in the citadel at Jerusalem.</verse>
+        <verse canonical="true" osisID="1Macc.9.54">In the one hundred and fifty-third year, in the second month, Alcimus gave orders to tear down the wall of the inner court of the sanctuary. He tore down the work of the prophets!</verse>
+        <verse canonical="true" osisID="1Macc.9.55">But he only began to tear it down, for at that time Alcimus was stricken and his work was hindered; his mouth was stopped and he was paralyzed, so that he could no longer say a word or give commands concerning his house.</verse>
+        <verse canonical="true" osisID="1Macc.9.56">And Alcimus died at that time in great agony.</verse>
+        <verse canonical="true" osisID="1Macc.9.57">When Bacchides saw that Alcimus was dead, he returned to the king, and the land of Judah had rest for two years.</verse>
+        <verse canonical="true" osisID="1Macc.9.58">Then all the lawless plotted and said, "See! Jonathan and his men are living in quiet and confidence. So now let us bring Bacchides back, and he will capture them all in one night."</verse>
+        <verse canonical="true" osisID="1Macc.9.59">And they went and consulted with him.</verse>
+        <verse canonical="true" osisID="1Macc.9.60">He started to come with a large force, and secretly sent letters to all his allies in Judea, telling them to seize Jonathan and his men; but they were unable to do it, because their plan became known.</verse>
+        <verse canonical="true" osisID="1Macc.9.61">And Jonathan's men seized about fifty of the men of the country who were leaders in this treachery, and killed them.</verse>
+        <verse canonical="true" osisID="1Macc.9.62">Then Jonathan with his men, and Simon, withdrew to Bethbasi in the wilderness; he rebuilt the parts of it that had been demolished, and they fortified it.</verse>
+        <verse canonical="true" osisID="1Macc.9.63">When Bacchides learned of this, he assembled all his forces, and sent orders to the men of Judea.</verse>
+        <verse canonical="true" osisID="1Macc.9.64">Then he came and encamped against Bethbasi; he fought against it for many days and made machines of war.</verse>
+        <verse canonical="true" osisID="1Macc.9.65">But Jonathan left Simon his brother in the city, while he went out into the country; and he went with only a few men.</verse>
+        <verse canonical="true" osisID="1Macc.9.66">He struck down Odomera and his brothers and the sons of Phasiron in their tents.</verse>
+        <verse canonical="true" osisID="1Macc.9.67">Then he began to attack and went into battle with his forces; and Simon and his men sallied out from the city and set fire to the machines of war.</verse>
+        <verse canonical="true" osisID="1Macc.9.68">They fought with Bacchides, and he was crushed by them. They distressed him greatly, for his plan and his expedition had been in vain.</verse>
+        <verse canonical="true" osisID="1Macc.9.69">So he was greatly enraged at the lawless men who had counseled him to come into the country, and he killed many of them. Then he decided to depart to his own land.</verse>
+        <verse canonical="true" osisID="1Macc.9.70">When Jonathan learned of this, he sent ambassadors to him to make peace with him and obtain release of the captives.</verse>
+        <verse canonical="true" osisID="1Macc.9.71">He agreed, and did as he said; and he swore to Jonathan that he would not try to harm him as long as he lived.</verse>
+        <verse canonical="true" osisID="1Macc.9.72">He restored to him the captives whom he had formerly taken from the land of Judah; then he turned and departed to his own land, and came no more into their territory.</verse>
+        <verse canonical="true" osisID="1Macc.9.73">Thus the sword ceased from Israel. And Jonathan dwelt in Michmash. And Jonathan began to judge the people, and he destroyed the ungodly out of Israel.</verse>
+      </chapter>
+      <chapter osisID="1Macc.10" TEIform="div">
+        <verse canonical="true" osisID="1Macc.10.1">In the one hundred and sixtieth year Alexander Epiphanes, the son of Antiochus, landed and occupied Ptolemais. They welcomed him, and there he began to reign.</verse>
+        <verse canonical="true" osisID="1Macc.10.2">When Demetrius the king heard of it, he assembled a very large army and marched out to meet him in battle.</verse>
+        <verse canonical="true" osisID="1Macc.10.3">And Demetrius sent Jonathan a letter in peaceable words to honor him;</verse>
+        <verse canonical="true" osisID="1Macc.10.4">for he said, "Let us act first to make peace with him before he makes peace with Alexander against us,</verse>
+        <verse canonical="true" osisID="1Macc.10.5">for he will remember all the wrongs which we did to him and to his brothers and his nation."</verse>
+        <verse canonical="true" osisID="1Macc.10.6">So Demetrius gave him authority to recruit troops, to equip them with arms, and to become his ally; and he commanded that the hostages in the citadel should be released to him.</verse>
+        <verse canonical="true" osisID="1Macc.10.7">Then Jonathan came to Jerusalem and read the letter in the hearing of all the people and of the men in the citadel.</verse>
+        <verse canonical="true" osisID="1Macc.10.8">They were greatly alarmed when they heard that the king had given him authority to recruit troops.</verse>
+        <verse canonical="true" osisID="1Macc.10.9">But the men in the citadel released the hostages to Jonathan, and he returned them to their parents.</verse>
+        <verse canonical="true" osisID="1Macc.10.10">And Jonathan dwelt in Jerusalem and began to rebuild and restore the city.</verse>
+        <verse canonical="true" osisID="1Macc.10.11">He directed those who were doing the work to build the walls and encircle Mount Zion with squared stones, for better fortification; and they did so.</verse>
+        <verse canonical="true" osisID="1Macc.10.12">Then the foreigners who were in the strongholds that Bacchides had built fled;</verse>
+        <verse canonical="true" osisID="1Macc.10.13">each left his place and departed to his own land.</verse>
+        <verse canonical="true" osisID="1Macc.10.14">Only in Beth-zur did some remain who had forsaken the law and the commandments, for it served as a place of refuge.</verse>
+        <verse canonical="true" osisID="1Macc.10.15">Now Alexander the king heard of all the promises which Demetrius had sent to Jonathan, and men told him of the battles that Jonathan and his brothers had fought, of the brave deeds that they had done, and of the troubles that they had endured.</verse>
+        <verse canonical="true" osisID="1Macc.10.16">So he said, "Shall we find another such man? Come now, we will make him our friend and ally."</verse>
+        <verse canonical="true" osisID="1Macc.10.17">And he wrote a letter and sent it to him, in the following words:</verse>
+        <verse canonical="true" osisID="1Macc.10.18">"King Alexander to his brother Jonathan, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.10.19">We have heard about you, that you are a mighty warrior and worthy to be our friend.</verse>
+        <verse canonical="true" osisID="1Macc.10.20">And so we have appointed you today to be the high priest of your nation; you are to be called the king's friend" (and he sent him a purple robe and a golden crown) "and you are to take our side and keep friendship with us."</verse>
+        <verse canonical="true" osisID="1Macc.10.21">So Jonathan put on the holy garments in the seventh month of the one hundred and sixtieth year, at the feast of tabernacles, and he recruited troops and equipped them with arms in abundance.</verse>
+        <verse canonical="true" osisID="1Macc.10.22">When Demetrius heard of these things he was grieved and said,</verse>
+        <verse canonical="true" osisID="1Macc.10.23">"What is this that we have done? Alexander has gotten ahead of us in forming a friendship with the Jews to strengthen himself.</verse>
+        <verse canonical="true" osisID="1Macc.10.24">I also will write them words of encouragement and promise them honor and gifts, that I may have their help."</verse>
+        <verse canonical="true" osisID="1Macc.10.25">So he sent a message to them in the following words: "King Demetrius to the nation of the Jews, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.10.26">Since you have kept your agreement with us and have continued your friendship with us, and have not sided with our enemies, we have heard of it and rejoiced.</verse>
+        <verse canonical="true" osisID="1Macc.10.27">And now continue still to keep faith with us, and we will repay you with good for what you do for us.</verse>
+        <verse canonical="true" osisID="1Macc.10.28">We will grant you many immunities and give you gifts.</verse>
+        <verse canonical="true" osisID="1Macc.10.29">"And now I free you and exempt all the Jews from payment of tribute and salt tax and crown levies,</verse>
+        <verse canonical="true" osisID="1Macc.10.30">and instead of collecting the third of the grain and the half of the fruit of the trees that I should receive, I release them from this day and henceforth. I will not collect them from the land of Judah or from the three districts added to it from Samaria and Galilee, from this day and for all time.</verse>
+        <verse canonical="true" osisID="1Macc.10.31">And let Jerusalem and her environs, her tithes and her revenues, be holy and free from tax.</verse>
+        <verse canonical="true" osisID="1Macc.10.32">I release also my control of the citadel in Jerusalem and give it to the high priest, that he may station in it men of his own choice to guard it.</verse>
+        <verse canonical="true" osisID="1Macc.10.33">And every one of the Jews taken as a captive from the land of Judah into any part of my kingdom, I set free without payment; and let all officials cancel also the taxes on their cattle.</verse>
+        <verse canonical="true" osisID="1Macc.10.34">"And all the feasts and sabbaths and new moons and appointed days, and the three days before a feast and the three after a feast -- let them all be days of immunity and release for all the Jews who are in my kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.10.35">No one shall have authority to exact anything from them or annoy any of them about any matter.</verse>
+        <verse canonical="true" osisID="1Macc.10.36">"Let Jews be enrolled in the king's forces to the number of thirty thousand men, and let the maintenance be given them that is due to all the forces of the king.</verse>
+        <verse canonical="true" osisID="1Macc.10.37">Let some of them be stationed in the great strongholds of the king, and let some of them be put in positions of trust in the kingdom. Let their officers and leaders be of their own number, and let them live by their own laws, just as the king has commanded in the land of Judah.</verse>
+        <verse canonical="true" osisID="1Macc.10.38">"As for the three districts that have been added to Judea from the country of Samaria, let them be so annexed to Judea that they are considered to be under one ruler and obey no other authority but the high priest.</verse>
+        <verse canonical="true" osisID="1Macc.10.39">Ptolemais and the land adjoining it I have given as a gift to the sanctuary in Jerusalem, to meet the necessary expenses of the sanctuary.</verse>
+        <verse canonical="true" osisID="1Macc.10.40">I also grant fifteen thousand shekels of silver yearly out of the king's revenues from appropriate places.</verse>
+        <verse canonical="true" osisID="1Macc.10.41">And all the additional funds which the government officials have not paid as they did in the first years, they shall give from now on for the service of the temple.</verse>
+        <verse canonical="true" osisID="1Macc.10.42">Moreover, the five thousand shekels of silver which my officials have received every year from the income of the services of the temple, this too is canceled, because it belongs to the priests who minister there.</verse>
+        <verse canonical="true" osisID="1Macc.10.43">And whoever takes refuge at the temple in Jerusalem, or in any of its precincts, because he owes money to the king or has any debt, let him be released and receive back all his property in my kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.10.44">"Let the cost of rebuilding and restoring the structures of the sanctuary be paid from the revenues of the king.</verse>
+        <verse canonical="true" osisID="1Macc.10.45">And let the cost of rebuilding the walls of Jerusalem and fortifying it round about, and the cost of rebuilding the walls in Judea, also be paid from the revenues of the king."</verse>
+        <verse canonical="true" osisID="1Macc.10.46">When Jonathan and the people heard these words, they did not believe or accept them, because they remembered the great wrongs which Demetrius had done in Israel and how he had greatly oppressed them.</verse>
+        <verse canonical="true" osisID="1Macc.10.47">They favored Alexander, because he had been the first to speak peaceable words to them, and they remained his allies all his days.</verse>
+        <verse canonical="true" osisID="1Macc.10.48">Now Alexander the king assembled large forces and encamped opposite Demetrius.</verse>
+        <verse canonical="true" osisID="1Macc.10.49">The two kings met in battle, and the army of Demetrius fled, and Alexander pursued him and defeated them.</verse>
+        <verse canonical="true" osisID="1Macc.10.50">He pressed the battle strongly until the sun set, and Demetrius fell on that day.</verse>
+        <verse canonical="true" osisID="1Macc.10.51">Then Alexander sent ambassadors to Ptolemy king of Egypt with the following message:</verse>
+        <verse canonical="true" osisID="1Macc.10.52">"Since I have returned to my kingdom and have taken my seat on the throne of my fathers, and established my rule -- for I crushed Demetrius and gained control of our country;</verse>
+        <verse canonical="true" osisID="1Macc.10.53">I met him in battle, and he and his army were crushed by us, and we have taken our seat on the throne of his kingdom --</verse>
+        <verse canonical="true" osisID="1Macc.10.54">now therefore let us establish friendship with one another; give me now your daughter as my wife, and I will become your son-in-law, and will make gifts to you and to her in keeping with your position."</verse>
+        <verse canonical="true" osisID="1Macc.10.55">Ptolemy the king replied and said, "Happy was the day on which you returned to the land of your fathers and took your seat on the throne of their kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.10.56">And now I will do for you as you wrote, but meet me at Ptolemais, so that we may see one another, and I will become your father-in-law, as you have said."</verse>
+        <verse canonical="true" osisID="1Macc.10.57">So Ptolemy set out from Egypt, he and Cleopatra his daughter, and came to Ptolemais in the one hundred and sixty-second year.</verse>
+        <verse canonical="true" osisID="1Macc.10.58">Alexander the king met him, and Ptolemy gave him Cleopatra his daughter in marriage, and celebrated her wedding at Ptolemais with great pomp, as kings do.</verse>
+        <verse canonical="true" osisID="1Macc.10.59">Then Alexander the king wrote to Jonathan to come to meet him.</verse>
+        <verse canonical="true" osisID="1Macc.10.60">So he went with pomp to Ptolemais and met the two kings; he gave them and their friends silver and gold and many gifts, and found favor with them.</verse>
+        <verse canonical="true" osisID="1Macc.10.61">A group of pestilent men from Israel, lawless men, gathered together against him to accuse him; but the king paid no attention to them.</verse>
+        <verse canonical="true" osisID="1Macc.10.62">The king gave orders to take off Jonathan's garments and to clothe him in purple, and they did so.</verse>
+        <verse canonical="true" osisID="1Macc.10.63">The king also seated him at his side; and he said to his officers, "Go forth with him into the middle of the city and proclaim that no one is to bring charges against him about any matter, and let no one annoy him for any reason."</verse>
+        <verse canonical="true" osisID="1Macc.10.64">And when his accusers saw the honor that was paid him, in accordance with the proclamation, and saw him clothed in purple, they all fled.</verse>
+        <verse canonical="true" osisID="1Macc.10.65">Thus the king honored him and enrolled him among his chief friends, and made him general and governor of the province.</verse>
+        <verse canonical="true" osisID="1Macc.10.66">And Jonathan returned to Jerusalem in peace and gladness.</verse>
+        <verse canonical="true" osisID="1Macc.10.67">In the one hundred and sixty-fifth year Demetrius the son of Demetrius came from Crete to the land of his fathers.</verse>
+        <verse canonical="true" osisID="1Macc.10.68">When Alexander the king heard of it, he was greatly grieved and returned to Antioch.</verse>
+        <verse canonical="true" osisID="1Macc.10.69">And Demetrius appointed Apollonius the governor of Coelesyria, and he assembled a large force and encamped against Jamnia. Then he sent the following message to Jonathan the high priest:</verse>
+        <verse canonical="true" osisID="1Macc.10.70">"You are the only one to rise up against us, and I have become a laughingstock and reproach because of you. Why do you assume authority against us in the hill country?</verse>
+        <verse canonical="true" osisID="1Macc.10.71">If you now have confidence in your forces, come down to the plain to meet us, and let us match strength with each other there, for I have with me the power of the cities.</verse>
+        <verse canonical="true" osisID="1Macc.10.72">Ask and learn who I am and who the others are that are helping us. Men will tell you that you cannot stand before us, for your fathers were twice put to flight in their own land.</verse>
+        <verse canonical="true" osisID="1Macc.10.73">And now you will not be able to withstand my cavalry and such an army in the plain, where there is no stone or pebble, or place to flee."</verse>
+        <verse canonical="true" osisID="1Macc.10.74">When Jonathan heard the words of Apollonius, his spirit was aroused. He chose ten thousand men and set out from Jerusalem, and Simon his brother met him to help him.</verse>
+        <verse canonical="true" osisID="1Macc.10.75">He encamped before Joppa, but the men of the city closed its gates, for Apollonius had a garrison in Joppa.</verse>
+        <verse canonical="true" osisID="1Macc.10.76">So they fought against it, and the men of the city became afraid and opened the gates, and Jonathan gained possession of Joppa.</verse>
+        <verse canonical="true" osisID="1Macc.10.77">When Apollonius heard of it, he mustered three thousand cavalry and a large army, and went to Azotus as though he were going farther. At the same time he advanced into the plain, for he had a large troop of cavalry and put confidence in it.</verse>
+        <verse canonical="true" osisID="1Macc.10.78">Jonathan pursued him to Azotus, and the armies engaged in battle.</verse>
+        <verse canonical="true" osisID="1Macc.10.79">Now Apollonius had secretly left a thousand cavalry behind them.</verse>
+        <verse canonical="true" osisID="1Macc.10.80">Jonathan learned that there was an ambush behind him, for they surrounded his army and shot arrows at his men from early morning till late afternoon.</verse>
+        <verse canonical="true" osisID="1Macc.10.81">But his men stood fast, as Jonathan commanded, and the enemy's horses grew tired.</verse>
+        <verse canonical="true" osisID="1Macc.10.82">Then Simon brought forward his force and engaged the phalanx in battle (for the cavalry was exhausted); they were overwhelmed by him and fled,</verse>
+        <verse canonical="true" osisID="1Macc.10.83">and the cavalry was dispersed in the plain. They fled to Azotus and entered Beth-dagon, the temple of their idol, for safety.</verse>
+        <verse canonical="true" osisID="1Macc.10.84">But Jonathan burned Azotus and the surrounding towns and plundered them; and the temple of Dagon, and those who had taken refuge in it he burned with fire.</verse>
+        <verse canonical="true" osisID="1Macc.10.85">The number of those who fell by the sword, with those burned alive, came to eight thousand men.</verse>
+        <verse canonical="true" osisID="1Macc.10.86">Then Jonathan departed from there and encamped against Askalon, and the men of the city came out to meet him with great pomp.</verse>
+        <verse canonical="true" osisID="1Macc.10.87">And Jonathan and those with him returned to Jerusalem with much booty.</verse>
+        <verse canonical="true" osisID="1Macc.10.88">When Alexander the king heard of these things, he honored Jonathan still more;</verse>
+        <verse canonical="true" osisID="1Macc.10.89">and he sent to him a golden buckle, such as it is the custom to give to the kinsmen of kings. He also gave him Ekron and all its environs as his possession.</verse>
+      </chapter>
+      <chapter osisID="1Macc.11" TEIform="div">
+        <verse canonical="true" osisID="1Macc.11.1">Then the king of Egypt gathered great forces, like the sand by the seashore, and many ships; and he tried to get possession of Alexander's kingdom by trickery and add it to his own kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.11.2">He set out for Syria with peaceable words, and the people of the cities opened their gates to him and went to meet him, for Alexander the king had commanded them to meet him, since he was Alexander's father-in-law.</verse>
+        <verse canonical="true" osisID="1Macc.11.3">But when Ptolemy entered the cities he stationed forces as a garrison in each city.</verse>
+        <verse canonical="true" osisID="1Macc.11.4">When he approached Azotus, they showed him the temple of Dagon burned down, and Azotus and its suburbs destroyed, and the corpses lying about, and the charred bodies of those whom Jonathan had burned in the war, for they had piled them in heaps along his route.</verse>
+        <verse canonical="true" osisID="1Macc.11.5">They also told the king what Jonathan had done, to throw blame on him; but the king kept silent.</verse>
+        <verse canonical="true" osisID="1Macc.11.6">Jonathan met the king at Joppa with pomp, and they greeted one another and spent the night there.</verse>
+        <verse canonical="true" osisID="1Macc.11.7">And Jonathan went with the king as far as the river called Eleutherus; then he returned to Jerusalem.</verse>
+        <verse canonical="true" osisID="1Macc.11.8">So King Ptolemy gained control of the coastal cities as far as Seleucia by the sea, and he kept devising evil designs against Alexander.</verse>
+        <verse canonical="true" osisID="1Macc.11.9">He sent envoys to Demetrius the king, saying, "Come, let us make a covenant with each other, and I will give you in marriage my daughter who was Alexander's wife, and you shall reign over your father's kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.11.10">For I now regret that I gave him my daughter, for he has tried to kill me."</verse>
+        <verse canonical="true" osisID="1Macc.11.11">He threw blame on Alexander because he coveted his kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.11.12">So he took his daughter away from him and gave her to Demetrius. He was estranged from Alexander, and their enmity became manifest.</verse>
+        <verse canonical="true" osisID="1Macc.11.13">Then Ptolemy entered Antioch and put on the crown of Asia. Thus he put two crowns upon his head, the crown of Egypt and that of Asia.</verse>
+        <verse canonical="true" osisID="1Macc.11.14">Now Alexander the king was in Cilicia at that time, because the people of that region were in revolt.</verse>
+        <verse canonical="true" osisID="1Macc.11.15">And Alexander heard of it and came against him in battle. Ptolemy marched out and met him with a strong force, and put him to flight.</verse>
+        <verse canonical="true" osisID="1Macc.11.16">So Alexander fled into Arabia to find protection there, and King Ptolemy was exalted.</verse>
+        <verse canonical="true" osisID="1Macc.11.17">And Zabdiel the Arab cut off the head of Alexander and sent it to Ptolemy.</verse>
+        <verse canonical="true" osisID="1Macc.11.18">But King Ptolemy died three days later, and his troops in the strongholds were killed by the inhabitants of the strongholds.</verse>
+        <verse canonical="true" osisID="1Macc.11.19">So Demetrius became king in the one hundred and sixty-seventh year.</verse>
+        <verse canonical="true" osisID="1Macc.11.20">In those days Jonathan assembled the men of Judea to attack the citadel in Jerusalem, and he built many engines of war to use against it.</verse>
+        <verse canonical="true" osisID="1Macc.11.21">But certain lawless men who hated their nation went to the king and reported to him that Jonathan was besieging the citadel.</verse>
+        <verse canonical="true" osisID="1Macc.11.22">When he heard this he was angry, and as soon as he heard it he set out and came to Ptolemais; and he wrote Jonathan not to continue the siege, but to meet him for a conference at Ptolemais as quickly as possible.</verse>
+        <verse canonical="true" osisID="1Macc.11.23">When Jonathan heard this, he gave orders to continue the siege; and he chose some of the elders of Israel and some of the priests, and put himself in danger,</verse>
+        <verse canonical="true" osisID="1Macc.11.24">for he went to the king at Ptolemais, taking silver and gold and clothing and numerous other gifts. And he won his favor.</verse>
+        <verse canonical="true" osisID="1Macc.11.25">Although certain lawless men of his nation kept making complaints against him,</verse>
+        <verse canonical="true" osisID="1Macc.11.26">the king treated him as his predecessors had treated him; he exalted him in the presence of all his friends.</verse>
+        <verse canonical="true" osisID="1Macc.11.27">He confirmed him in the high priesthood and in as many other honors as he had formerly had, and made him to be regarded as one of his chief friends.</verse>
+        <verse canonical="true" osisID="1Macc.11.28">Then Jonathan asked the king to free Judea and the three districts of Samaria from tribute, and promised him three hundred talents.</verse>
+        <verse canonical="true" osisID="1Macc.11.29">The king consented, and wrote a letter to Jonathan about all these things; its contents were as follows:</verse>
+        <verse canonical="true" osisID="1Macc.11.30">"King Demetrius to Jonathan his brother and to the nation of the Jews, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.11.31">This copy of the letter which we wrote concerning you to Lasthenes our kinsman we have written to you also, so that you may know what it says.</verse>
+        <verse canonical="true" osisID="1Macc.11.32">`King Demetrius to Lasthenes his father, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.11.33">To the nation of the Jews, who are our friends and fulfil their obligations to us, we have determined to do good, because of the good will they show toward us.</verse>
+        <verse canonical="true" osisID="1Macc.11.34">We have confirmed as their possession both the territory of Judea and the three districts of Aphairema and Lydda and Rathamin; the latter, with all the region bordering them, were added to Judea from Samaria. To all those who offer sacrifice in Jerusalem, we have granted release from the royal taxes which the king formerly received from them each year, from the crops of the land and the fruit of the trees.</verse>
+        <verse canonical="true" osisID="1Macc.11.35">And the other payments henceforth due to us of the tithes, and the taxes due to us, and the salt pits and the crown taxes due to us -- from all these we shall grant them release.</verse>
+        <verse canonical="true" osisID="1Macc.11.36">And not one of these grants shall be canceled from this time forth for ever.</verse>
+        <verse canonical="true" osisID="1Macc.11.37">Now therefore take care to make a copy of this, and let it be given to Jonathan and put up in a conspicuous place on the holy mountain.'"</verse>
+        <verse canonical="true" osisID="1Macc.11.38">Now when Demetrius the king saw that the land was quiet before him and that there was no opposition to him, he dismissed all his troops, each man to his own place, except the foreign troops which he had recruited from the islands of the nations. So all the troops who had served his fathers hated him.</verse>
+        <verse canonical="true" osisID="1Macc.11.39">Now Trypho had formerly been one of Alexander's supporters. He saw that all the troops were murmuring against Demetrius. So he went to Imalkue the Arab, who was bringing up Antiochus, the young son of Alexander,</verse>
+        <verse canonical="true" osisID="1Macc.11.40">and insistently urged him to hand Antiochus over to him, to become king in place of his father. He also reported to Imalkue what Demetrius had done and told of the hatred which the troops of Demetrius had for him; and he stayed there many days.</verse>
+        <verse canonical="true" osisID="1Macc.11.41">Now Jonathan sent to Demetrius the king the request that he remove the troops of the citadel from Jerusalem, and the troops in the strongholds; for they kept fighting against Israel.</verse>
+        <verse canonical="true" osisID="1Macc.11.42">And Demetrius sent this message to Jonathan, "Not only will I do these things for you and your nation, but I will confer great honor on you and your nation, if I find an opportunity.</verse>
+        <verse canonical="true" osisID="1Macc.11.43">Now then you will do well to send me men who will help me, for all my troops have revolted."</verse>
+        <verse canonical="true" osisID="1Macc.11.44">So Jonathan sent three thousand stalwart men to him at Antioch, and when they came to the king, the king rejoiced at their arrival.</verse>
+        <verse canonical="true" osisID="1Macc.11.45">Then the men of the city assembled within the city, to the number of a hundred and twenty thousand, and they wanted to kill the king.</verse>
+        <verse canonical="true" osisID="1Macc.11.46">But the king fled into the palace. Then the men of the city seized the main streets of the city and began to fight.</verse>
+        <verse canonical="true" osisID="1Macc.11.47">So the king called the Jews to his aid, and they all rallied about him and then spread out through the city; and they killed on that day as many as a hundred thousand men.</verse>
+        <verse canonical="true" osisID="1Macc.11.48">They set fire to the city and seized much spoil on that day, and they saved the king.</verse>
+        <verse canonical="true" osisID="1Macc.11.49">When the men of the city saw that the Jews had gained control of the city as they pleased, their courage failed and they cried out to the king with this entreaty,</verse>
+        <verse canonical="true" osisID="1Macc.11.50">"Grant us peace, and make the Jews stop fighting against us and our city."</verse>
+        <verse canonical="true" osisID="1Macc.11.51">And they threw down their arms and made peace. So the Jews gained glory in the eyes of the king and of all the people in his kingdom, and they returned to Jerusalem with much spoil.</verse>
+        <verse canonical="true" osisID="1Macc.11.52">So Demetrius the king sat on the throne of his kingdom, and the land was quiet before him.</verse>
+        <verse canonical="true" osisID="1Macc.11.53">But he broke his word about all that he had promised; and he became estranged from Jonathan and did not repay the favors which Jonathan had done him, but oppressed him greatly.</verse>
+        <verse canonical="true" osisID="1Macc.11.54">After this Trypho returned, and with him the young boy Antiochus who began to reign and put on the crown.</verse>
+        <verse canonical="true" osisID="1Macc.11.55">All the troops that Demetrius had cast off gathered around him, and they fought against Demetrius, and he fled and was routed.</verse>
+        <verse canonical="true" osisID="1Macc.11.56">And Trypho captured the elephants and gained control of Antioch.</verse>
+        <verse canonical="true" osisID="1Macc.11.57">Then the young Antiochus wrote to Jonathan, saying, "I confirm you in the high priesthood and set you over the four districts and make you one of the friends of the king."</verse>
+        <verse canonical="true" osisID="1Macc.11.58">And he sent him gold plate and a table service, and granted him the right to drink from gold cups and dress in purple and wear a gold buckle.</verse>
+        <verse canonical="true" osisID="1Macc.11.59">Simon his brother he made governor from the Ladder of Tyre to the borders of Egypt.</verse>
+        <verse canonical="true" osisID="1Macc.11.60">Then Jonathan set forth and traveled beyond the river and among the cities, and all the army of Syria gathered to him as allies. When he came to Askalon, the people of the city met him and paid him honor.</verse>
+        <verse canonical="true" osisID="1Macc.11.61">From there he departed to Gaza, but the men of Gaza shut him out. So he beseiged it and burned its suburbs with fire and plundered them.</verse>
+        <verse canonical="true" osisID="1Macc.11.62">Then the people of Gaza pleaded with Jonathan, and he made peace with them, and took the sons of their rulers as hostages and sent them to Jerusalem. And he passed through the country as far as Damascus.</verse>
+        <verse canonical="true" osisID="1Macc.11.63">Then Jonathan heard that the officers of Demetrius had come to Kadesh in Galilee with a large army, intending to remove him from office.</verse>
+        <verse canonical="true" osisID="1Macc.11.64">He went to meet them, but left his brother Simon in the country.</verse>
+        <verse canonical="true" osisID="1Macc.11.65">Simon encamped before Beth-zur and fought against it for many days and hemmed it in.</verse>
+        <verse canonical="true" osisID="1Macc.11.66">Then they asked him to grant them terms of peace, and he did so. He removed them from there, took possession of the city, and set a garrison over it.</verse>
+        <verse canonical="true" osisID="1Macc.11.67">Jonathan and his army encamped by the waters of Gennesaret. Early in the morning they marched to the plain of Hazor,</verse>
+        <verse canonical="true" osisID="1Macc.11.68">and behold, the army of the foreigners met him in the plain; they had set an ambush against him in the mountains, but they themselves met him face to face.</verse>
+        <verse canonical="true" osisID="1Macc.11.69">Then the men in ambush emerged from their places and joined battle.</verse>
+        <verse canonical="true" osisID="1Macc.11.70">All the men with Jonathan fled; not one of them was left except Mattathias the son of Absalom and Judas the son of Chalphi, commanders of the forces of the army.</verse>
+        <verse canonical="true" osisID="1Macc.11.71">Jonathan rent his garments and put dust on his head, and prayed.</verse>
+        <verse canonical="true" osisID="1Macc.11.72">Then he turned back to the battle against the enemy and routed them, and they fled.</verse>
+        <verse canonical="true" osisID="1Macc.11.73">When his men who were fleeing saw this, they returned to him and joined him in the pursuit as far as Kadesh, to their camp, and there they encamped.</verse>
+        <verse canonical="true" osisID="1Macc.11.74">As many as three thousand of the foreigners fell that day. And Jonathan returned to Jerusalem.</verse>
+      </chapter>
+      <chapter osisID="1Macc.12" TEIform="div">
+        <verse canonical="true" osisID="1Macc.12.1">Now when Jonathan saw that the time was favorable for him, he chose men and sent them to Rome to confirm and renew the friendship with them.</verse>
+        <verse canonical="true" osisID="1Macc.12.2">He also sent letters to the same effect to the Spartans and to other places.</verse>
+        <verse canonical="true" osisID="1Macc.12.3">So they went to Rome and entered the senate chamber and said, "Jonathan the high priest and the Jewish nation have sent us to renew the former friendship and alliance with them."</verse>
+        <verse canonical="true" osisID="1Macc.12.4">And the Romans gave them letters to the people in every place, asking them to provide for the envoys safe conduct to the land of Judah.</verse>
+        <verse canonical="true" osisID="1Macc.12.5">This is a copy of the letter which Jonathan wrote to the Spartans:</verse>
+        <verse canonical="true" osisID="1Macc.12.6">"Jonathan the high priest, the senate of the nation, the priests, and the rest of the Jewish people to their brethren the Spartans, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.12.7">Already in time past a letter was sent to Onias the high priest from Arius, who was king among you, stating that you are our brethren, as the appended copy shows.</verse>
+        <verse canonical="true" osisID="1Macc.12.8">Onias welcomed the envoy with honor, and received the letter, which contained a clear declaration of alliance and friendship.</verse>
+        <verse canonical="true" osisID="1Macc.12.9">Therefore, though we have no need of these things, since we have as encouragement the holy books which are in our hands,</verse>
+        <verse canonical="true" osisID="1Macc.12.10">we have undertaken to send to renew our brotherhood and friendship with you, so that we may not become estranged from you, for considerable time has passed since you sent your letter to us.</verse>
+        <verse canonical="true" osisID="1Macc.12.11">We therefore remember you constantly on every occasion, both in our feasts and on other appropriate days, at the sacrifices which we offer and in our prayers, as it is right and proper to remember brethren.</verse>
+        <verse canonical="true" osisID="1Macc.12.12">And we rejoice in your glory.</verse>
+        <verse canonical="true" osisID="1Macc.12.13">But as for ourselves, many afflictions and many wars have encircled us; the kings round about us have waged war against us.</verse>
+        <verse canonical="true" osisID="1Macc.12.14">We were unwilling to annoy you and our other allies and friends with these wars,</verse>
+        <verse canonical="true" osisID="1Macc.12.15">for we have the help which comes from Heaven for our aid; and we were delivered from our enemies and our enemies were humbled.</verse>
+        <verse canonical="true" osisID="1Macc.12.16">We therefore have chosen Numenius the son of Antiochus and Antipater the son of Jason, and have sent them to Rome to renew our former friendship and alli   ance with them.</verse>
+        <verse canonical="true" osisID="1Macc.12.17">We have commanded them to go also to you and greet you and deliver to you this letter from us concerning the renewal of our brotherhood.</verse>
+        <verse canonical="true" osisID="1Macc.12.18">And now please send us a reply to this."</verse>
+        <verse canonical="true" osisID="1Macc.12.19">This is a copy of the letter which they sent to Onias:</verse>
+        <verse canonical="true" osisID="1Macc.12.20">"Arius, king of the Spartans, to Onias the high priest, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.12.21">It has been found in writing concerning the Spartans and the Jews that they are brethren and are of the family of Abraham.</verse>
+        <verse canonical="true" osisID="1Macc.12.22">And now that we have learned this, please write us concerning your welfare;</verse>
+        <verse canonical="true" osisID="1Macc.12.23">we on our part write to you that your cattle and your property belong to us, and ours belong to you. We therefore command that our envoys report to you accordingly."</verse>
+        <verse canonical="true" osisID="1Macc.12.24">Now Jonathan heard that the commanders of Demetrius had returned, with a larger force than before, to wage war against him.</verse>
+        <verse canonical="true" osisID="1Macc.12.25">So he marched away from Jerusalem and met them in the region of Hamath, for he gave them no opportunity to invade his own country.</verse>
+        <verse canonical="true" osisID="1Macc.12.26">He sent spies to their camp, and they returned and reported to him that the enemy were being drawn up in formation to fall upon the Jews by night.</verse>
+        <verse canonical="true" osisID="1Macc.12.27">So when the sun set, Jonathan commanded his men to be alert and to keep their arms at hand so as to be ready all night for battle, and he stationed outposts around the camp.</verse>
+        <verse canonical="true" osisID="1Macc.12.28">When the enemy heard that Jonathan and his men were prepared for battle, they were afraid and were terrified at heart; so they kindled fires in their camp and withdrew.</verse>
+        <verse canonical="true" osisID="1Macc.12.29">But Jonathan and his men did not know it until morning, for they saw the fires burning.</verse>
+        <verse canonical="true" osisID="1Macc.12.30">Then Jonathan pursued them, but he did not overtake them, for they had crossed the Eleutherus river.</verse>
+        <verse canonical="true" osisID="1Macc.12.31">So Jonathan turned aside against the Arabs who are called Zabadeans, and he crushed them and plundered them.</verse>
+        <verse canonical="true" osisID="1Macc.12.32">Then he broke camp and went to Damascus, and marched through all that region.</verse>
+        <verse canonical="true" osisID="1Macc.12.33">Simon also went forth and marched through the country as far as Askalon and the neighboring strongholds. He turned aside to Joppa and took it by surprise,</verse>
+        <verse canonical="true" osisID="1Macc.12.34">for he had heard that they were ready to hand over the stronghold to the men whom Demetrius had sent. And he stationed a garrison there to guard it.</verse>
+        <verse canonical="true" osisID="1Macc.12.35">When Jonathan returned he convened the elders of the people and planned with them to build strongholds in Judea,</verse>
+        <verse canonical="true" osisID="1Macc.12.36">to build the walls of Jerusalem still higher, and to erect a high barrier between the citadel and the city to separate it from the city, in order to isolate it so that its garrison could neither buy nor sell.</verse>
+        <verse canonical="true" osisID="1Macc.12.37">So they gathered together to build up the city; part of the wall on the valley to the east had fallen, and he repaired the section called Chaphenatha.</verse>
+        <verse canonical="true" osisID="1Macc.12.38">And Simon built Adida in the Shephelah; he fortified it and installed gates with bolts.</verse>
+        <verse canonical="true" osisID="1Macc.12.39">Then Trypho attempted to become king in Asia and put on the crown, and to raise his hand against Antiochus the king.</verse>
+        <verse canonical="true" osisID="1Macc.12.40">He feared that Jonathan might not permit him to do so, but might make war on him, so he kept seeking to seize and kill him, and he marched forth and came to Beth-shan.</verse>
+        <verse canonical="true" osisID="1Macc.12.41">Jonathan went out to meet him with forty thousand picked fighting men, and he came to Beth-shan.</verse>
+        <verse canonical="true" osisID="1Macc.12.42">When Trypho saw that he had come with a large army, he was afraid to raise his hand against him.</verse>
+        <verse canonical="true" osisID="1Macc.12.43">So he received him with honor and commended him to all his friends, and he gave him gifts and commanded his friends and his troops to obey him as they would himself.</verse>
+        <verse canonical="true" osisID="1Macc.12.44">Then he said to Jonathan, "Why have you wearied all these people when we are not at war?</verse>
+        <verse canonical="true" osisID="1Macc.12.45">Dismiss them now to their homes and choose for yourself a few men to stay with you, and come with me to Ptolemais. I will hand it over to you as well as the other strongholds and the remaining troops and all the officials, and will turn round and go home. For that is why I am here."</verse>
+        <verse canonical="true" osisID="1Macc.12.46">Jonathan trusted him and did as he said; he sent away the troops, and they returned to the land of Judah.</verse>
+        <verse canonical="true" osisID="1Macc.12.47">He kept with himself three thousand men, two thousand of whom he left in Galilee, while a thousand accompanied him.</verse>
+        <verse canonical="true" osisID="1Macc.12.48">But when Jonathan entered Ptolemais, the men of Ptolemais closed the gates and seized him, and all who had entered with him they killed with the sword.</verse>
+        <verse canonical="true" osisID="1Macc.12.49">Then Trypho sent troops and cavalry into Galilee and the Great Plain to destroy all Jonathan's soldiers.</verse>
+        <verse canonical="true" osisID="1Macc.12.50">But they realized that Jonathan had been seized and had perished along with his men, and they encouraged one another and kept marching in close formation, ready for battle.</verse>
+        <verse canonical="true" osisID="1Macc.12.51">When their pursuers saw that they would fight for their lives, they turned back.</verse>
+        <verse canonical="true" osisID="1Macc.12.52">So they all reached the land of Judah safely, and they mourned for Jonathan and his companions and were in great fear; and all Israel mourned deeply.</verse>
+        <verse canonical="true" osisID="1Macc.12.53">And all the nations round about them tried to destroy them, for they said, "They have no leader or helper. Now therefore let us make war on them and blot out the memory of them from among men."</verse>
+      </chapter>
+      <chapter osisID="1Macc.13" TEIform="div">
+        <verse canonical="true" osisID="1Macc.13.1">Simon heard that Trypho had assembled a large army to invade the land of Judah and destroy it,</verse>
+        <verse canonical="true" osisID="1Macc.13.2">and he saw that the people were trembling and fearful. So he went up to Jerusalem, and gathering the people together</verse>
+        <verse canonical="true" osisID="1Macc.13.3">he encouraged them, saying to them, "You yourselves know what great things I and my brothers and the house of my father have done for the laws and the sanctuary; you know also the wars and the difficulties which we have seen.</verse>
+        <verse canonical="true" osisID="1Macc.13.4">By reason of this all my brothers have perished for the sake of Israel, and I alone am left.</verse>
+        <verse canonical="true" osisID="1Macc.13.5">And now, far be it from me to spare my life in any time of distress, for I am not better than my brothers.</verse>
+        <verse canonical="true" osisID="1Macc.13.6">But I will avenge my nation and the sanctuary and your wives and children, for all the nations have gathered together out of hatred to destroy us."</verse>
+        <verse canonical="true" osisID="1Macc.13.7">The spirit of the people was rekindled when they heard these words,</verse>
+        <verse canonical="true" osisID="1Macc.13.8">and they answered in a loud voice, "You are our leader in place of Judas and Jonathan your brother.</verse>
+        <verse canonical="true" osisID="1Macc.13.9">Fight our battles, and all that you say to us we will do."</verse>
+        <verse canonical="true" osisID="1Macc.13.10">So he assembled all the warriors and hastened to complete the walls of Jerusalem, and he fortified it on every side.</verse>
+        <verse canonical="true" osisID="1Macc.13.11">He sent Jonathan the son of Absalom to Joppa, and with him a considerable army; he drove out its occupants and remained there.</verse>
+        <verse canonical="true" osisID="1Macc.13.12">Then Trypho departed from Ptolemais with a large army to invade the land of Judah, and Jonathan was with him under guard.</verse>
+        <verse canonical="true" osisID="1Macc.13.13">And Simon encamped in Adida, facing the plain.</verse>
+        <verse canonical="true" osisID="1Macc.13.14">Trypho learned that Simon had risen up in place of Jonathan his brother, and that he was about to join battle with him, so he sent envoys to him and said,</verse>
+        <verse canonical="true" osisID="1Macc.13.15">"It is for the money that Jonathan your brother owed the royal treasury, in connection with the offices he held, that we are detaining him.</verse>
+        <verse canonical="true" osisID="1Macc.13.16">Send now a hundred talents of silver and two of his sons as hostages, so that when released he will not revolt against us, and we will release him."</verse>
+        <verse canonical="true" osisID="1Macc.13.17">Simon knew that they were speaking deceitfully to him, but he sent to get the money and the sons, lest he arouse great hostility among the people, who might say,</verse>
+        <verse canonical="true" osisID="1Macc.13.18">"Because Simon did not send him the money and the sons, he perished."</verse>
+        <verse canonical="true" osisID="1Macc.13.19">So he sent the sons and the hundred talents, but Trypho broke his word and did not release Jonathan.</verse>
+        <verse canonical="true" osisID="1Macc.13.20">After this Trypho came to invade the country and destroy it, and he circled around by the way to Adora. But Simon and his army kept marching along opposite him to every place he went.</verse>
+        <verse canonical="true" osisID="1Macc.13.21">Now the men in the citadel kept sending envoys to Trypho urging him to come to them by way of the wilderness and to send them food.</verse>
+        <verse canonical="true" osisID="1Macc.13.22">So Trypho got all his cavalry ready to go, but that night a very heavy snow fell, and he did not go because of the snow. He marched off and went into the land of Gilead.</verse>
+        <verse canonical="true" osisID="1Macc.13.23">When he approached Baskama, he killed Jonathan, and he was buried there.</verse>
+        <verse canonical="true" osisID="1Macc.13.24">Then Trypho turned back and departed to his own land.</verse>
+        <verse canonical="true" osisID="1Macc.13.25">And Simon sent and took the bones of Jonathan his brother, and buried him in Modein, the city of his fathers.</verse>
+        <verse canonical="true" osisID="1Macc.13.26">All Israel bewailed him with great lamentation, and mourned for him many days.</verse>
+        <verse canonical="true" osisID="1Macc.13.27">And Simon built a monument over the tomb of his father and his brothers; he made it high that it might be seen, with polished stone at the front and back.</verse>
+        <verse canonical="true" osisID="1Macc.13.28">He also erected seven pyramids, opposite one another, for his father and mother and four brothers.</verse>
+        <verse canonical="true" osisID="1Macc.13.29">And for the pyramids he devised an elaborate setting, erecting about them great columns, and upon the columns he put suits of armor for a permanent memorial, and beside the suits of armor carved ships, so that they could be seen by all who sail the sea.</verse>
+        <verse canonical="true" osisID="1Macc.13.30">This is the tomb which he built in Modein; it remains to this day.</verse>
+        <verse canonical="true" osisID="1Macc.13.31">Trypho dealt treacherously with the young king Antiochus; he killed him</verse>
+        <verse canonical="true" osisID="1Macc.13.32">and became king in his place, putting on the crown of Asia; and he brought great calamity upon the land.</verse>
+        <verse canonical="true" osisID="1Macc.13.33">But Simon built up the strongholds of Judea and walled them all around, with high towers and great walls and gates and bolts, and he stored food in the strongholds.</verse>
+        <verse canonical="true" osisID="1Macc.13.34">Simon also chose men and sent them to Demetrius the king with a request to grant relief to the country, for all that Trypho did was to plunder.</verse>
+        <verse canonical="true" osisID="1Macc.13.35">Demetrius the king sent him a favorable reply to this request, and wrote him a letter as follows,</verse>
+        <verse canonical="true" osisID="1Macc.13.36">"King Demetrius to Simon, the high priest and friend of kings, and to the elders and nation of the Jews, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.13.37">We have received the gold crown and the palm branch which you sent, and we are ready to make a general peace with you and to write to our officials to grant you release from tribute.</verse>
+        <verse canonical="true" osisID="1Macc.13.38">All the grants that we have made to you remain valid, and let the strongholds that you have built be your possession.</verse>
+        <verse canonical="true" osisID="1Macc.13.39">We pardon any errors and offenses committed to this day, and cancel the crown tax which you owe; and whatever other tax has been collected in Jerusalem shall be collected no longer.</verse>
+        <verse canonical="true" osisID="1Macc.13.40">And if any of you are qualified to be enrolled in our bodyguard, let them be enrolled, and let there be peace between us."</verse>
+        <verse canonical="true" osisID="1Macc.13.41">In the one hundred and seventieth year the yoke of the Gentiles was removed from Israel,</verse>
+        <verse canonical="true" osisID="1Macc.13.42">and the people began to write in their documents and contracts, "In the first year of Simon the great high priest and commander and leader of the Jews."</verse>
+        <verse canonical="true" osisID="1Macc.13.43">In those days Simon encamped against Gazara and surrounded it with troops. He made a siege engine, brought it up to the city, and battered and captured one tower.</verse>
+        <verse canonical="true" osisID="1Macc.13.44">The men in the siege engine leaped out into the city, and a great tumult arose in the city.</verse>
+        <verse canonical="true" osisID="1Macc.13.45">The men in the city, with their wives and children, went up on the wall with their clothes rent, and they cried out with a loud voice, asking Simon to make peace with them;</verse>
+        <verse canonical="true" osisID="1Macc.13.46">they said, "Do not treat us according to our wicked acts but according to your mercy."</verse>
+        <verse canonical="true" osisID="1Macc.13.47">So Simon reached an agreement with them and stopped fighting against them. But he expelled them from the city and cleansed the houses in which the idols were, and then entered it with hymns and praise.</verse>
+        <verse canonical="true" osisID="1Macc.13.48">He cast out of it all uncleanness, and settled in it men who observed the law. He also strengthened its fortifications and built in it a house for himself.</verse>
+        <verse canonical="true" osisID="1Macc.13.49">The men in the citadel at Jerusalem were prevented from going out to the country and back to buy and sell. So they were very hungry, and many of them perished from famine.</verse>
+        <verse canonical="true" osisID="1Macc.13.50">Then they cried to Simon to make peace with them, and he did so. But he expelled them from there and cleansed the citadel from its pollutions.</verse>
+        <verse canonical="true" osisID="1Macc.13.51">On the twenty-third day of the second month, in the one hundred and seventy-first year, the Jews entered it with praise and palm branches, and with harps and cymbals and stringed instruments, and with hymns and songs, because a great enemy had been crushed and removed from Israel.</verse>
+        <verse canonical="true" osisID="1Macc.13.52">And Simon decreed that every year they should celebrate this day with rejoicing. He strengthened the fortifications of the temple hill alongside the citadel, and he and his men dwelt there.</verse>
+        <verse canonical="true" osisID="1Macc.13.53">And Simon saw that John his son had reached manhood, so he made him commander of all the forces, and he dwelt in Gazara.</verse>
+      </chapter>
+      <chapter osisID="1Macc.14" TEIform="div">
+        <verse canonical="true" osisID="1Macc.14.1">In the one hundred and seventy-second year Demetrius the king assembled his forces and marched into Media to secure help, so that he could make war against Trypho.</verse>
+        <verse canonical="true" osisID="1Macc.14.2">When Arsaces the king of Persia and Media heard that Demetrius had invaded his territory, he sent one of his commanders to take him alive.</verse>
+        <verse canonical="true" osisID="1Macc.14.3">And he went and defeated the army of Demetrius, and seized him and took him to Arsaces, who put him under guard.</verse>
+        <verse canonical="true" osisID="1Macc.14.4">The land had rest all the days of Simon. He sought the good of his nation; his rule was pleasing to them, as was the honor shown him, all his days.</verse>
+        <verse canonical="true" osisID="1Macc.14.5">To crown all his honors he took Joppa for a harbor, and opened a way to the isles of the sea.</verse>
+        <verse canonical="true" osisID="1Macc.14.6">He extended the borders of his nation, and gained full control of the country.</verse>
+        <verse canonical="true" osisID="1Macc.14.7">He gathered a host of captives; he ruled over Gazara and Beth-zur and the citadel, and he removed its uncleanness from it; and there was none to oppose him.</verse>
+        <verse canonical="true" osisID="1Macc.14.8">They tilled their land in peace; the ground gave its increase, and the trees of the plains their fruit.</verse>
+        <verse canonical="true" osisID="1Macc.14.9">Old men sat in the streets; they all talked together of good things; and the youths donned the glories and garments of war.</verse>
+        <verse canonical="true" osisID="1Macc.14.10">He supplied the cities with food, and furnished them with the means of defense, till his renown spread to the ends of the earth.</verse>
+        <verse canonical="true" osisID="1Macc.14.11">He established peace in the land, and Israel rejoiced with great joy.</verse>
+        <verse canonical="true" osisID="1Macc.14.12">Each man sat under his vine and his fig tree, and there was none to make them afraid.</verse>
+        <verse canonical="true" osisID="1Macc.14.13">No one was left in the land to fight them, and the kings were crushed in those days.</verse>
+        <verse canonical="true" osisID="1Macc.14.14">He strengthened all the humble of his people; he sought out the law, and did away with every lawless and wicked man.</verse>
+        <verse canonical="true" osisID="1Macc.14.15">He made the sanctuary glorious, and added to the vessels of the sanctuary.</verse>
+        <verse canonical="true" osisID="1Macc.14.16">It was heard in Rome, and as far away as Sparta, that Jonathan had died, and they were deeply grieved.</verse>
+        <verse canonical="true" osisID="1Macc.14.17">When they heard that Simon his brother had become high priest in his place, and that he was ruling over the country and the cities in it,</verse>
+        <verse canonical="true" osisID="1Macc.14.18">they wrote to him on bronze tablets to renew with him the friendship and alliance which they had established with Judas and Jonathan his brothers.</verse>
+        <verse canonical="true" osisID="1Macc.14.19">And these were read before the assembly in Jerusalem.</verse>
+        <verse canonical="true" osisID="1Macc.14.20">This is a copy of the letter which the Spartans sent: "The rulers and the city of the Spartans to Simon the high priest and to the elders and the priests and the rest of the Jewish people, our brethren, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.14.21">The envoys who were sent to our people have told us about your glory and honor, and we rejoiced at their coming.</verse>
+        <verse canonical="true" osisID="1Macc.14.22">And what they said we have recorded in our public decrees, as follows, `Numenius the son of Antiochus and Antipater the son of Jason, envoys of the Jews, have come to us to renew their friendship with us.</verse>
+        <verse canonical="true" osisID="1Macc.14.23">It has pleased our people to receive these men with honor and to put a copy of their words in the public archives, so that the people of the Spartans may have a record of them. And they have sent a copy of this to Simon the high priest.'"</verse>
+        <verse canonical="true" osisID="1Macc.14.24">After this Simon sent Numenius to Rome with a large gold shield weighing a thousand minas, to confirm the alliance with the Romans.</verse>
+        <verse canonical="true" osisID="1Macc.14.25">When the people heard these things they said, "How shall we thank Simon and his sons?</verse>
+        <verse canonical="true" osisID="1Macc.14.26">For he and his brothers and the house of his father have stood firm; they have fought and repulsed Israel's enemies and established its freedom."</verse>
+        <verse canonical="true" osisID="1Macc.14.27">So they made a record on bronze tablets and put it upon pillars on Mount Zion. This is a copy of what they wrote: "On the eighteenth day of Elul, in the one hundred and seventy-second year, which is the third year of Simon the great high priest,</verse>
+        <verse canonical="true" osisID="1Macc.14.28">in Asaramel, in the great assembly of the priests and the people and the rulers of the nation and the elders of the country, the following was proclaimed to us:</verse>
+        <verse canonical="true" osisID="1Macc.14.29">"Since wars often occurred in the country, Simon the son of Mattathias, a priest of the sons of Joarib, and his brothers, exposed themselves to danger and resisted the enemies of their nation, in order that their sanctuary and the law might be perserved; and they brought great glory to their nation.</verse>
+        <verse canonical="true" osisID="1Macc.14.30">Jonathan rallied the nation, and became their high priest, and was gathered to his people.</verse>
+        <verse canonical="true" osisID="1Macc.14.31">And when their enemies decided to invade their country and lay hands on their sanctuary,</verse>
+        <verse canonical="true" osisID="1Macc.14.32">then Simon rose up and fought for his nation. He spent great sums of his own money; he armed the men of his nation's forces and paid them wages.</verse>
+        <verse canonical="true" osisID="1Macc.14.33">He fortified the cities of Judea, and Beth-zur on the borders of Judea, where formerly the arms of the enemy had been stored, and he placed there a garrison of Jews.</verse>
+        <verse canonical="true" osisID="1Macc.14.34">He also fortified Joppa, which is by the sea, and Gazara, which is on the borders of Azotus, where the enemy formerly dwelt. He settled Jews there, and provided in those cities whatever was necessary for their restoration.</verse>
+        <verse canonical="true" osisID="1Macc.14.35">"The people saw Simon's faithfulness and the glory which he had resolved to win for his nation, and they made him their leader and high priest, because he had done all these things and because of the justice and loyalty which he had maintained toward his nation. He sought in every way to exalt his people.</verse>
+        <verse canonical="true" osisID="1Macc.14.36">And in his days things prospered in his hands, so that the Gentiles were put out of the country, as were also the men in the city of David in Jerusalem, who had built themselves a citadel from which they used to sally forth and defile the environs of the sanctuary and do great damage to its purity.</verse>
+        <verse canonical="true" osisID="1Macc.14.37">He settled Jews in it, and fortified it for the safety of the country and of the city, and built the walls of Jerusalem higher.</verse>
+        <verse canonical="true" osisID="1Macc.14.38">"In view of these things King Demetrius confirmed him in the high priesthood,</verse>
+        <verse canonical="true" osisID="1Macc.14.39">and he made him one of the king's friends and paid him high honors.</verse>
+        <verse canonical="true" osisID="1Macc.14.40">For he had heard that the Jews were addressed by the Romans as friends and allies and brethren, and that the Romans had received the envoys of Simon with honor.</verse>
+        <verse canonical="true" osisID="1Macc.14.41">"And the Jews and their priests decided that Simon should be their leader and high priest for ever, until a trustworthy prophet should arise,</verse>
+        <verse canonical="true" osisID="1Macc.14.42">and that he should be governor over them and that he should take charge of the sanctuary and appoint men over its tasks and over the country and the weapons and the strongholds, and that he should take charge of the sanctuary,</verse>
+        <verse canonical="true" osisID="1Macc.14.43">and that he should be obeyed by all, and that all contracts in the country should be written in his name, and that he should be clothed in purple and wear gold.</verse>
+        <verse canonical="true" osisID="1Macc.14.44">"And none of the people or priests shall be permitted to nullify any of these decisions or to oppose what he says, or to convene an assembly in the country without his permission, or to be clothed in purple or put on a gold buckle.</verse>
+        <verse canonical="true" osisID="1Macc.14.45">Whoever acts contrary to these decisions or nullifies any of them shall be liable to punishment."</verse>
+        <verse canonical="true" osisID="1Macc.14.46">And all the people agreed to grant Simon the right to act in accord with these decisions.</verse>
+        <verse canonical="true" osisID="1Macc.14.47">So Simon accepted and agreed to be high priest, to be commander and ethnarch of the Jews and priests, and to be protector of them all.</verse>
+        <verse canonical="true" osisID="1Macc.14.48">And they gave orders to inscribe this decree upon bronze tablets, to put them up in a conspicuous place in the precincts of the sanctuary,</verse>
+        <verse canonical="true" osisID="1Macc.14.49">and to deposit copies of them in the treasury, so that Simon and his sons might have them.</verse>
+      </chapter>
+      <chapter osisID="1Macc.15" TEIform="div">
+        <verse canonical="true" osisID="1Macc.15.1">Antiochus, the son of Demetrius the king, sent a letter from the islands of the sea to Simon, the priest and ethnarch of the Jews, and to all the nation;</verse>
+        <verse canonical="true" osisID="1Macc.15.2">its contents were as follows: "King Antiochus to Simon the high priest and ethnarch and to the nation of the Jews, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.15.3">Whereas certain pestilent men have gained control of the kingdom of our fathers, and I intend to lay claim to the kingdom so that I may restore it as it formerly was, and have recruited a host of mercenary troops and have equipped warships,</verse>
+        <verse canonical="true" osisID="1Macc.15.4">and intend to make a landing in the country so that I may proceed against those who have destroyed our country and those who have devastated many cities in my kingdom,</verse>
+        <verse canonical="true" osisID="1Macc.15.5">now therefore I confirm to you all the tax remissions that the kings before me have granted you, and release from all the other payments from which they have released you.</verse>
+        <verse canonical="true" osisID="1Macc.15.6">I permit you to mint your own coinage as money for your country,</verse>
+        <verse canonical="true" osisID="1Macc.15.7">and I grant freedom to Jerusalem and the sanctuary. All the weapons which you have prepared and the strongholds which you have built and now hold shall remain yours.</verse>
+        <verse canonical="true" osisID="1Macc.15.8">Every debt you owe to the royal treasury and any such future debts shall be canceled for you from henceforth and for all time.</verse>
+        <verse canonical="true" osisID="1Macc.15.9">When we gain control of our kingdom, we will bestow great honor upon you and your nation and the temple, so that your glory will become manifest in all the earth."</verse>
+        <verse canonical="true" osisID="1Macc.15.10">In the one hundred and seventy-fourth year Antiochus set out and invaded the land of his fathers. All the troops rallied to him, so that there were few with Trypho.</verse>
+        <verse canonical="true" osisID="1Macc.15.11">Antiochus pursued him, and he came in his flight to Dor, which is by the sea;</verse>
+        <verse canonical="true" osisID="1Macc.15.12">for he knew that troubles had converged upon him, and his troops had deserted him.</verse>
+        <verse canonical="true" osisID="1Macc.15.13">So Antiochus encamped against Dor, and with him were a hundred and twenty thousand warriors and eight thousand cavalry.</verse>
+        <verse canonical="true" osisID="1Macc.15.14">He surrounded the city, and the ships joined battle from the sea; he pressed the city hard from land and sea, and permitted no one to leave or enter it.</verse>
+        <verse canonical="true" osisID="1Macc.15.15">Then Numenius and his companions arrived from Rome, with letters to the kings and countries, in which the following was written:</verse>
+        <verse canonical="true" osisID="1Macc.15.16">"Lucius, consul of the Romans, to King Ptolemy, greeting.</verse>
+        <verse canonical="true" osisID="1Macc.15.17">The envoys of the Jews have come to us as our friends and allies to renew our ancient friendship and alliance. They had been sent by Simon the high priest and by the people of the Jews,</verse>
+        <verse canonical="true" osisID="1Macc.15.18">and have brought a gold shield weighing a thousand minas.</verse>
+        <verse canonical="true" osisID="1Macc.15.19">We therefore have decided to write to the kings and countries that they should not seek their harm or make war against them and their cities and their country, or make alliance with those who war against them.</verse>
+        <verse canonical="true" osisID="1Macc.15.20">And it has seemed good to us to accept the shield from them.</verse>
+        <verse canonical="true" osisID="1Macc.15.21">Therefore if any pestilent men have fled to you from their country, hand them over to Simon the high priest, that he may punish them according to their law."</verse>
+        <verse canonical="true" osisID="1Macc.15.22">The consul wrote the same thing to Demetrius the king and to Attalus and Ariarathes and Arsaces,</verse>
+        <verse canonical="true" osisID="1Macc.15.23">and to all the countries, and to Sampsames, and to the Spartans, and to Delos, and to Myndos, and to Sicyon, and to Caria, and to Samos, and to Pamphylia, and to Lycia, and to Halicarnassus, and to Rhodes, and to Phaselis, and to Cos, and to Side, and to Aradus and Gortyna and Cnidus and Cyprus and Cyrene.</verse>
+        <verse canonical="true" osisID="1Macc.15.24">They also sent a copy of these things to Simon the high priest.</verse>
+        <verse canonical="true" osisID="1Macc.15.25">Antiochus the king besieged Dor anew, continually throwing his forces against it and making engines of war; and he shut Trypho up and kept him from going out or in.</verse>
+        <verse canonical="true" osisID="1Macc.15.26">And Simon sent to Antiochus two thousand picked men, to fight for him, and silver and gold and much military equipment.</verse>
+        <verse canonical="true" osisID="1Macc.15.27">But he refused to receive them, and he broke all the agreements he formerly had made with Simon, and became estranged from him.</verse>
+        <verse canonical="true" osisID="1Macc.15.28">He sent to him Athenobius, one of his friends, to confer with him, saying, "You hold control of Joppa and Gazara and the citadel in Jerusalem; they are cities of my kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.15.29">You have devastated their territory, you have done great damage in the land, and you have taken possession of many places in my kingdom.</verse>
+        <verse canonical="true" osisID="1Macc.15.30">Now then, hand over the cities which you have seized and the tribute money of the places which you have conquered outside the borders of Judea;</verse>
+        <verse canonical="true" osisID="1Macc.15.31">or else give me for them five hundred talents of silver, and for the destruction that you have caused and the tribute money of the cities, five hundred talents more. Otherwise we will come and conquer you."</verse>
+        <verse canonical="true" osisID="1Macc.15.32">So Athenobius the friend of the king came to Jerusalem, and when he saw the splendor of Simon, and the sideboard with its gold and silver plate, and his great magnificence, he was amazed. He reported to him the words of the king,</verse>
+        <verse canonical="true" osisID="1Macc.15.33">but Simon gave him this reply: "We have neither taken foreign land nor seized foreign property, but only the inheritance of our fathers, which at one time had been unjustly taken by our enemies.</verse>
+        <verse canonical="true" osisID="1Macc.15.34">Now that we have the opportunity, we are firmly holding the inheritance of our fathers.</verse>
+        <verse canonical="true" osisID="1Macc.15.35">As for Joppa and Gazara, which you demand, they were causing great damage among the people and to our land; for them we will give you a hundred talents." Athenobius did not answer him a word,</verse>
+        <verse canonical="true" osisID="1Macc.15.36">but returned in wrath to the king and reported to him these words and the splendor of Simon and all that he had seen. And the king was greatly angered.</verse>
+        <verse canonical="true" osisID="1Macc.15.37">Now Trypho embarked on a ship and escaped to Orthosia.</verse>
+        <verse canonical="true" osisID="1Macc.15.38">Then the king made Cendebeus commander-in-chief of the coastal country, and gave him troops of infantry and cavalry.</verse>
+        <verse canonical="true" osisID="1Macc.15.39">He commanded him to encamp against Judea, and commanded him to build up Kedron and fortify its gates, and to make war on the people; but the king pursued Trypho.</verse>
+        <verse canonical="true" osisID="1Macc.15.40">So Cendebeus came to Jamnia and began to provoke the people and invade Judea and take the people captive and kill them.</verse>
+        <verse canonical="true" osisID="1Macc.15.41">He built up Kedron and stationed there horsemen and troops, so that they might go out and make raids along the highways of Judea, as the king had ordered him.</verse>
+      </chapter>
+      <chapter osisID="1Macc.16" TEIform="div">
+        <verse canonical="true" osisID="1Macc.16.1">John went up from Gazara and reported to Simon his father what Cendebeus had done.</verse>
+        <verse canonical="true" osisID="1Macc.16.2">And Simon called in his two older sons Judas and John, and said to them: "I and my brothers and the house of my father have fought the wars of Israel from our youth until this day, and things have prospered in our hands so that we have delivered Israel many times.</verse>
+        <verse canonical="true" osisID="1Macc.16.3">But now I have grown old, and you by His mercy are mature in years. Take my place and my brother's, and go out and fight for our nation, and may the help which comes from Heaven be with you."</verse>
+        <verse canonical="true" osisID="1Macc.16.4">So John chose out of the country twenty thousand warriors and horsemen, and they marched against Cendebeus and camped for the night in Modein.</verse>
+        <verse canonical="true" osisID="1Macc.16.5">Early in the morning they arose and marched into the plain, and behold, a large force of infantry and horsemen was coming to meet them; and a stream lay between them.</verse>
+        <verse canonical="true" osisID="1Macc.16.6">Then he and his army lined up against them. And he saw that the soldiers were afraid to cross the stream, so he crossed over first; and when his men saw him, they crossed over after him.</verse>
+        <verse canonical="true" osisID="1Macc.16.7">Then he divided the army and placed the horsemen in the midst of the infantry, for the cavalry of the enemy were very numerous.</verse>
+        <verse canonical="true" osisID="1Macc.16.8">And they sounded the trumpets, and Cendebeus and his army were put to flight, and many of them were wounded and fell; the rest fled into the stronghold.</verse>
+        <verse canonical="true" osisID="1Macc.16.9">At that time Judas the brother of John was wounded, but John pursued them until Cendebeus reached Kedron, which he had built.</verse>
+        <verse canonical="true" osisID="1Macc.16.10">They also fled into the towers that were in the fields of Azotus, and John burned it with fire, and about two thousand of them fell. And he returned to Judea safely.</verse>
+        <verse canonical="true" osisID="1Macc.16.11">Now Ptolemy the son of Abubus had been appointed governor over the plain of Jericho, and he had much silver and gold,</verse>
+        <verse canonical="true" osisID="1Macc.16.12">for he was son-in-law of the high priest.</verse>
+        <verse canonical="true" osisID="1Macc.16.13">His heart was lifted up; he determined to get control of the country, and made treacherous plans against Simon and his sons, to do away with them.</verse>
+        <verse canonical="true" osisID="1Macc.16.14">Now Simon was visiting the cities of the country and attending to their needs, and he went down to Jericho with Mattathias and Judas his sons, in the one hundred and seventy-seventh year, in the eleventh month, which is the month of Shebat.</verse>
+        <verse canonical="true" osisID="1Macc.16.15">The son of Abubus received them treacherously in the little stronghold called Dok, which he had built; he gave them a great banquet, and hid men there.</verse>
+        <verse canonical="true" osisID="1Macc.16.16">When Simon and his sons were drunk, Ptolemy and his men rose up, took their weapons, and rushed in against Simon in the banquet hall, and they killed him and his two sons and some of his servants.</verse>
+        <verse canonical="true" osisID="1Macc.16.17">So he committed an act of great treachery and returned evil for good.</verse>
+        <verse canonical="true" osisID="1Macc.16.18">Then Ptolemy wrote a report about these things and sent it to the king, asking him to send troops to aid him and to turn over to him the cities and the country.</verse>
+        <verse canonical="true" osisID="1Macc.16.19">He sent other men to Gazara to do away with John; he sent letters to the captains asking them to come to him so that he might give them silver and gold and gifts;</verse>
+        <verse canonical="true" osisID="1Macc.16.20">and he sent other men to take possession of Jerusalem and the temple hill.</verse>
+        <verse canonical="true" osisID="1Macc.16.21">But some one ran ahead and reported to John at Gazara that his father and brothers had perished, and that "he has sent men to kill you also."</verse>
+        <verse canonical="true" osisID="1Macc.16.22">When he heard this, he was greatly shocked; and he seized the men who came to destroy him and killed them, for he had found out that they were seeking to destroy him.</verse>
+        <verse canonical="true" osisID="1Macc.16.23">The rest of the acts of John and his wars and the brave deeds which he did, and the building of the walls which he built, and his achievements,</verse>
+        <verse canonical="true" osisID="1Macc.16.24">behold, they are written in the chronicles of his high priesthood, from the time that he became high priest after his father.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>

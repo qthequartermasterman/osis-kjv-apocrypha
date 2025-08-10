@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" TEIform="TEI.2">
+  <osisText xmlns:xml="http://www.w3.org/XML/1998/namespace" canonical="true" osisIDWork="kjv-apocrypha" osisRefWork="Bible" xml:lang="en" xml:space="default" TEIform="text">
+    <header TEIform="teiHeader" canonical="false">
+      <revisionDesc TEIform="revisionDesc">
+        <date event="eversion" type="ISO" xml:lang="en" TEIform="date">2025.08.10T13:29:30</date>
+        <p TEIform="p">Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the osis-kjv-apocrypha Python package.</p>
+      </revisionDesc>
+      <work osisWork="King James Version Apocrypha">
+        <title canonical="false" TEIform="title">King James Version--Apocrypha</title>
+        <type type="OSIS">Bible</type>
+      </work>
+    </header>
+    <div canonical="false" type="book" osisID="AddPs" TEIform="div">
+      <headCT TEIform="head">Psalm 151</headCT>
+      <chapter osisID="AddPs.1" TEIform="div">
+        <verse canonical="true" osisID="AddPs.1.2">My hands made a harp, my fingers fashioned a lyre.</verse>
+        <verse canonical="true" osisID="AddPs.1.3">And who will declare it to my Lord? The Lord himself; it is he who hears.</verse>
+        <verse canonical="true" osisID="AddPs.1.4">It was he who sent his messenger and took me from my father's sheep, and anointed me with his anointing oil.</verse>
+        <verse canonical="true" osisID="AddPs.1.5">My brothers were handsome and tall, but the Lord was not pleased with them.</verse>
+        <verse canonical="true" osisID="AddPs.1.6">I went out to meet the Philistine, and he cursed me by his idols.</verse>
+        <verse canonical="true" osisID="AddPs.1.7">But I drew his own sword; I beheaded him, and removed reproach from the people of Israel.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>

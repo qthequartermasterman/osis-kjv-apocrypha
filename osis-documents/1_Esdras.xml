@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" TEIform="TEI.2">
+  <osisText xmlns:xml="http://www.w3.org/XML/1998/namespace" canonical="true" osisIDWork="kjv-apocrypha" osisRefWork="Bible" xml:lang="en" xml:space="default" TEIform="text">
+    <header TEIform="teiHeader" canonical="false">
+      <revisionDesc TEIform="revisionDesc">
+        <date event="eversion" type="ISO" xml:lang="en" TEIform="date">2025.08.10T13:29:31</date>
+        <p TEIform="p">Scraped from www.pseudepigrapha.com/apocrypha_ot, and converted to OSIS by the osis-kjv-apocrypha Python package.</p>
+      </revisionDesc>
+      <work osisWork="King James Version Apocrypha">
+        <title canonical="false" TEIform="title">King James Version--Apocrypha</title>
+        <type type="OSIS">Bible</type>
+      </work>
+    </header>
+    <div canonical="false" type="book" osisID="1Esd" TEIform="div">
+      <headCT TEIform="head">1 Esdras</headCT>
+      <chapter osisID="1Esd.1" TEIform="div">
+        <verse canonical="true" osisID="1Esd.1.1">Josiah kept the passover to his Lord in Jerusalem; he killed the passover lamb on the fourteenth day of the first month,</verse>
+        <verse canonical="true" osisID="1Esd.1.2">having placed the priests according to their divisions, arrayed in their garments, in the temple of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.1.3">And he told the Levites, the temple servants of Israel, that they should sanctify themselves to the Lord and put the holy ark of the Lord in the house which Solomon the king, the son of David, had built;</verse>
+        <verse canonical="true" osisID="1Esd.1.4">and he said, "You need no longer carry it upon your shoulders. Now worship the Lord your God and serve his people Israel; and prepare yourselves by your families and kindred,</verse>
+        <verse canonical="true" osisID="1Esd.1.5">in accordance with the directions of David king of Israel and the magnificence of Solomon his son. Stand in order in the temple according to the groupings of the fathers' houses of you Levites, who minister before your brethren the people of Israel,</verse>
+        <verse canonical="true" osisID="1Esd.1.6">and kill the passover lamb and prepare the sacrifices for your brethren, and keep the passover according to the commandment of the Lord which was given to Moses."</verse>
+        <verse canonical="true" osisID="1Esd.1.7">And Josiah gave to the people who were present thirty thousand lambs and kids, and three thousand calves; these were given from the king's possessions, as he promised, to the people and the priests and Levites.</verse>
+        <verse canonical="true" osisID="1Esd.1.8">And Hilkiah, Zechariah, and Jehiel, the chief officers of the temple, gave to the priests for the passover two thousand six hundred sheep and three hundred calves.</verse>
+        <verse canonical="true" osisID="1Esd.1.9">And Jeconiah and Shemaiah and Nethanel his brother, and Hashabiah and Ochiel and Joram, captains over thousands, gave the Levites for the passover five thousand sheep and seven hundred calves.</verse>
+        <verse canonical="true" osisID="1Esd.1.10">And this is what took place. The priests and the Levites, properly arrayed and having the unleavened bread, stood according to kindred</verse>
+        <verse canonical="true" osisID="1Esd.1.11">and the grouping of the fathers' houses, before the people, to make the offering to the Lord as it is written in the book of Moses; this they did in the morning.</verse>
+        <verse canonical="true" osisID="1Esd.1.12">They roasted the passover lamb with fire, as required; and they boiled the sacrifices in brass pots and caldrons, with a pleasing odor,</verse>
+        <verse canonical="true" osisID="1Esd.1.13">and carried them to all the people. Afterward they prepared the passover for themselves and for their brethren the priests, the sons of Aaron,</verse>
+        <verse canonical="true" osisID="1Esd.1.14">because the priests were offering the fat until night; so the Levites prepared it for themselves and for their brethren the priests, the sons of Aaron.</verse>
+        <verse canonical="true" osisID="1Esd.1.15">And the temple singers, the sons of Asaph, were in their place according to the arrangement made by David, and also Asaph, Zechariah, and Eddinus, who represented the king.</verse>
+        <verse canonical="true" osisID="1Esd.1.16">The gatekeepers were at each gate; no one needed to depart from his duties, for their brethren the Levites prepared the passover for them.</verse>
+        <verse canonical="true" osisID="1Esd.1.17">So the things that had to do with the sacrifices to the Lord were accomplished that day: the passover was kept</verse>
+        <verse canonical="true" osisID="1Esd.1.18">and the sacrifices were offered on the altar of the Lord, according to the command of King Josiah.</verse>
+        <verse canonical="true" osisID="1Esd.1.19">And the people of Israel who were present at that time kept the passover and the feast of unleavened bread seven days.</verse>
+        <verse canonical="true" osisID="1Esd.1.20">No passover like it had been kept in Israel since the times of Samuel the prophet;</verse>
+        <verse canonical="true" osisID="1Esd.1.21">none of the kings of Israel had kept such a passover as was kept by Josiah and the priests and Levites and the men of Judah and all of Israel who were dwelling in Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.1.22">In the eighteenth year of the reign of Josiah this passover was kept.</verse>
+        <verse canonical="true" osisID="1Esd.1.23">And the deeds of Josiah were upright in the sight of the Lord, for his heart was full of godliness.</verse>
+        <verse canonical="true" osisID="1Esd.1.24">The events of his reign have been recorded in the past, concerning those who sinned and acted wickedly toward the Lord beyond any other people or kingdom, and how they grieved the Lord deeply, so that the words of the Lord rose up against Israel.</verse>
+        <verse canonical="true" osisID="1Esd.1.25">After all these acts of Josiah, it happened that Pharaoh, king of Egypt, went to make war at Carchemish on the Euphrates, and Josiah went out against him.</verse>
+        <verse canonical="true" osisID="1Esd.1.26">And the king of Egypt sent word to him saying, "What have we to do with each other, king of Judea?</verse>
+        <verse canonical="true" osisID="1Esd.1.27">I was not sent against you by the Lord God, for my war is at the Euphrates. And now the Lord is with me! The Lord is with me, urging me on! Stand aside, and do not oppose the Lord."</verse>
+        <verse canonical="true" osisID="1Esd.1.28">But Josiah did not turn back to his chariot, but tried to fight with him, and did not heed the words of Jeremiah the prophet from the mouth of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.1.29">He joined battle with him in the plain of Megiddo, and the commanders came down against King Josiah.</verse>
+        <verse canonical="true" osisID="1Esd.1.30">And the king said to his servants, "Take me away from the battle, for I am very weak." And immediately his servants took him out of the line of battle.</verse>
+        <verse canonical="true" osisID="1Esd.1.31">And he got into his second chariot; and after he was brought back to Jerusalem he died, and was buried in the tomb of his fathers.</verse>
+        <verse canonical="true" osisID="1Esd.1.32">And in all Judea they mourned for Josiah. Jeremiah the prophet lamented for Josiah, and the principal men, with the women, have made lamentation for him to this day; it was ordained that this should always be done throughout the whole nation of Israel.</verse>
+        <verse canonical="true" osisID="1Esd.1.33">These things are written in the book of the histories of the kings of Judea; and every one of the acts of Josiah, and his splendor, and his understanding of the law of the Lord, and the things that he had done before and these that are now told, are recorded in the book of the kings of Israel and Judah.</verse>
+        <verse canonical="true" osisID="1Esd.1.34">And the men of the nation took Jeconiah the son of Josiah, who was twenty-three years old, and made him king in succession to Josiah his father.</verse>
+        <verse canonical="true" osisID="1Esd.1.35">And he reigned three months in Judah and Jerusalem. Then the king of Egypt deposed him from reigning in Jerusalem,</verse>
+        <verse canonical="true" osisID="1Esd.1.36">and fined the nation a hundred talents of silver and a talent of gold.</verse>
+        <verse canonical="true" osisID="1Esd.1.37">And the king of Egypt made Jehoiakim his brother king of Judea and Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.1.38">Jehoiakim put the nobles in prison, and seized his brother Zarius and brought him up out of Egypt.</verse>
+        <verse canonical="true" osisID="1Esd.1.39">Jehoiakim was twenty-five years old when he began to reign in Judea and Jerusalem, and he did what was evil in the sight of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.1.40">And Nebuchadnezzar king of Babylon came up against him, and bound him with a chain of brass and took him away to Babylon.</verse>
+        <verse canonical="true" osisID="1Esd.1.41">Nebuchadnezzar also took some holy vessels of the Lord, and carried them away, and stored them in his temple in Babylon.</verse>
+        <verse canonical="true" osisID="1Esd.1.42">But the things that are reported about Jehoiakim and his uncleanness and impiety are written in the chronicles of the kings.</verse>
+        <verse canonical="true" osisID="1Esd.1.43">Jehoiachin his son became king in his stead; when he was made king he was eighteen years old,</verse>
+        <verse canonical="true" osisID="1Esd.1.44">and he reigned three months and ten days in Jerusalem. He did what was evil in the sight of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.1.45">So after a year Nebuchadnezzar sent and removed him to Babylon, with the holy vessels of the Lord,</verse>
+        <verse canonical="true" osisID="1Esd.1.46">and made Zedekiah king of Judea and Jerusalem. Zedekiah was twenty-one years old, and he reigned eleven years.</verse>
+        <verse canonical="true" osisID="1Esd.1.47">He also did what was evil in the sight of the Lord, and did not heed the words that were spoken by Jeremiah the prophet from the mouth of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.1.48">And though King Nebuchadnezzar had made him swear by the name of the Lord, he broke his oath and rebelled; and he stiffened his neck and hardened his heart and transgressed the laws of the Lord, the God of Israel.</verse>
+        <verse canonical="true" osisID="1Esd.1.49">Even the leaders of the people and of the priests committed many acts of sacrilege and lawlessness beyond all the unclean deeds of all the nations, and polluted the temple of the Lord which had been hallowed in Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.1.50">So the God of their fathers sent by his messenger to call them back, because he would have spared them and his dwelling place.</verse>
+        <verse canonical="true" osisID="1Esd.1.51">But they mocked his messengers, and whenever the Lord spoke, they scoffed at his prophets,</verse>
+        <verse canonical="true" osisID="1Esd.1.52">until in his anger against his people because of their ungodly acts he gave command to bring against them the kings of the Chaldeans.</verse>
+        <verse canonical="true" osisID="1Esd.1.53">These slew their young men with the sword around their holy temple, and did not spare young man or virgin, old man or child, for he gave them all into their hands.</verse>
+        <verse canonical="true" osisID="1Esd.1.54">And all the holy vessels of the Lord, great and small, and the treasure chests of the Lord, and the royal stores, they took and carried away to Babylon.</verse>
+        <verse canonical="true" osisID="1Esd.1.55">And they burned the house of the Lord and broke down the walls of Jerusalem and burned their towers with fire,</verse>
+        <verse canonical="true" osisID="1Esd.1.56">and utterly destroyed all its glorious things. The survivors he led away to Babylon with the sword,</verse>
+        <verse canonical="true" osisID="1Esd.1.57">and they were servants to him and to his sons until the Persians began to reign, in fulfilment of the word of the Lord by the mouth of Jeremiah:</verse>
+        <verse canonical="true" osisID="1Esd.1.58">"Until the land has enjoyed its sabbaths, it shall keep sabbath all the time of its desolation until the completion of seventy years."</verse>
+      </chapter>
+      <chapter osisID="1Esd.2" TEIform="div">
+        <verse canonical="true" osisID="1Esd.2.1">In the first year of Cyrus as king of the Persians, that the word of the Lord by the mouth of Jeremiah might be accomplished,</verse>
+        <verse canonical="true" osisID="1Esd.2.2">the Lord stirred up the spirit of Cyrus king of the Persians, and he made a proclamation throughout all his kingdom and also put it in writing:</verse>
+        <verse canonical="true" osisID="1Esd.2.3">"Thus says Cyrus king of the Persians: The Lord of Israel, the Lord Most High, has made me king of the world,</verse>
+        <verse canonical="true" osisID="1Esd.2.4">and he has commanded me to build him a house at Jerusalem, which is in Judea.</verse>
+        <verse canonical="true" osisID="1Esd.2.5">If any one of you, therefore, is of his people, may his Lord be with him, and let him go up to Jerusalem, which is in Judea, and build the house of the Lord of Israel -- he is the Lord who dwells in Jerusalem,</verse>
+        <verse canonical="true" osisID="1Esd.2.6">and let each man, wherever he may live, be helped by the men of his place with gold and silver,</verse>
+        <verse canonical="true" osisID="1Esd.2.7">with gifts and with horses and cattle, besides the other things added as votive offerings for the temple of the Lord which is in Jerusalem."</verse>
+        <verse canonical="true" osisID="1Esd.2.8">Then arose the heads of families of the tribes of Judah and Benjamin, and the priests and the Levites, and all whose spirit the Lord had stirred to go up to build the house in Jerusalem for the Lord;</verse>
+        <verse canonical="true" osisID="1Esd.2.9">and their neighbors helped them with everything, with silver and gold, with horses and cattle, and with a very great number of votive offerings from many whose hearts were stirred.</verse>
+        <verse canonical="true" osisID="1Esd.2.10">Cyrus the king also brought out the holy vessels of the Lord which Nebuchadnezzar had carried away from Jerusalem and stored in his temple of idols.</verse>
+        <verse canonical="true" osisID="1Esd.2.11">When Cyrus king of the Perians brought these out, he gave them to Mithridates his treasurer,</verse>
+        <verse canonical="true" osisID="1Esd.2.12">and by him they were given to Sheshbazzar the governor of Judea.</verse>
+        <verse canonical="true" osisID="1Esd.2.13">The number of these was: a thousand gold cups, a thousand silver cups, twenty-nine silver censers, thirty gold bowls, two thousand four hundred and ten silver bowls, and a thousand other vessels.</verse>
+        <verse canonical="true" osisID="1Esd.2.14">All the vessels were handed over, gold and silver, five thousand four hundred and sixty-nine,</verse>
+        <verse canonical="true" osisID="1Esd.2.15">and they were carried back by Sheshbazzar with the returning exiles from Babylon to Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.2.16">But in the time of Artaxerxes king of the Persians, Bishlam, Mithridates, Tabeel, Rehum, Beltethmus, Shimshai the scribe, and the rest of their associates, living in Samaria and other places, wrote him the following letter, against those who were living in Judea and Jerusalem:</verse>
+        <verse canonical="true" osisID="1Esd.2.17">"To King Artaxerxes our lord, Your servants Rehum the recorder and Shimshai the scribe and the other judges of their council in Coelesyria and Phoenicia:</verse>
+        <verse canonical="true" osisID="1Esd.2.18">Now be it known to our lord the king that the Jews who came up from you to us have gone to Jerusalem and are building that rebellious and wicked city, repairing its market places and walls and laying the foundations for a temple.</verse>
+        <verse canonical="true" osisID="1Esd.2.19">Now if this city is built and the walls finished, they will not only refuse to pay tribute but will even resist kings.</verse>
+        <verse canonical="true" osisID="1Esd.2.20">And since the building of the temple is now going on, we think it best not to neglect such a matter,</verse>
+        <verse canonical="true" osisID="1Esd.2.21">but to speak to our lord the king, in order that, if it seems good to you, search may be made in the records of your fathers.</verse>
+        <verse canonical="true" osisID="1Esd.2.22">You will find in the chronicles what has been written about them, and will learn that this city was rebellious, troubling both kings and other cities,</verse>
+        <verse canonical="true" osisID="1Esd.2.23">and that the Jews were rebels and kept setting up blockades in it from of old. That is why this city was laid waste.</verse>
+        <verse canonical="true" osisID="1Esd.2.24">Therefore we now make known to you, O lord and king, that if this city is built and its walls finished, you will no longer have access to Coelesyria and Phoenicia."</verse>
+        <verse canonical="true" osisID="1Esd.2.25">Then the king, in reply to Rehum the recorder and Beltethmus and Shimshai the scribe and the others associated with them and living in Samaria and Syria and Phoenicia, wrote as follows:</verse>
+        <verse canonical="true" osisID="1Esd.2.26">"I have read the letter which you sent me. So I ordered search to be made, and it has been found that this city from of old has fought against kings,</verse>
+        <verse canonical="true" osisID="1Esd.2.27">and that the men in it were given to rebellion and war, and that mighty and cruel kings ruled in Jerusalem and exacted tribute from Coelesyria and Phoenicia.</verse>
+        <verse canonical="true" osisID="1Esd.2.28">Therefore I have now issued orders to prevent these men from building the city and to take care that nothing more be done</verse>
+        <verse canonical="true" osisID="1Esd.2.29">and that such wicked proceedings go no further to the annoyance of kings."</verse>
+        <verse canonical="true" osisID="1Esd.2.30">Then, when the letter from King Artaxerxes was read, Rehum and Shimshai the scribe and their associates went in haste to Jerusalem, with horsemen and a multitude in battle array, and began to hinder the builders. And the building of the temple in Jerusalem ceased until the second year of the reign of Darius king of the Persians.</verse>
+      </chapter>
+      <chapter osisID="1Esd.3" TEIform="div">
+        <verse canonical="true" osisID="1Esd.3.1">Now King Darius gave a great banquet for all that were under him and all that were born in his house and all the nobles of Media and Persia</verse>
+        <verse canonical="true" osisID="1Esd.3.2">and all the satraps and generals and governors that were under him in the hundred and twenty-seven satrapies from India to Ethiopia.</verse>
+        <verse canonical="true" osisID="1Esd.3.3">They ate and drank, and when they were satisfied they departed; and Darius the king went to his bedroom, and went to sleep, and then awoke.</verse>
+        <verse canonical="true" osisID="1Esd.3.4">Then the three young men of the bodyguard, who kept guard over the person of the king, said to one another,</verse>
+        <verse canonical="true" osisID="1Esd.3.5">"Let each of us state what one thing is strongest; and to him whose statement seems wisest, Darius the king will give rich gifts and great honors of victory.</verse>
+        <verse canonical="true" osisID="1Esd.3.6">He shall be clothed in purple, and drink from gold cups, and sleep on a gold bed, and have a chariot with gold bridles, and a turban of fine linen, and a necklace about his neck;</verse>
+        <verse canonical="true" osisID="1Esd.3.7">and because of his wisdom he shall sit next to Darius and shall be called kinsman of Darius."</verse>
+        <verse canonical="true" osisID="1Esd.3.8">Then each wrote his own statement, and they sealed them and put them under the pillow of Darius the king,</verse>
+        <verse canonical="true" osisID="1Esd.3.9">and said, "When the king wakes, they will give him the writing; and to the one whose statement the king and the three nobles of Persia judge to be wisest the victory shall be given according to what is written."</verse>
+        <verse canonical="true" osisID="1Esd.3.10">The first wrote, "Wine is strongest."</verse>
+        <verse canonical="true" osisID="1Esd.3.11">The second wrote, "The king is strongest."</verse>
+        <verse canonical="true" osisID="1Esd.3.12">The third wrote, "Women are strongest, but truth is victor over all things."</verse>
+        <verse canonical="true" osisID="1Esd.3.13">When the king awoke, they took the writing and gave it to him, and he read it.</verse>
+        <verse canonical="true" osisID="1Esd.3.14">Then he sent and summoned all the nobles of Persia and Media and the satraps and generals and governors and prefects,</verse>
+        <verse canonical="true" osisID="1Esd.3.15">and he took his seat in the council chamber, and the writing was read in their presence.</verse>
+        <verse canonical="true" osisID="1Esd.3.16">And he said, "Call the young men, and they shall explain their statements." So they were summoned, and came in.</verse>
+        <verse canonical="true" osisID="1Esd.3.17">And they said to them, "Explain to us what you have written." Then the first, who had spoken of the strength of wine, began and said:</verse>
+        <verse canonical="true" osisID="1Esd.3.18">"Gentlemen, how is wine the strongest? It leads astray the minds of all who drink it.</verse>
+        <verse canonical="true" osisID="1Esd.3.19">It makes equal the mind of the king and the orphan, of the slave and the free, of the poor and the rich.</verse>
+        <verse canonical="true" osisID="1Esd.3.20">It turns every thought to feasting and mirth, and forgets all sorrow and debt.</verse>
+        <verse canonical="true" osisID="1Esd.3.21">It makes all hearts feel rich, forgets kings and satraps, and makes every one talk in millions.</verse>
+        <verse canonical="true" osisID="1Esd.3.22">When men drink they forget to be friendly with friends and brothers, and before long they draw their swords.</verse>
+        <verse canonical="true" osisID="1Esd.3.23">And when they recover from the wine, they do not remember what they have done.</verse>
+        <verse canonical="true" osisID="1Esd.3.24">Gentlemen, is not wine the strongest, since it forces men to do these things?" When he had said this, he stopped speaking.</verse>
+      </chapter>
+      <chapter osisID="1Esd.4" TEIform="div">
+        <verse canonical="true" osisID="1Esd.4.1">Then the second, who had spoken of the strength of the king, began to speak:</verse>
+        <verse canonical="true" osisID="1Esd.4.2">"Gentlemen, are not men strongest, who rule over land and sea and all that is in them?</verse>
+        <verse canonical="true" osisID="1Esd.4.3">But the king is stronger; he is their lord and master, and whatever he says to them they obey.</verse>
+        <verse canonical="true" osisID="1Esd.4.4">If he tells them to make war on one another, they do it; and if he sends them out against the enemy, they go, and conquer mountains, walls, and towers.</verse>
+        <verse canonical="true" osisID="1Esd.4.5">They kill and are killed, and do not disobey the king's command; if they win the victory, they bring everything to the king -- whatever spoil they take and everything else.</verse>
+        <verse canonical="true" osisID="1Esd.4.6">Likewise those who do not serve in the army or make war but till the soil, whenever they sow, reap the harvest and bring some to the king; and they compel one another to pay taxes to the king.</verse>
+        <verse canonical="true" osisID="1Esd.4.7">And yet he is only one man! If he tells them to kill, they kill; if he tells them to release, they release;</verse>
+        <verse canonical="true" osisID="1Esd.4.8">if he tells them to attack, they attack; if he tells them to lay waste, they lay waste; if he tells them to build, they build;</verse>
+        <verse canonical="true" osisID="1Esd.4.9">if he tells them to cut down, they cut down; if he tells them to plant, they plant.</verse>
+        <verse canonical="true" osisID="1Esd.4.10">All his people and his armies obey him. Moreover, he reclines, he eats and drinks and sleeps,</verse>
+        <verse canonical="true" osisID="1Esd.4.11">but they keep watch around him and no one may go away to attend to his own affairs, nor do they disobey him.</verse>
+        <verse canonical="true" osisID="1Esd.4.12">Gentlemen, why is not the king the strongest, since he is to be obeyed in this fashion?" And he stopped speaking.</verse>
+        <verse canonical="true" osisID="1Esd.4.13">Then the third, that is Zerubbabel, who had spoken of women and truth, began to speak:</verse>
+        <verse canonical="true" osisID="1Esd.4.14">Gentlemen, is not the king great, and are not men many, and is not wine strong? Who then is their master, or who is their lord? Is it not women?</verse>
+        <verse canonical="true" osisID="1Esd.4.15">Women gave birth to the king and to every people that rules over sea and land.</verse>
+        <verse canonical="true" osisID="1Esd.4.16">From women they came; and women brought up the very men who plant the vineyards from which comes wine.</verse>
+        <verse canonical="true" osisID="1Esd.4.17">Women make men's clothes; they bring men glory; men cannot exist without women.</verse>
+        <verse canonical="true" osisID="1Esd.4.18">If men gather gold and silver or any other beautiful thing, and then see a woman lovely in appearance and beauty,</verse>
+        <verse canonical="true" osisID="1Esd.4.19">they let all those things go, and gape at her, and with open mouths stare at her, and all prefer her to gold or silver or any other beautiful thing.</verse>
+        <verse canonical="true" osisID="1Esd.4.20">A man leaves his own father, who brought him up, and his own country, and cleaves to his wife.</verse>
+        <verse canonical="true" osisID="1Esd.4.21">With his wife he ends his days, with no thought of his father or his mother or his country.</verse>
+        <verse canonical="true" osisID="1Esd.4.22">Hence you must realize that women rule over you! "Do you not labor and toil, and bring everything and give it to women?</verse>
+        <verse canonical="true" osisID="1Esd.4.23">A man takes his sword, and goes out to travel and rob and steal and to sail the sea and rivers;</verse>
+        <verse canonical="true" osisID="1Esd.4.24">he faces lions, and he walks in darkness, and when he steals and robs and plunders, he brings it back to the woman he loves.</verse>
+        <verse canonical="true" osisID="1Esd.4.25">A man loves his wife more than his father or his mother.</verse>
+        <verse canonical="true" osisID="1Esd.4.26">Many men have lost their minds because of women, and have become slaves because of them.</verse>
+        <verse canonical="true" osisID="1Esd.4.27">Many have perished, or stumbled, or sinned, because of women.</verse>
+        <verse canonical="true" osisID="1Esd.4.28">And now do you not believe me? "Is not the king great in his power? Do not all lands fear to touch him?</verse>
+        <verse canonical="true" osisID="1Esd.4.29">Yet I have seen him with Apame, the king's concubine, the daughter of the illustrious Bartacus; she would sit at the king's right hand</verse>
+        <verse canonical="true" osisID="1Esd.4.30">and take the crown from the king's head and put it on her own, and slap the king with her left hand.</verse>
+        <verse canonical="true" osisID="1Esd.4.31">At this the king would gaze at her with mouth agape. If she smiles at him, he laughs; if she loses her temper with him, he flatters her, that she may be reconciled to him.</verse>
+        <verse canonical="true" osisID="1Esd.4.32">Gentlemen, why are not women strong, since they do such things?"</verse>
+        <verse canonical="true" osisID="1Esd.4.33">Then the king and the nobles looked at one another; and he began to speak about truth:</verse>
+        <verse canonical="true" osisID="1Esd.4.34">"Gentlemen, are not women strong? The earth is vast, and heaven is high, and the sun is swift in its course, for it makes the circuit of the heavens and returns to its place in one day.</verse>
+        <verse canonical="true" osisID="1Esd.4.35">Is he not great who does these things? But truth is great, and stronger than all things.</verse>
+        <verse canonical="true" osisID="1Esd.4.36">The whole earth calls upon truth, and heaven blesses her. All God's works quake and tremble, and with him there is nothing unrighteous.</verse>
+        <verse canonical="true" osisID="1Esd.4.37">Wine is unrighteous, the king is unrighteous, women are unrighteous, all the sons of men are unrighteous, all their works are unrighteous, and all such things. There is no truth in them and in their unrighteousness they will perish.</verse>
+        <verse canonical="true" osisID="1Esd.4.38">But truth endures and is strong for ever, and lives and prevails for ever and ever.</verse>
+        <verse canonical="true" osisID="1Esd.4.39">With her there is no partiality or preference, but she does what is righteous instead of anything that is unrighteous or wicked. All men approve her deeds,</verse>
+        <verse canonical="true" osisID="1Esd.4.40">and there is nothing unrighteous in her judgment. To her belongs the strength and the kingship and the power and the majesty of all the ages. Blessed be the God of truth!"</verse>
+        <verse canonical="true" osisID="1Esd.4.41">He ceased speaking; then all the people shouted, and said, "Great is truth, and strongest of all!"</verse>
+        <verse canonical="true" osisID="1Esd.4.42">Then the king said to him, "Ask what you wish, even beyond what is written, and we will give it to you, for you have been found to be the wisest. And you shall sit next to me, and be called my kinsman."</verse>
+        <verse canonical="true" osisID="1Esd.4.43">Then he said to the king, "Remember the vow which you made to build Jerusalem, in the day when you became king,</verse>
+        <verse canonical="true" osisID="1Esd.4.44">and to send back all the vessels that were taken from Jerusalem, which Cyrus set apart when he began to destroy Babylon, and vowed to send them back there.</verse>
+        <verse canonical="true" osisID="1Esd.4.45">You also vowed to build the temple, which the Edomites burned when Judea was laid waste by the Chaldeans.</verse>
+        <verse canonical="true" osisID="1Esd.4.46">And now, O lord the king, this is what I ask and request of you, and this befits your greatness. I pray therefore that you fulfil the vow whose fulfilment you vowed to the King of heaven with your own lips."</verse>
+        <verse canonical="true" osisID="1Esd.4.47">Then Darius the king rose, and kissed him, and wrote letters for him to all the treasurers and governors and generals and satraps, that they should give escort to him and all who were going up with him to build Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.4.48">And he wrote letters to all the governors in Coelesyria and Phoenicia and to those in Lebanon, to bring cedar timber from Lebanon to Jerusalem, and to help him build the city.</verse>
+        <verse canonical="true" osisID="1Esd.4.49">And he wrote for all the Jews who were going up from his kingdom to Judea, in the interest of their freedom, that no officer or satrap or governor or treasurer should forcibly enter their doors;</verse>
+        <verse canonical="true" osisID="1Esd.4.50">that all the country which they would occupy should be theirs without tribute; that the Idumeans should give up the villages of the Jews which they held;</verse>
+        <verse canonical="true" osisID="1Esd.4.51">that twenty talents a year should be given for the building of the temple until it was completed,</verse>
+        <verse canonical="true" osisID="1Esd.4.52">and an additional ten talents a year for burnt offerings to be offered on the altar every day, in accordance with the commandment to make seventeen offerings;</verse>
+        <verse canonical="true" osisID="1Esd.4.53">and that all who came from Babylonia to build the city should have their freedom, they and their children and all the priests who came.</verse>
+        <verse canonical="true" osisID="1Esd.4.54">He wrote also concerning their support and the priests' garments in which they were to minister.</verse>
+        <verse canonical="true" osisID="1Esd.4.55">He wrote that the support for the Levites should be provided until the day when the temple should be finished and Jerusalem built.</verse>
+        <verse canonical="true" osisID="1Esd.4.56">He wrote that land and wages should be provided for all who guarded the city.</verse>
+        <verse canonical="true" osisID="1Esd.4.57">And he sent back from Babylon all the vessels which Cyrus had set apart; everything that Cyrus had ordered to be done, he also commanded to be done and to be sent to Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.4.58">When the young man went out, he lifted up his face to heaven toward Jerusalem, and praised the King of heaven, saying,</verse>
+        <verse canonical="true" osisID="1Esd.4.59">"From thee is the victory; from thee is wisdom, and thine is the glory. I am thy servant.</verse>
+        <verse canonical="true" osisID="1Esd.4.60">Blessed art thou, who hast given me wisdom; I give thee thanks, O Lord of our fathers."</verse>
+        <verse canonical="true" osisID="1Esd.4.61">So he took the letters, and went to Babylon and told this to all his brethren.</verse>
+        <verse canonical="true" osisID="1Esd.4.62">And they praised the God of their fathers, because he had given them release and permission</verse>
+        <verse canonical="true" osisID="1Esd.4.63">to go up and build Jerusalem and the temple which is called by his name; and they feasted, with music and rejoicing, for seven days.</verse>
+      </chapter>
+      <chapter osisID="1Esd.5" TEIform="div">
+        <verse canonical="true" osisID="1Esd.5.1">After this the heads of fathers' houses were chosen to go up, according to their tribes, with their wives and sons and daughters, and their menservants and maidservants, and their cattle.</verse>
+        <verse canonical="true" osisID="1Esd.5.2">And Darius sent with them a thousand horsemen to take them back to Jerusalem in safety, with the music of drums and flutes;</verse>
+        <verse canonical="true" osisID="1Esd.5.3">and all their brethren were making merry. And he made them go up with them.</verse>
+        <verse canonical="true" osisID="1Esd.5.4">These are the names of the men who went up, according to their fathers' houses in the tribes, over their groups:</verse>
+        <verse canonical="true" osisID="1Esd.5.5">the priests, the sons of Phinehas, son of Aaron; Jeshua the son of Jozadak, son of Seraiah, and Joakim the son of Zerubbabel, son of Shealtiel, of the house of David, of the lineage of Phares, of the tribe of Judah,</verse>
+        <verse canonical="true" osisID="1Esd.5.6">who spoke wise words before Darius the king of the Persians, in the second year of his reign, in the month of Nisan, the first month.</verse>
+        <verse canonical="true" osisID="1Esd.5.7">These are the men of Judea who came up out of their sojourn in captivity, whom Nebuchadnezzar king of Babylon had carried away to Babylon</verse>
+        <verse canonical="true" osisID="1Esd.5.8">and who returned to Jerusalem and the rest of Judea, each to his own town. They came with Zerubbabel and Jeshua, Nehemiah, Seraiah, Resaiah, Bigvai, Mordecai, Bilshan, Mispar, Reeliah, Rehum, and Baanah, their leaders.</verse>
+        <verse canonical="true" osisID="1Esd.5.9">The number of the men of the nation and their leaders: the sons of Parosh, two thousand one hundred and seventy-two. The sons of Shephatiah, four hundred and seventy-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.10">The sons of Arah, seven hundred and fifty-six.</verse>
+        <verse canonical="true" osisID="1Esd.5.11">The sons of Pahathmoab, of the sons of Jeshua and Joab, two thousand eight hundred and twelve.</verse>
+        <verse canonical="true" osisID="1Esd.5.12">The sons of Elam, one thousand two hundred and fifty-four. The sons of Zattu, nine hundred and forty-five. The sons of Chorbe, seven hundred and five. The sons of Bani, six hundred and forty-eight.</verse>
+        <verse canonical="true" osisID="1Esd.5.13">The sons of Bebai, six hundred and twenty-three. The sons of Azgad, one thousand three hundred and twenty-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.14">The sons of Adonikam, six hundred and sixty-seven. The sons of Bigvai, two thousand and sixty-six. The sons of Adin, four hundred and fifty-four.</verse>
+        <verse canonical="true" osisID="1Esd.5.15">The sons of Ater, namely of Hezekiah, ninety-two. The sons of Kilan and Azetas, sixty-seven. The sons of Azaru, four hundred and thirty-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.16">The sons of Annias, one hundred and one. The sons of Arom. The sons of Bezai, three hundred and twenty-three. The sons of Jorah, one hundred and twelve.</verse>
+        <verse canonical="true" osisID="1Esd.5.17">The sons of Baiterus, three thousand and five. The sons of Bethlehem, one hundred and twenty-three.</verse>
+        <verse canonical="true" osisID="1Esd.5.18">The men of Netophah, fifty-five. The men of Anathoth, one hundred and fifty-eight. The men of Bethasmoth, forty-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.19">The men of Kiriatharim, twenty-five. The men of Chephirah and Beeroth, seven hundred and forty-three.</verse>
+        <verse canonical="true" osisID="1Esd.5.20">The Chadiasans and Ammidians, four hundred and twenty-two. The men of Ramah and Geba, six hundred and twenty-one.</verse>
+        <verse canonical="true" osisID="1Esd.5.21">The men of Michmas, one hundred and twenty-two. The men of Bethel, fifty-two. The sons of Magbish, one hundred and fifty-six.</verse>
+        <verse canonical="true" osisID="1Esd.5.22">The sons of the other Elam and Ono, seven hundred and twenty-five. The sons of Jericho, three hundred and forty-five.</verse>
+        <verse canonical="true" osisID="1Esd.5.23">The sons of Senaah, three thousand three hundred and thirty.</verse>
+        <verse canonical="true" osisID="1Esd.5.24">The priests: the sons of Jedaiah the son of Jeshua, of the sons of Anasib, nine hundred and seventy-two. The sons of Immer, one thousand and fifty-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.25">The sons of Pashhur, one thousand two hundred and forty-seven. The sons of Harim, one thousand and seventeen.</verse>
+        <verse canonical="true" osisID="1Esd.5.26">The Levites: the sons of Jeshua and Kadmiel and Bannas and Sudias, seventy-four.</verse>
+        <verse canonical="true" osisID="1Esd.5.27">The temple singers: the sons of Asaph, one hundred and twenty-eight.</verse>
+        <verse canonical="true" osisID="1Esd.5.28">The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, in all one hundred and thirty-nine.</verse>
+        <verse canonical="true" osisID="1Esd.5.29">The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth, the sons of Keros, the sons of Siaha, the sons of Padon, the sons of Lebanah, the sons of Hagabah,</verse>
+        <verse canonical="true" osisID="1Esd.5.30">the sons of Akkub, the sons of Uthai, the sons of Ketab, the sons of Hagab, the sons of Shamlai, the sons of Hana, the sons of Cathua, the sons of Gahar,</verse>
+        <verse canonical="true" osisID="1Esd.5.31">The sons of Reaiah, the sons of Rezin, the sons of Nekoda, the sons of Chezib, the sons of Gazzam, the sons of Uzza, the sons of Paseah, the sons of Hasrah, the sons of Besai, the sons of Asnah, the sons of the Meunites, the sons of Nephisim, the sons of Bakbuk, the sons of Hakupha, the sons of Asur, the sons of Pharakim, the sons of Bazluth,</verse>
+        <verse canonical="true" osisID="1Esd.5.32">the sons of Mehida, the sons of Cutha, the sons of Charea, the sons of Barkos, the sons of Sisera, the sons of Temah, the sons of Neziah, the sons of Hatipha.</verse>
+        <verse canonical="true" osisID="1Esd.5.33">The sons of Solomon's servants: the sons of Hassophereth, the sons of Peruda, the sons of Jaalah, the sons of Lozon, the sons of Giddel, the sons of Shephatiah,</verse>
+        <verse canonical="true" osisID="1Esd.5.34">the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Sarothie, the sons of Masiah, the sons of Gas, the sons of Addus, the sons of Subas, the sons of Apherra, the sons of Barodis, the sons of Shaphat, the sons of Ami.</verse>
+        <verse canonical="true" osisID="1Esd.5.35">All the temple servants and the sons of Solomon's servants were three hundred and seventy-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.36">The following are those who came up from Telmelah and Telharsha, under the leadership of Cherub, Addan, and Immer,</verse>
+        <verse canonical="true" osisID="1Esd.5.37">though they could not prove by their fathers' houses or lineage that they belonged to Israel: the sons of Delaiah the son of Tobiah, the sons of Nekoda, six hundred and fifty-two.</verse>
+        <verse canonical="true" osisID="1Esd.5.38">Of the priests the following had assumed the priesthood but were not found registered: the sons of Habaiah, the sons of Hakkoz, the sons of Jaddus who had married Agia, one of the daughters of Barzillai, and was called by his name.</verse>
+        <verse canonical="true" osisID="1Esd.5.39">And when the genealogy of these men was sought in the register and was not found, they were excluded from serving as priests.</verse>
+        <verse canonical="true" osisID="1Esd.5.40">And Nehemiah and Attharias told them not to share in the holy things until a high priest should appear wearing Urim and Thummim.</verse>
+        <verse canonical="true" osisID="1Esd.5.41">All those of Israel, twelve or more years of age, besides menservants and maidservants, were forty-two thousand three hundred and sixty;</verse>
+        <verse canonical="true" osisID="1Esd.5.42">their menservants and maidservants were seven thousand three hundred and thirty-seven; there were two hundred and forty-five musicians and singers.</verse>
+        <verse canonical="true" osisID="1Esd.5.43">There were four hundred and thirty-five camels, and seven thousand and thirty-six horses, two hundred and forty-five mules, and five thousand five hundred and twenty-five asses.</verse>
+        <verse canonical="true" osisID="1Esd.5.44">Some of the heads of families, when they came to the temple of God which is in Jerusalem, vowed that they would erect the house on its site, to the best of their ability,</verse>
+        <verse canonical="true" osisID="1Esd.5.45">and that they would give to the sacred treasury for the work a thousand minas of gold, five thousand minas of silver, and one hundred priests' garments.</verse>
+        <verse canonical="true" osisID="1Esd.5.46">The priests, the Levites, and some of the people settled in Jerusalem and its vicinity; and the temple singers, the gatekeepers, and all Israel in their towns.</verse>
+        <verse canonical="true" osisID="1Esd.5.47">When the seventh month came, and the sons of Israel were each in his own home, they gathered as one man in the square before the first gate toward the east.</verse>
+        <verse canonical="true" osisID="1Esd.5.48">Then Jeshua the son of Jozadak, with his fellow priests, and Zerubbabel the son of Shealtiel, with his kinsmen, took their places and prepared the altar of the God of Israel,</verse>
+        <verse canonical="true" osisID="1Esd.5.49">to offer burnt offerings upon it, in accordance with the directions in the book of Moses the man of God.</verse>
+        <verse canonical="true" osisID="1Esd.5.50">And some joined them from the other peoples of the land. And they erected the altar in its place, for all the peoples of the land were hostile to them and were stronger than they; and they offered sacrifices at the proper times and burnt offerings to the Lord morning and evening.</verse>
+        <verse canonical="true" osisID="1Esd.5.51">They kept the feast of booths, as it is commanded in the law, and offered the proper sacrifices every day,</verse>
+        <verse canonical="true" osisID="1Esd.5.52">and thereafter the continual offerings and sacrifices on sabbaths and at new moons and at all the consecrated feasts.</verse>
+        <verse canonical="true" osisID="1Esd.5.53">And all who had made any vow to God began to offer sacrifices to God, from the new moon of the seventh month, though the temple of God was not yet built.</verse>
+        <verse canonical="true" osisID="1Esd.5.54">And they gave money to the masons and the carpenters, and food and drink</verse>
+        <verse canonical="true" osisID="1Esd.5.55">and carts to the Sidonians and the Tyrians, to bring cedar logs from Lebanon and convey them in rafts to the harbor of Joppa, according to the decree which they had in writing from Cyrus king of the Persians.</verse>
+        <verse canonical="true" osisID="1Esd.5.56">In the second year after their coming to the temple of God in Jerusalem, in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak made a beginning, together with their brethren and the Levitical priests and all who had come to Jerusalem from the captivity;</verse>
+        <verse canonical="true" osisID="1Esd.5.57">and they laid the foundation of the temple of God on the new moon of the second month in the second year after they came to Judea and Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.5.58">And they appointed the Levites who were twenty or more years of age to have charge of the work of the Lord. And Jeshua arose, and his sons and brethren and Kadmiel his brother and the sons of Jeshua Emadabun and the sons of Joda son of Iliadun, with their sons and brethren, all the Levites, as one man pressing forward the work on the house of God. So the builders built the temple of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.5.59">And the priests stood arrayed in their garments, with musical instruments and trumpets, and the Levites, the sons of Asaph, with cymbals,</verse>
+        <verse canonical="true" osisID="1Esd.5.60">praising the Lord and blessing him, according to the directions of David king of Israel;</verse>
+        <verse canonical="true" osisID="1Esd.5.61">and they sang hymns, giving thanks to the Lord, because his goodness and his glory are for ever upon all Israel.</verse>
+        <verse canonical="true" osisID="1Esd.5.62">And all the people sounded trumpets and shouted with a great shout, praising the Lord for the erection of the house of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.5.63">Some of the Levitical priests and heads of fathers' houses, old men who had seen the former house, came to the building of this one with outcries and loud weeping,</verse>
+        <verse canonical="true" osisID="1Esd.5.64">while many came with trumpets and a joyful noise,</verse>
+        <verse canonical="true" osisID="1Esd.5.65">so that the people could not hear the trumpets because of the weeping of the people. For the multitude sounded the trumpets loudly, so that the sound was heard afar;</verse>
+        <verse canonical="true" osisID="1Esd.5.66">and when the enemies of the tribe of Judah and Benjamin heard it, they came to find out what the sound of the trumpets meant.</verse>
+        <verse canonical="true" osisID="1Esd.5.67">And they learned that those who had returned from captivity were building the temple for the Lord God of Israel.</verse>
+        <verse canonical="true" osisID="1Esd.5.68">So they approached Zerubbabel and Jeshua and the heads of the fathers' houses and said to them, "We will build with you.</verse>
+        <verse canonical="true" osisID="1Esd.5.69">For we obey your Lord just as you do and we have been sacrificing to him ever since the days of Esarhaddon king of the Assyrians, who brought us here."</verse>
+        <verse canonical="true" osisID="1Esd.5.70">But Zerubbabel and Jeshua and the heads of the fathers' houses in Israel said to them, "You have nothing to do with us in building the house for the Lord our God,</verse>
+        <verse canonical="true" osisID="1Esd.5.71">for we alone will build it for the Lord of Israel, as Cyrus the king of the Persians has commanded us."</verse>
+        <verse canonical="true" osisID="1Esd.5.72">But the peoples of the land pressed hard upon those in Judea, cut off their supplies, and hindered their building;</verse>
+        <verse canonical="true" osisID="1Esd.5.73">and by plots and demagoguery and uprisings they prevented the completion of the building as long as King Cyrus lived. And they were kept from building for two years, until the reign of Darius.</verse>
+      </chapter>
+      <chapter osisID="1Esd.6" TEIform="div">
+        <verse canonical="true" osisID="1Esd.6.1">Now in the second year of the reign of Darius, the prophets Haggai and Zechariah the son of Iddo prophesied to the Jews who were in Judea and Jerusalem, they prophesied to them in the name of the Lord God of Israel.</verse>
+        <verse canonical="true" osisID="1Esd.6.2">Then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and began to build the house of the Lord which is in Jerusalem, with the help of the prophets of the Lord who were with them.</verse>
+        <verse canonical="true" osisID="1Esd.6.3">At the same time Sisinnes the governor of Syria and Phoenicia and Sathrabuzanes and their associates came to them and said,</verse>
+        <verse canonical="true" osisID="1Esd.6.4">"By whose order are you building this house and this roof and finishing all the other things? And who are the builders that are finishing these things?"</verse>
+        <verse canonical="true" osisID="1Esd.6.5">Yet the elders of the Jews were dealt with kindly, for the providence of the Lord was over the captives;</verse>
+        <verse canonical="true" osisID="1Esd.6.6">and they were not prevented from building until word could be sent to Darius concerning them and a report made.</verse>
+        <verse canonical="true" osisID="1Esd.6.7">A copy of the letter which Sisinnes the governor of Syria and Phoenicia, and Sathrabuzanes, and their associates the local rulers in Syria and Phoenicia, wrote and sent to Darius:</verse>
+        <verse canonical="true" osisID="1Esd.6.8">"To King Darius, greeting. Let it be fully known to our lord the king that, when we went to the country of Judea and entered the city of Jerusalem, we found the elders of the Jews, who had been in captivity,</verse>
+        <verse canonical="true" osisID="1Esd.6.9">building in the city of Jerusalem a great new house for the Lord, of hewn stone, with costly timber laid in the walls.</verse>
+        <verse canonical="true" osisID="1Esd.6.10">These operations are going on rapidly, and the work is prospering in their hands and being completed with all splendor and care.</verse>
+        <verse canonical="true" osisID="1Esd.6.11">Then we asked these elders, `At whose command are you building this house and laying the foundations of this structure?'</verse>
+        <verse canonical="true" osisID="1Esd.6.12">And in order that we might inform you in writing who the leaders are, we questioned them and asked them for a list of the names of those who are at their head.</verse>
+        <verse canonical="true" osisID="1Esd.6.13">They answered us, `We are the servants of the Lord who created the heaven and the earth.</verse>
+        <verse canonical="true" osisID="1Esd.6.14">And the house was built many years ago by a king of Israel who was great and strong, and it was finished.</verse>
+        <verse canonical="true" osisID="1Esd.6.15">But when our fathers sinned against the Lord of Israel who is in heaven, and provoked him, he gave them over into the hands of Nebuchadnezzar king of Babylon, king of the Chaldeans;</verse>
+        <verse canonical="true" osisID="1Esd.6.16">and they pulled down the house, and burned it, and carried the people away captive to Babylon.</verse>
+        <verse canonical="true" osisID="1Esd.6.17">But in the first year that Cyrus reigned over the country of Babylonia, King Cyrus wrote that this house should be rebuilt.</verse>
+        <verse canonical="true" osisID="1Esd.6.18">And the holy vessels of gold and of silver, which Nebuchadnezzar had taken out of the house in Jerusalem and stored in his own temple, these Cyrus the king took out again from the temple in Babylon, and they were delivered to Zerubbabel and Sheshbazzar the governor</verse>
+        <verse canonical="true" osisID="1Esd.6.19">with the command that he should take all these vessels back and put them in the temple at Jerusalem, and that this temple of the Lord should be rebuilt on its site.</verse>
+        <verse canonical="true" osisID="1Esd.6.20">Then this Sheshbazzar, after coming here, laid the foundations of the house of the Lord which is in Jerusalem, and although it has been in process of construction from that time until now, it has not yet reached completion.'</verse>
+        <verse canonical="true" osisID="1Esd.6.21">Now therefore, if it seems wise, O king, let search be made in the royal archives of our lord the king that are in Babylon;</verse>
+        <verse canonical="true" osisID="1Esd.6.22">and if it is found that the building of the house of the Lord in Jerusalem was done with the consent of King Cyrus, and if it is approved by our lord the king, let him send us directions concerning these things."</verse>
+        <verse canonical="true" osisID="1Esd.6.23">Then Darius commanded that search be made in the royal archives that were deposited in Babylon. And in Ecbatana, the fortress which is in the country of Media, a scroll was found in which this was recorded:</verse>
+        <verse canonical="true" osisID="1Esd.6.24">"In the first year of the reign of Cyrus, King Cyrus ordered the building of the house of the Lord in Jerusalem, where they sacrifice with perpetual fire;</verse>
+        <verse canonical="true" osisID="1Esd.6.25">its height to be sixty cubits and its breadth sixty cubits, with three courses of hewn stone and one course of new native timber; the cost to be paid from the treasury of Cyrus the king;</verse>
+        <verse canonical="true" osisID="1Esd.6.26">and that the holy vessels of the house of the Lord, both of gold and of silver, which Nebuchadnezzar took out of the house in Jerusalem and carried away to Babylon, should be restored to the house in Jerusalem, to be placed where they had been."</verse>
+        <verse canonical="true" osisID="1Esd.6.27">So Darius commanded Sisinnes the governor of Syria and Phoenicia, and Sathrabuzanes, and their associates, and those who were appointed as local rulers in Syria and Phoenicia, to keep away from the place, and to permit Zerubbabel, the servant of the Lord and governor of Judea, and the elders of the Jews to build this house of the Lord on its site.</verse>
+        <verse canonical="true" osisID="1Esd.6.28">"And I command that it be built completely, and that full effort be made to help the men who have returned from the captivity of Judea, until the house of the Lord is finished;</verse>
+        <verse canonical="true" osisID="1Esd.6.29">and that out of the tribute of Coelesyria and Phoenicia a portion be scrupulously given to these men, that is, to Zerubbabel the governor, for sacrifices to the Lord, for bulls and rams and lambs,</verse>
+        <verse canonical="true" osisID="1Esd.6.30">and likewise wheat and salt and wine and oil, regularly every year, without quibbling, for daily use as the priests in Jerusalem may indicate,</verse>
+        <verse canonical="true" osisID="1Esd.6.31">in order that libations may be made to the Most High God for the king and his children, and prayers be offered for their life."</verse>
+        <verse canonical="true" osisID="1Esd.6.32">And he commanded that if any should transgress or nullify any of the things herein written, a beam should be taken out of his house and he should be hanged upon it, and his property should be forfeited to the king.</verse>
+        <verse canonical="true" osisID="1Esd.6.33">"Therefore may the Lord, whose name is there called upon, destroy every king and nation that shall stretch out their hands to hinder or damage that house of the Lord in Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.6.34">"I, King Darius, have decreed that it be done with all diligence as here prescribed."</verse>
+      </chapter>
+      <chapter osisID="1Esd.7" TEIform="div">
+        <verse canonical="true" osisID="1Esd.7.1">Then Sisinnes the governor of Coelesyria and Phoenicia, and Sathrabuzanes, and their associates, following the orders of King Darius,</verse>
+        <verse canonical="true" osisID="1Esd.7.2">supervised the holy work with very great care, assisting the elders of the Jews and the chief officers of the temple.</verse>
+        <verse canonical="true" osisID="1Esd.7.3">And the holy work prospered, while the prophets Haggai and Zechariah prophesied;</verse>
+        <verse canonical="true" osisID="1Esd.7.4">and they completed it by the command of the Lord God of Israel. So with the consent of Cyrus and Darius and Artaxerxes, kings of the Persians,</verse>
+        <verse canonical="true" osisID="1Esd.7.5">the holy house was finished by the twenty-third day of the month of Adar, in the sixth year of King Darius.</verse>
+        <verse canonical="true" osisID="1Esd.7.6">And the people of Israel, the priests, the Levites, and the rest of those from the captivity who joined them, did according to what was written in the book of Moses.</verse>
+        <verse canonical="true" osisID="1Esd.7.7">They offered at the dedication of the temple of the Lord one hundred bulls, two hundred rams, four hundred lambs,</verse>
+        <verse canonical="true" osisID="1Esd.7.8">and twelve he-goats for the sin of all Israel, according to the number of the twelve leaders of the tribes of Israel;</verse>
+        <verse canonical="true" osisID="1Esd.7.9">and the priests and the Levites stood arrayed in their garments, according to kindred, for the services of the Lord God of Israel in accordance with the book of Moses; and the gatekeepers were at each gate.</verse>
+        <verse canonical="true" osisID="1Esd.7.10">The people of Israel who came from the captivity kept the passover on the fourteenth day of the first month, after the priests and the Levites were purified together.</verse>
+        <verse canonical="true" osisID="1Esd.7.11">Not all of the returned captives were purified, but the Levites were all purified together,</verse>
+        <verse canonical="true" osisID="1Esd.7.12">and they sacrificed the passover lamb for all the returned captives and for their brethren the priests and for themselves.</verse>
+        <verse canonical="true" osisID="1Esd.7.13">And the people of Israel who came from the captivity ate it, all those who had separated themselves from the abominations of the peoples of the land and sought the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.7.14">And they kept the feast of unleavened bread seven days, rejoicing before the Lord,</verse>
+        <verse canonical="true" osisID="1Esd.7.15">Because he had changed the will of the king of the Assyrians concerning them, to strengthen their hands for the service of the Lord God of Israel.</verse>
+      </chapter>
+      <chapter osisID="1Esd.8" TEIform="div">
+        <verse canonical="true" osisID="1Esd.8.1">After these things, when Artaxerxes the king of the Persians was reigning, Ezra came, the son of Seraiah, son of Azariah, son of Hilkiah, son of Shallum,</verse>
+        <verse canonical="true" osisID="1Esd.8.2">son of Zadok, son of Ahitub, son of Amariah, son of Uzzi, son of Bukki, son of Abishua, son of Phineas, son of Eleazar, son of Aaron the chief priest.</verse>
+        <verse canonical="true" osisID="1Esd.8.3">This Ezra came up from Babylon as a scribe skilled in the law of Moses, which was given by the God of Israel;</verse>
+        <verse canonical="true" osisID="1Esd.8.4">and the king showed him honor, for he found favor before the king in all his requests.</verse>
+        <verse canonical="true" osisID="1Esd.8.5">There came up with him to Jerusalem some of the people of Israel and some of the priests and Levites and temple singers and gatekeepers and temple servants,</verse>
+        <verse canonical="true" osisID="1Esd.8.6">in the seventh year of the reign of Artaxerxes, in the fifth month (this was the king's seventh year); for they left Babylon on the new moon of the first month and arrived in Jerusalem on the new moon of the fifth month, by the prosperous journey which the Lord gave them.</verse>
+        <verse canonical="true" osisID="1Esd.8.7">For Ezra possessed great knowledge, so that he omitted nothing from the law of the Lord or the commandments, but taught all Israel all the ordinances and judgments.</verse>
+        <verse canonical="true" osisID="1Esd.8.8">The following is a copy of the written commission from Artaxerxes the king which was delivered to Ezra the priest and reader of the law of the Lord:</verse>
+        <verse canonical="true" osisID="1Esd.8.9">"King Artaxerxes to Ezra the priest and reader of the law of the Lord, greeting.</verse>
+        <verse canonical="true" osisID="1Esd.8.10">In accordance with my gracious decision, I have given orders that those of the Jewish nation and of the priests and Levites and others in our realm, who freely choose to do so, may go with you to Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.8.11">Let as many as are so disposed, therefore, depart with you as I and the seven friends who are my counselors have decided,</verse>
+        <verse canonical="true" osisID="1Esd.8.12">in order to look into matters in Judea and Jerusalem, in accordance with what is in the law of the Lord,</verse>
+        <verse canonical="true" osisID="1Esd.8.13">and to carry to Jerusalem the gifts for the Lord of Israel which I and my friends have vowed, and to collect for the Lord in Jerusalem all the gold and silver that may be found in the country of Babylonia,</verse>
+        <verse canonical="true" osisID="1Esd.8.14">together with what is given by the nation for the temple of their Lord which is in Jerusalem, both gold and silver for bulls and rams and lambs and what goes with them,</verse>
+        <verse canonical="true" osisID="1Esd.8.15">so as to offer sacrifices upon the altar of their Lord which is in Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.8.16">And whatever you and your brethren are minded to do with the gold and silver, perform it in accordance with the will of your God;</verse>
+        <verse canonical="true" osisID="1Esd.8.17">and deliver the holy vessels of the Lord which are given you for the use of the temple of your God which is in Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.8.18">And whatever else occurs to you as necessary for the temple of your God, you may provide out of the royal treasury.</verse>
+        <verse canonical="true" osisID="1Esd.8.19">"And I, Artaxerxes the king, have commanded the treasurers of Syria and Phoenicia that whatever Ezra the priest and reader of the law of the Most High God sends for, they shall take care to give him,</verse>
+        <verse canonical="true" osisID="1Esd.8.20">up to a hundred talents of silver, and likewise up to a hundred cors of wheat, a hundred baths of wine, and salt in abundance.</verse>
+        <verse canonical="true" osisID="1Esd.8.21">Let all things prescribed in the law of God be scrupulously fulfilled for the Most High God, so that wrath may not come upon the kingdom of the king and his sons.</verse>
+        <verse canonical="true" osisID="1Esd.8.22">You are also informed that no tribute or any other tax is to be laid on any of the priests or Levites or temple singers or gatekeepers or temple servants or persons employed in this temple, and that no one has authority to impose any tax upon them.</verse>
+        <verse canonical="true" osisID="1Esd.8.23">"And you, Ezra, according to the wisdom of God, appoint judges and justices to judge all those who know the law of your God, throughout all Syria and Phoenicia; and those who do not know it you shall teach.</verse>
+        <verse canonical="true" osisID="1Esd.8.24">And all who transgress the law of your God or the law of the kingdom shall be strictly punished, whether by death or some other punishment, either fine or imprisonment."</verse>
+        <verse canonical="true" osisID="1Esd.8.25">Blessed be the Lord alone, who put this into the heart of the king, to glorify his house which is in Jerusalem,</verse>
+        <verse canonical="true" osisID="1Esd.8.26">and who honored me in the sight of the king and his counselors and all his friends and nobles.</verse>
+        <verse canonical="true" osisID="1Esd.8.27">I was encouraged by the help of the Lord my God, and I gathered men from Israel to go up with me.</verse>
+        <verse canonical="true" osisID="1Esd.8.28">These are the principal men, according to their fathers' houses and their groups, who went up with me from Babylon, in the reign of Artaxerxes the king:</verse>
+        <verse canonical="true" osisID="1Esd.8.29">Of the sons of Phineas, Gershom. Of the sons of Ithamar, Gamael. Of the sons of David, Hattush the son of Shecaniah.</verse>
+        <verse canonical="true" osisID="1Esd.8.30">Of the sons of Parosh, Zechariah, and with him a hundred and fifty men enrolled.</verse>
+        <verse canonical="true" osisID="1Esd.8.31">Of the sons of Pahathmoab, Eliehoenai the son of Zerahiah, and with him two hundred men.</verse>
+        <verse canonical="true" osisID="1Esd.8.32">Of the sons of Zattu, Shecaniah the son of Jahaziel, and with him three hundred men. Of the sons of Adin, Obed the son of Jonathan, and with him two hundred and fifty men.</verse>
+        <verse canonical="true" osisID="1Esd.8.33">Of the sons of Elam, Jeshaiah the son of Gotholiah, and with him seventy men.</verse>
+        <verse canonical="true" osisID="1Esd.8.34">Of the sons of Shephatiah, Zeraiah the son of Michael, and with him seventy men,</verse>
+        <verse canonical="true" osisID="1Esd.8.35">Of the sons of Joab, Obadiah the son of Jehiel, and with him two hundred and twelve men.</verse>
+        <verse canonical="true" osisID="1Esd.8.36">Of the sons of Bani, Shelomith the son of Josiphiah, and with him a hundred and sixty men.</verse>
+        <verse canonical="true" osisID="1Esd.8.37">Of the sons of Bebai, Zechariah the son of Bebai, and with him twenty-eight men.</verse>
+        <verse canonical="true" osisID="1Esd.8.38">Of the sons of Azgad, Johanan the son of Hakkatan, and with him a hundred and ten men.</verse>
+        <verse canonical="true" osisID="1Esd.8.39">Of the sons of Adonikam, the last ones, their names being Eliphelet, Jeuel, and Shemaiah, and with them seventy men.</verse>
+        <verse canonical="true" osisID="1Esd.8.40">Of the sons of Bigvai, Uthai the son of Istalcurus, and with him seventy men.</verse>
+        <verse canonical="true" osisID="1Esd.8.41">I assembled them at the river called Theras, and we encamped there three days, and I inspected them.</verse>
+        <verse canonical="true" osisID="1Esd.8.42">When I found there none of the sons of the priests or of the Levites,</verse>
+        <verse canonical="true" osisID="1Esd.8.43">I sent word to Eliezar, Iduel, Maasmas,</verse>
+        <verse canonical="true" osisID="1Esd.8.44">Elnathan, Shemaiah, Jarib, Nathan, Elnathan, Zechariah, and Meshullam, who were leaders and men of understanding;</verse>
+        <verse canonical="true" osisID="1Esd.8.45">and I told them to go to Iddo, who was the leading man at the place of the treasury,</verse>
+        <verse canonical="true" osisID="1Esd.8.46">and ordered them to tell Iddo and his brethren and the treasurers at that place to send us men to serve as priests in the house of our Lord.</verse>
+        <verse canonical="true" osisID="1Esd.8.47">And by the mighty hand of our Lord they brought us competent men of the sons of Mahli the son of Levi, son of Israel, namely Sherebiah with his sons and kinsmen, eighteen;</verse>
+        <verse canonical="true" osisID="1Esd.8.48">also Hashabiah and Annunus and Jeshaiah his brother, of the sons of Hananiah, and their sons, twenty men;</verse>
+        <verse canonical="true" osisID="1Esd.8.49">and of the temple servants, whom David and the leaders had given for the service of the Levites, two hundred and twenty temple servants; the list of all their names was reported.</verse>
+        <verse canonical="true" osisID="1Esd.8.50">There I proclaimed a fast for the young men before our Lord, to seek from him a prosperous journey for ourselves and for our children and the cattle that were with us.</verse>
+        <verse canonical="true" osisID="1Esd.8.51">For I was ashamed to ask the king for foot soldiers and horsemen and an escort to keep us safe from our adversaries;</verse>
+        <verse canonical="true" osisID="1Esd.8.52">for we had said to the king, "The power of our Lord will be with those who seek him, and will support them in every way."</verse>
+        <verse canonical="true" osisID="1Esd.8.53">And again we prayed to our Lord about these things, and we found him very merciful.</verse>
+        <verse canonical="true" osisID="1Esd.8.54">Then I set apart twelve of the leaders of the priests, Sherebiah and Hashabiah, and ten of their kinsmen with them;</verse>
+        <verse canonical="true" osisID="1Esd.8.55">and I weighed out to them the silver and the gold and the holy vessels of the house of our Lord, which the king himself and his counselors and the nobles and all Israel had given.</verse>
+        <verse canonical="true" osisID="1Esd.8.56">I weighed and gave to them six hundred and fifty talents of silver, and silver vessels worth a hundred talents, and a hundred talents of gold,</verse>
+        <verse canonical="true" osisID="1Esd.8.57">and twenty golden bowls, and twelve bronze vessels of fine bronze that glittered like gold.</verse>
+        <verse canonical="true" osisID="1Esd.8.58">And I said to them, "You are holy to the Lord, and the vessels are holy, and the silver and the gold are vowed to the Lord, the Lord of our fathers.</verse>
+        <verse canonical="true" osisID="1Esd.8.59">Be watchful and on guard until you deliver them to the leaders of the priests and the Levites, and to the heads of the fathers' houses of Israel, in Jerusalem, in the chambers of the house of our Lord."</verse>
+        <verse canonical="true" osisID="1Esd.8.60">So the priests and the Levites who took the silver and the gold and the vessels which had been in Jerusalem carried them to the temple of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.8.61">We departed from the river Theras on the twelfth day of the first month; and we arrived in Jerusalem by the mighty hand of our Lord which was upon us; he delivered us from every enemy on the way, and so we came to Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.8.62">When we had been there three days, the silver and the gold were weighed and delivered in the house of our Lord to Meremoth the priest, son of Uriah;</verse>
+        <verse canonical="true" osisID="1Esd.8.63">and with him was Eleazar the son of Phinehas, and with them were Jozabad the son of Jeshua and Moeth the son of Binnui, the Levites.</verse>
+        <verse canonical="true" osisID="1Esd.8.64">The whole was counted and weighed, and the weight of everything was recorded at that very time.</verse>
+        <verse canonical="true" osisID="1Esd.8.65">And those who had come back from captivity offered sacrifices to the Lord, the God of Israel, twelve bulls for all Israel, ninety-six rams,</verse>
+        <verse canonical="true" osisID="1Esd.8.66">seventy-two lambs, and as a thank offering twelve he-goats -- all as a sacrifice to the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.8.67">And they delivered the king's orders to the royal stewards and to the governors of Coelesyria and Phoenicia; and these officials honored the people and the temple of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.8.68">After these things had been done, the principal men came to me and said,</verse>
+        <verse canonical="true" osisID="1Esd.8.69">"The people of Israel and the leaders and the priests and the Levites have not put away from themselves the alien peoples of the land and their pollutions, the Canaanites, the Hittites, the Perizzites, the Jebusites, the Moabites, the Egyptians, and the Edomites.</verse>
+        <verse canonical="true" osisID="1Esd.8.70">For they and their sons have married the daughters of these people, and the holy race has been mixed with the alien peoples of the land; and from the beginning of this matter the leaders and the nobles have been sharing in this iniquity."</verse>
+        <verse canonical="true" osisID="1Esd.8.71">As soon as I heard these things I rent my garments and my holy mantle, and pulled out hair from my head and beard, and sat down in anxiety and grief.</verse>
+        <verse canonical="true" osisID="1Esd.8.72">And all who were ever moved at the word of the Lord of Israel gathered round me, as I mourned over this iniquity, and I sat grief-stricken until the evening sacrifice.</verse>
+        <verse canonical="true" osisID="1Esd.8.73">Then I rose from my fast, with my garments and my holy mantle rent, and kneeling down and stretching forth my hands to the Lord</verse>
+        <verse canonical="true" osisID="1Esd.8.74">I said, "O Lord, I am ashamed and confounded before thy face.</verse>
+        <verse canonical="true" osisID="1Esd.8.75">For our sins have risen higher than our heads, and our mistakes have mounted up to heaven</verse>
+        <verse canonical="true" osisID="1Esd.8.76">from the times of our fathers, and we are in great sin to this day.</verse>
+        <verse canonical="true" osisID="1Esd.8.77">And because of our sins and the sins of our fathers we with our brethren and our kings and our priests were given over to the kings of the earth, to the sword and captivity and plundering, in shame until this day.</verse>
+        <verse canonical="true" osisID="1Esd.8.78">And now in some measure mercy has come to us from thee, O Lord, to leave to us a root and a name in thy holy place,</verse>
+        <verse canonical="true" osisID="1Esd.8.79">and to uncover a light for us in the house of the Lord our God, and to give us food in the time of our servitude.</verse>
+        <verse canonical="true" osisID="1Esd.8.80">Even in our bondage we were not forsaken by our Lord, but he brought us into favor with the kings of the Persians, so that they have given us food</verse>
+        <verse canonical="true" osisID="1Esd.8.81">and glorified the temple of our Lord, and raised Zion from desolation, to give us a stronghold in Judea and Jerusalem.</verse>
+        <verse canonical="true" osisID="1Esd.8.82">"And now, O Lord, what shall we say, when we have these things? For we have transgressed thy commandments, which thou didst give by thy servants the prophets, saying,</verse>
+        <verse canonical="true" osisID="1Esd.8.83">`The land which you are entering to take possession of it is a land polluted with the pollution of the aliens of the land, and they have filled it with their uncleanness.</verse>
+        <verse canonical="true" osisID="1Esd.8.84">Therefore do not give your daughters in marriage to their sons, and do not take their daughters for your sons;</verse>
+        <verse canonical="true" osisID="1Esd.8.85">and do not seek ever to have peace with them, in order that you may be strong and eat the good things of the land and leave it for an inheritance to your children for ever.'</verse>
+        <verse canonical="true" osisID="1Esd.8.86">And all that has happened to us has come about because of our evil deeds and our great sins. For thou, O Lord, didst lift the burden of our sins</verse>
+        <verse canonical="true" osisID="1Esd.8.87">and give us such a root as this; but we turned back again to transgress thy law by mixing with the uncleanness of the peoples of the land.</verse>
+        <verse canonical="true" osisID="1Esd.8.88">Wast thou not angry enough with us to destroy us without leaving a root or seed or name?</verse>
+        <verse canonical="true" osisID="1Esd.8.89">O Lord of Israel, thou art true; for we are left as a root to this day.</verse>
+        <verse canonical="true" osisID="1Esd.8.90">Behold, we are now before thee in our iniquities; for we can no longer stand in thy presence because of these things."</verse>
+        <verse canonical="true" osisID="1Esd.8.91">While Ezra was praying and making his confession, weeping and lying upon the ground before the temple, there gathered about him a very great throng from Jerusalem, men and women and youths; for there was great weeping among the multitude.</verse>
+        <verse canonical="true" osisID="1Esd.8.92">Then Shecaniah the son of Jehiel, one of the men of Israel, called out, and said to Ezra, "We have sinned against the Lord, and have married foreign women from the peoples of the land; but even now there is hope for Israel.</verse>
+        <verse canonical="true" osisID="1Esd.8.93">Let us take an oath to the Lord about this, that we will put away all our foreign wives, with their children,</verse>
+        <verse canonical="true" osisID="1Esd.8.94">as seems good to you and to all who obey the law of the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.8.95">Arise and take action, for it is your task, and we are with you to take strong measures."</verse>
+        <verse canonical="true" osisID="1Esd.8.96">Then Ezra arose and had the leaders of the priests and Levites of all Israel take oath that they would do this. And they took the oath.</verse>
+      </chapter>
+      <chapter osisID="1Esd.9" TEIform="div">
+        <verse canonical="true" osisID="1Esd.9.1">Then Ezra rose and went from the court of the temple to the chamber of Jehohanan the son of Eliashib,</verse>
+        <verse canonical="true" osisID="1Esd.9.2">and spent the night there; and he did not eat bread or drink water, for he was mourning over the great iniquities of the multitude.</verse>
+        <verse canonical="true" osisID="1Esd.9.3">And a proclamation was made throughout Judea and Jerusalem to all who had returned from the captivity that they should assemble at Jerusalem,</verse>
+        <verse canonical="true" osisID="1Esd.9.4">and that if any did not meet there within two or three days, in accordance with the decision of the ruling elders, their cattle should be seized for sacrifice and the men themselves expelled from the multitude of those who had returned from the captivity.</verse>
+        <verse canonical="true" osisID="1Esd.9.5">Then the men of the tribe of Judah and Benjamin assembled at Jerusalem within three days; this was the ninth month, on the twentieth day of the month.</verse>
+        <verse canonical="true" osisID="1Esd.9.6">And all the multitude sat in the open square before the temple, shivering because of the bad weather that prevailed.</verse>
+        <verse canonical="true" osisID="1Esd.9.7">Then Ezra rose and said to them, "You have broken the law and married foreign women, and so have increased the sin of Israel.</verse>
+        <verse canonical="true" osisID="1Esd.9.8">Now then make confession and give glory to the Lord the God of our fathers,</verse>
+        <verse canonical="true" osisID="1Esd.9.9">and do his will; separate yourselves from the peoples of the land and from your foreign wives."</verse>
+        <verse canonical="true" osisID="1Esd.9.10">Then all the multitude shouted and said with a loud voice, "We will do as you have said.</verse>
+        <verse canonical="true" osisID="1Esd.9.11">But the multitude is great and it is winter, and we are not able to stand in the open air. This is not a work we can do in one day or two, for we have sinned too much in these things.</verse>
+        <verse canonical="true" osisID="1Esd.9.12">so let the leaders of the multitude stay, and let all those in our settlements who have foreign wives come at the time appointed,</verse>
+        <verse canonical="true" osisID="1Esd.9.13">with the elders and judges of each place, until we are freed from the wrath of the Lord over this matter."</verse>
+        <verse canonical="true" osisID="1Esd.9.14">Jonathan the son of Asahel and Jahzeiah the son of Tikvah undertook the matter on these terms, and Meshullam and Levi and Shabbethai served with them as judges.</verse>
+        <verse canonical="true" osisID="1Esd.9.15">And those who had returned from the captivity acted in accordance with all this.</verse>
+        <verse canonical="true" osisID="1Esd.9.16">Ezra the priest chose for himself the leading men of their fathers' houses, all of them by name; and on the new moon of the tenth month they began their sessions to investigate the matter.</verse>
+        <verse canonical="true" osisID="1Esd.9.17">And the cases of the men who had foreign wives were brought to an end by the new moon of the first month.</verse>
+        <verse canonical="true" osisID="1Esd.9.18">Of the priests those who were brought in and found to have foreign wives were:</verse>
+        <verse canonical="true" osisID="1Esd.9.19">of the sons of Jeshua the son of Jozadak and his brethren, Maaseiah, Eliezar, Jarib, and Jodan.</verse>
+        <verse canonical="true" osisID="1Esd.9.20">They pledged themselves to put away their wives, and to give rams in expiation of their error.</verse>
+        <verse canonical="true" osisID="1Esd.9.21">Of the sons of Immer: Hanani and Zebadiah and Maaseiah and Shemaiah and Jehiel and Azariah.</verse>
+        <verse canonical="true" osisID="1Esd.9.22">Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, and Nathanael, and Gedaliah, and Elasah.</verse>
+        <verse canonical="true" osisID="1Esd.9.23">And of the Levites: Jozabad and Shimei and Kelaiah, who was Kelita, and Pethahiah and Judah and Jonah.</verse>
+        <verse canonical="true" osisID="1Esd.9.24">Of the temple singers: Eliashib and Zaccur.</verse>
+        <verse canonical="true" osisID="1Esd.9.25">Of the gatekeepers: Shallum and Telem.</verse>
+        <verse canonical="true" osisID="1Esd.9.26">Of Israel: of the sons of Parosh: Ramiah, Izziah, Malchijah, Mijamin, and Eleazar, and Asibias, and Benaiah.</verse>
+        <verse canonical="true" osisID="1Esd.9.27">Of the sons of Elam: Mattaniah and Zechariah, Jehiel and Abdi, and Jeremoth and Elijah.</verse>
+        <verse canonical="true" osisID="1Esd.9.28">Of the sons of Zattu: Elioenai, Eliashib, Othoniah, Jeremoth, and Zabad and Zerdaiah.</verse>
+        <verse canonical="true" osisID="1Esd.9.29">Of the sons of Bebai: Jehohanan and Hananiah and Zabbai and Emathis.</verse>
+        <verse canonical="true" osisID="1Esd.9.30">Of the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, and Sheal and Jeremoth.</verse>
+        <verse canonical="true" osisID="1Esd.9.31">Of the sons of Addi: Naathus and Moossias, Laccunus and Naidus, and Bescaspasmys and Sesthel, and Belnuus and Manasseas.</verse>
+        <verse canonical="true" osisID="1Esd.9.32">Of the sons of Annan, Elionas and Asaias and Melchias and Sabbaias and Simon Chosamaeus.</verse>
+        <verse canonical="true" osisID="1Esd.9.33">Of the sons of Hashum: Mattenai and Mattattah and Zabad and Eliphelet and Manasseh and Shimei.</verse>
+        <verse canonical="true" osisID="1Esd.9.34">Of the sons of Bani: Jeremai, Maadai, Amram, Joel, Mamdai and Bedeiah and Vaniah, Carabasion and Eliashib and Machnadebai, Eliasis, Binnui, Elialis, Shimei, Shelemiah, Nethaniah. Of the sons of Ezora: Shashai, Azarel, Azael, Shemaiah, Amariah, Joseph.</verse>
+        <verse canonical="true" osisID="1Esd.9.35">Of the sons of Nebo: Mattithiah, Zabad, Iddo, Joel, Benaiah.</verse>
+        <verse canonical="true" osisID="1Esd.9.36">All these had married foreign women, and they put them away with their children.</verse>
+        <verse canonical="true" osisID="1Esd.9.37">The priests and the Levites and the men of Israel settled in Jerusalem and in the country. On the new moon of the seventh month, when the sons of Israel were in their settlements,</verse>
+        <verse canonical="true" osisID="1Esd.9.38">the whole multitude gathered with one accord into the open square before the east gate of the temple;</verse>
+        <verse canonical="true" osisID="1Esd.9.39">and they told Ezra the chief priest and reader to bring the law of Moses which had been given by the Lord God of Israel.</verse>
+        <verse canonical="true" osisID="1Esd.9.40">So Ezra the chief priest brought the law, for all the multitude, men and women, and all the priests to hear the law, on the new moon of the seventh month.</verse>
+        <verse canonical="true" osisID="1Esd.9.41">And he read aloud in the open square before the gate of the temple from early morning until midday, in the presence of both men and women; and all the multitude gave attention to the law.</verse>
+        <verse canonical="true" osisID="1Esd.9.42">Ezra the priest and reader of the law stood on the wooden platform which had been prepared;</verse>
+        <verse canonical="true" osisID="1Esd.9.43">and beside him stood Mattathiah, Shema, Anaiah, Azariah, Uriah, Hezekiah, and Baalsamus on his right hand,</verse>
+        <verse canonical="true" osisID="1Esd.9.44">and on his left Pedaiah, Mishael, Malchijah, Lothasubus, Nabariah, and Zechariah.</verse>
+        <verse canonical="true" osisID="1Esd.9.45">Then Ezra took up the book of the law in the sight of the multitude, for he had the place of honor in the presence of all.</verse>
+        <verse canonical="true" osisID="1Esd.9.46">And when he opened the law, they all stood erect. And Ezra blessed the Lord God Most High, the God of hosts, the Almighty;</verse>
+        <verse canonical="true" osisID="1Esd.9.47">and all the multitude answered, "Amen." And they lifted up their hands, and fell to the ground and worshiped the Lord.</verse>
+        <verse canonical="true" osisID="1Esd.9.48">Jeshua and Anniuth and Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah and Kelita, Azariah and Jozabad, Hanan, Pelaiah, the Levites, taught the law of the Lord, at the same time explaining what was read.</verse>
+        <verse canonical="true" osisID="1Esd.9.49">Then Attharates said to Ezra the chief priest and reader, and to the Levites who were teaching the multitude, and to all,</verse>
+        <verse canonical="true" osisID="1Esd.9.50">"This day is holy to the Lord" -- now they were all weeping as they heard the law --</verse>
+        <verse canonical="true" osisID="1Esd.9.51">"so go your way, eat the fat and drink the sweet, and send portions to those who have none;</verse>
+        <verse canonical="true" osisID="1Esd.9.52">for the day is holy to the Lord; and do not be sorrowful, for the Lord will exalt you."</verse>
+        <verse canonical="true" osisID="1Esd.9.53">And the Levites commanded all the people, saying, "This day is holy; do not be sorrowful."</verse>
+        <verse canonical="true" osisID="1Esd.9.54">Then they all went their way, to eat and drink and enjoy themselves, and to give portions to those who had none, and to make great rejoicing;</verse>
+        <verse canonical="true" osisID="1Esd.9.55">because they were inspired by the words which they had been taught. And they came together.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>
